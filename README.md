@@ -508,6 +508,7 @@
 
 ## Go 
 
+- [spearson78/gitnostr](https://github.com/spearson78/gitnostr) - Git integration for Nostr that supports creation and cloning of repositories and managing permissions of to access the repositorie
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 - [unitoftime/rtcnet](https://github.com/unitoftime/rtcnet) - Provides a webrtc implementation of the standard net.Conn interface
 - [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
