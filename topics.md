@@ -2435,6 +2435,7 @@
 
 ## others 
 
+- [spearson78/gitnostr](https://github.com/spearson78/gitnostr) - Git integration for Nostr that supports creation and cloning of repositories and managing permissions of to access the repositorie
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 - [arnaucube/goCaptcha](https://github.com/arnaucube/goCaptcha) - captcha server, with own datasets
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
