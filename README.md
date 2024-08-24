@@ -508,6 +508,7 @@
 
 ## Go 
 
+- [Jorropo/go-libp2p-i2p-transport](https://github.com/Jorropo/go-libp2p-i2p-transport) - Experimental I2P transport for libp2p.
 - [spearson78/gitnostr](https://github.com/spearson78/gitnostr) - Git integration for Nostr that supports creation and cloning of repositories and managing permissions of to access the repositorie
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 - [unitoftime/rtcnet](https://github.com/unitoftime/rtcnet) - Provides a webrtc implementation of the standard net.Conn interface
@@ -1955,7 +1956,7 @@
 - [siratama/Flash-To-Haxe-Converter](https://github.com/siratama/Flash-To-Haxe-Converter) - 
 - [xuset/planktos](https://github.com/xuset/planktos) - Serving websites over bittorrent
 - [vfleaking/uoj](https://github.com/vfleaking/uoj) - Universal Online Judge
-- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [dosyago/dn](https://github.com/dosyago/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
 - [renatodex/grider](https://github.com/renatodex/grider) - A Block Editor designed to create Tabletop Dungeon Maps
 - [arvindpunk/peer2peer-message](https://github.com/arvindpunk/peer2peer-message) - Peer 2 peer messaging sample app via WebRTC (using framework peer.js)
