@@ -2435,6 +2435,7 @@
 
 ## others 
 
+- [Jorropo/go-libp2p-i2p-transport](https://github.com/Jorropo/go-libp2p-i2p-transport) - Experimental I2P transport for libp2p.
 - [spearson78/gitnostr](https://github.com/spearson78/gitnostr) - Git integration for Nostr that supports creation and cloning of repositories and managing permissions of to access the repositorie
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 - [arnaucube/goCaptcha](https://github.com/arnaucube/goCaptcha) - captcha server, with own datasets
@@ -2925,7 +2926,7 @@
 - [yanc0/goyaniv](https://github.com/yanc0/goyaniv) - Online, multiplayer, yaniv card game
 - [clagraff/devoid](https://github.com/clagraff/devoid) - Devoid: a multiplayer-first, real-time roguelike engine & client
 - [renom/fastbot](https://github.com/renom/fastbot) - Fastbot is a Golang app which implements a bot for Battle for Wesnoth that intended to automatically host multiplayer games, particularly to host Fast tournament games.
-- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [dosyago/dn](https://github.com/dosyago/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [Sniki/Lenovo-Thinkpad-T440P-Clover](https://github.com/Sniki/Lenovo-Thinkpad-T440P-Clover) - Lenovo ThinkPad T440P
 - [K4thos/Ikemen_GO](https://github.com/K4thos/Ikemen_GO) - 
