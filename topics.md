@@ -1016,6 +1016,7 @@
 - [ikemen-engine/Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 - [salt-die/terminal_dungeon](https://github.com/salt-die/terminal_dungeon) - A raycasting library for your terminal!
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
+- [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
 - [EngoEngine/engo](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go.
 - [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
