@@ -306,7 +306,6 @@
 
 ## C# # 
 
-- [dustinmoris/ThreatModellingGame](https://github.com/dustinmoris/ThreatModellingGame) - The Elevation of Privilege (EoP) Card Game for Remote teams
 - [neoeinstein/purpleonion](https://github.com/neoeinstein/purpleonion) - The Purple Onion Router: a managed implementation of the Tor Onion Router
 - [krzys-h/SteamStreaming](https://github.com/krzys-h/SteamStreaming) - An attempt at a cleanroom reimplementation of the Steam In-Home Streaming protocol
 - [Crul/Rogueskiv](https://github.com/Crul/Rogueskiv) - A roguelite game, mashup of Eskiv and the countless Roguelike games
