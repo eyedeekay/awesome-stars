@@ -2661,7 +2661,6 @@
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 - [hyphanet/website](https://github.com/hyphanet/website) - Hyphanet static website generator
 - [yuva670/ipfs-go-client](https://github.com/yuva670/ipfs-go-client) - This is a simple client for IPFS - add and receive files to/from ipfs
-- [dustinmoris/ThreatModellingGame](https://github.com/dustinmoris/ThreatModellingGame) - The Elevation of Privilege (EoP) Card Game for Remote teams
 - [oshow/go-sample-qr-server](https://github.com/oshow/go-sample-qr-server) - go sample program: a server that translates from string to QR code
 - [ZhangZl-65535/webrtc_server_golang](https://github.com/ZhangZl-65535/webrtc_server_golang) - translate https://github.com/ddssingsong/webrtc_server_java to golang
 - [brave/go-translate](https://github.com/brave/go-translate) - Translation adapter / relay server for Brave
