@@ -800,7 +800,7 @@
 - [tv42/alone](https://github.com/tv42/alone) - Go Alone is an experiment into running Go as an appliance-oriented operating system
 - [imgk/shadow](https://github.com/imgk/shadow) - A rule-based transparent proxy for Windows, Linux, macOS
 - [vishvananda/netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [goproxy/goproxy](https://github.com/goproxy/goproxy) - A minimalist Go module proxy handler.
 - [hajimehoshi/go2dotnet](https://github.com/hajimehoshi/go2dotnet) - A converter from Go to .NET (C#)
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
