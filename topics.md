@@ -1743,7 +1743,6 @@
 - [maciekmm/container-tabs-sidebar](https://github.com/maciekmm/container-tabs-sidebar) - Firefox addon aiming to utilize screen estate more efficiently by showing tabs in a sidebar grouped by privacy containers. Inspired by TreeStyleTab.
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [msp301/pinbox-server](https://github.com/msp301/pinbox-server) - Self-hosted webmail client greatly inspired by Google Inbox (Backend)
 - [btcsuite/btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
@@ -2015,7 +2014,7 @@
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
 - [alfg/ping.js](https://github.com/alfg/ping.js) - :bell: Ping the web with Javascript.
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
