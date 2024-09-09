@@ -2447,7 +2447,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Milor123/Motolora-Unlock](https://github.com/Milor123/Motolora-Unlock) - Script that generate the id of Motorola Phones for get the unlock bootloader
 - [laginimaineb/Alohamora](https://github.com/laginimaineb/Alohamora) - Bootloader unlocking code for Motorola devices
-- [globaleaks/GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
+- [globaleaks/GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
@@ -2920,7 +2920,7 @@
 - [streamr-dev/streamr-client-javascript](https://github.com/streamr-dev/streamr-client-javascript) - JS library for interacting with Streamr APIs: publishing and subscribing to data, creating streams, etc.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 
