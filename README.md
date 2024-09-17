@@ -2800,7 +2800,7 @@
 - [avleen/bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
 - [hfutxqd/T1700-Hackintosh](https://github.com/hfutxqd/T1700-Hackintosh) - Hackintosh(10.13.4) for Dell T1700
 - [the-raspberry-pi-guy/game_stream](https://github.com/the-raspberry-pi-guy/game_stream) - This repository contains all of the code and installation files for Moonlight - a piece of software that allows you to stream fully-fledged PC games to a Raspberry Pi using Nvidia's Geforce Experience
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Deploy Multiple Docker Containers in a Hasty Manner
 - [zamaudio/cross-apple](https://github.com/zamaudio/cross-apple) - Scripts to automate installation of cross-compiling Apple toolchain under Debian.
 - [ogra1/mac-spoofer-snap](https://github.com/ogra1/mac-spoofer-snap) - 
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
