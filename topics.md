@@ -1107,7 +1107,6 @@
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [no-src/gofs](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box based on Golang
 - [cornelk/gitlab2gitea](https://github.com/cornelk/gitlab2gitea) - Migration tool from GitLab to Gitea
-- [crgimenes/atomic](https://github.com/crgimenes/atomic) - ATOMIC, a modern BBS engine
 - [waldirborbajr/kvstok](https://github.com/waldirborbajr/kvstok) - KVSToK - is a CLI-base KEY VALUE storage
 - [digitaldata-cz/tarfs](https://github.com/digitaldata-cz/tarfs) - Golang library with in-memory http.Filesystem from tar archives.
 - [go2hx/go2hx](https://github.com/go2hx/go2hx) - Go to Haxe source-to-source compiler
@@ -1357,7 +1356,6 @@
 - [TwiN/go-color](https://github.com/TwiN/go-color) - A lightweight, simple and cross-platform package to colorize text in terminals
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [cornelk/gitlab2gitea](https://github.com/cornelk/gitlab2gitea) - Migration tool from GitLab to Gitea
-- [crgimenes/atomic](https://github.com/crgimenes/atomic) - ATOMIC, a modern BBS engine
 - [TalesMUD/talesmud](https://github.com/TalesMUD/talesmud) - MUD development framework/platform written in Golang
 - [waldirborbajr/kvstok](https://github.com/waldirborbajr/kvstok) - KVSToK - is a CLI-base KEY VALUE storage
 - [digitaldata-cz/tarfs](https://github.com/digitaldata-cz/tarfs) - Golang library with in-memory http.Filesystem from tar archives.
@@ -2198,7 +2196,6 @@
 ## lua 
 
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
-- [crgimenes/atomic](https://github.com/crgimenes/atomic) - ATOMIC, a modern BBS engine
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
