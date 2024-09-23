@@ -557,7 +557,6 @@
 - [sergi/go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
 - [cornelk/gitlab2gitea](https://github.com/cornelk/gitlab2gitea) - Migration tool from GitLab to Gitea
 - [prometheus-community/pro-bing](https://github.com/prometheus-community/pro-bing) - A library for creating continuous probers
-- [crgimenes/atomic](https://github.com/crgimenes/atomic) - ATOMIC, a modern BBS engine
 - [TalesMUD/talesmud](https://github.com/TalesMUD/talesmud) - MUD development framework/platform written in Golang
 - [chrisfarms/nntp](https://github.com/chrisfarms/nntp) - NNTP package for go (golang)
 - [maxymania/go-nntp](https://github.com/maxymania/go-nntp) - NNTP server for the go language. Based/Extended from https://github.com/dustin/go-nntp
