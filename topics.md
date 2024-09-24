@@ -460,6 +460,7 @@
 - [AnnalisaDB/family-tree](https://github.com/AnnalisaDB/family-tree) - The "family-tree" project is a web page which allows user to create, manage, upload and download family trees in JSON, SVG or PNG formats.
 - [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
 - [simon987/od-database](https://github.com/simon987/od-database) - Distributed crawler, database and web frontend for public directories indexing
+- [globaleaks/whistleblowing-software](https://github.com/globaleaks/whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 
 ## bot 
 
