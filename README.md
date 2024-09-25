@@ -507,6 +507,7 @@
 
 ## Go 
 
+- [matrix-org/go-neb](https://github.com/matrix-org/go-neb) - Extensible matrix bot written in Go
 - [Jorropo/go-libp2p-i2p-transport](https://github.com/Jorropo/go-libp2p-i2p-transport) - Experimental I2P transport for libp2p.
 - [spearson78/gitnostr](https://github.com/spearson78/gitnostr) - Git integration for Nostr that supports creation and cloning of repositories and managing permissions of to access the repositorie
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
@@ -1626,7 +1627,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [zenhotels/astranet](https://github.com/zenhotels/astranet) - A Go (golang) library for managing highly concurrent independent network streams.
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [Netflix/signal-wrapper](https://github.com/Netflix/signal-wrapper) - 
 - [mvdan/fdroidcl](https://github.com/mvdan/fdroidcl) - F-Droid desktop client
 - [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - fake a machine
