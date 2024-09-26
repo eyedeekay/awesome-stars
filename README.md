@@ -1627,7 +1627,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [zenhotels/astranet](https://github.com/zenhotels/astranet) - A Go (golang) library for managing highly concurrent independent network streams.
-- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [Netflix/signal-wrapper](https://github.com/Netflix/signal-wrapper) - 
 - [mvdan/fdroidcl](https://github.com/mvdan/fdroidcl) - F-Droid desktop client
 - [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - fake a machine
@@ -2800,7 +2800,7 @@
 - [avleen/bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
 - [hfutxqd/T1700-Hackintosh](https://github.com/hfutxqd/T1700-Hackintosh) - Hackintosh(10.13.4) for Dell T1700
 - [the-raspberry-pi-guy/game_stream](https://github.com/the-raspberry-pi-guy/game_stream) - This repository contains all of the code and installation files for Moonlight - a piece of software that allows you to stream fully-fledged PC games to a Raspberry Pi using Nvidia's Geforce Experience
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [zamaudio/cross-apple](https://github.com/zamaudio/cross-apple) - Scripts to automate installation of cross-compiling Apple toolchain under Debian.
 - [ogra1/mac-spoofer-snap](https://github.com/ogra1/mac-spoofer-snap) - 
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
