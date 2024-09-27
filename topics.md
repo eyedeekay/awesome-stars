@@ -1944,7 +1944,7 @@
 - [jupnp/jupnp](https://github.com/jupnp/jupnp) - UPnP/DLNA library for Java
 - [chaoyangnz/gava](https://github.com/chaoyangnz/gava) - 🚀 A sandboxed VM any Java developer can afford
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2023 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2024 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 - [HouariZegai/SpyGen](https://github.com/HouariZegai/SpyGen) - Trojan :snake: (keylogger, take screenshots, open your webcam) :unlock:
 - [pavlo-v-chernykh/keystore-go](https://github.com/pavlo-v-chernykh/keystore-go) - A Go (golang) implementation of Java KeyStore encoder/decoder
 - [jitsi/ice4j](https://github.com/jitsi/ice4j) - A Java implementation of the ICE protocol
@@ -1988,7 +1988,7 @@
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [rpnow/rpnow](https://github.com/rpnow/rpnow) - The Do-It-Yourself Roleplay Chat Solution
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2023 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2024 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [hewiefreeman/GopherGameServer](https://github.com/hewiefreeman/GopherGameServer) - :trophy: Feature packed, easy-to-use game server API for Go back-ends and Javascript clients. Tutorials and examples included!
 - [owenthereal/godzilla](https://github.com/owenthereal/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
@@ -2358,7 +2358,7 @@
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [rpnow/rpnow](https://github.com/rpnow/rpnow) - The Do-It-Yourself Roleplay Chat Solution
 - [tlhunter/Cobalt-Calibur-3](https://github.com/tlhunter/Cobalt-Calibur-3) - DEFUNCT: HTML5 and Node.js multiplayer browser game from 2013
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2023 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2024 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [stellarterm/stellarterm](https://github.com/stellarterm/stellarterm) - Advanced web based trading client for the Stellar network. 📈📊💹💱
 - [imfunniee/NoOS](https://github.com/imfunniee/NoOS) - 🚀 An OS launcher that runs on your current OS
