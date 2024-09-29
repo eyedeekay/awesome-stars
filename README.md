@@ -1222,7 +1222,6 @@
 - [brave-intl/bat-go](https://github.com/brave-intl/bat-go) - Pass "go", collect 200 BAT
 - [DataDog/gohai](https://github.com/DataDog/gohai) - System information collector
 - [arkizenty-dev/finfetch](https://github.com/arkizenty-dev/finfetch) - A simple command line tool used to show time written in Go
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [cjdelisle/goposit](https://github.com/cjdelisle/goposit) - Library for Posit math in golang
@@ -1993,6 +1992,7 @@
 - [travisdmathis/cdrw-frontend](https://github.com/travisdmathis/cdrw-frontend) - Frontend for Decentralized Certificate of Deposit built on Ethereum in 32hrs for ETHBoston
 - [slate/slate](https://github.com/slate/slate) - Slate IRC client
 - [retrohacker/peerweb.js](https://github.com/retrohacker/peerweb.js) - A client side library for fetching and rendering a static website via torrent over WebRTC
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [PursuanceProject/pursuance](https://github.com/PursuanceProject/pursuance) - Pursuance: end-to-end encrypted task management optimized for large numbers of volunteers. We are building a vast and formidable ecosystem of opposition to institutionalized injustice.
 - [Jorropo/js-libp2p-i2p](https://github.com/Jorropo/js-libp2p-i2p) - This the transport and connection of i2p for js-libp2p.
