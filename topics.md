@@ -3366,7 +3366,7 @@
 - [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
 - [sintaxi/surge](https://github.com/sintaxi/surge) - CLI for the surge.sh CDN
 - [JackHack96/dell-xps-9570-ubuntu-respin](https://github.com/JackHack96/dell-xps-9570-ubuntu-respin) - Collection of scripts and tweaks to adapt Ubuntu running smooth on Dell XPS 15 9570.
-- [tailhook/resolv-conf](https://github.com/tailhook/resolv-conf) - The /etc/resolv.conf file parser in rust
+- [hickory-dns/resolv-conf](https://github.com/hickory-dns/resolv-conf) - The /etc/resolv.conf file parser in rust
 - [swaywm/wlr-protocols](https://github.com/swaywm/wlr-protocols) - Wayland protocols designed for use in wlroots (and other compositors)
 - [sundaysec/evil-ip](https://github.com/sundaysec/evil-ip) - Whatsapp Ip discloser
 - [carnal0wnage/python_lnk_maker](https://github.com/carnal0wnage/python_lnk_maker) - Make Windows LNK file with python (pylnk)
