@@ -2676,7 +2676,7 @@
 - [p-e-w/hegemon](https://github.com/p-e-w/hegemon) - A modular system monitor written in Rust
 - [rust-bitcoin/rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-- [tailhook/resolv-conf](https://github.com/tailhook/resolv-conf) - The /etc/resolv.conf file parser in rust
+- [hickory-dns/resolv-conf](https://github.com/hickory-dns/resolv-conf) - The /etc/resolv.conf file parser in rust
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [dgiagio/warp](https://github.com/dgiagio/warp) - Create self-contained single binary applications
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
