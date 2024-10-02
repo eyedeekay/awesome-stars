@@ -196,7 +196,6 @@
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) - Tunnel TCP connections over the Tox protocol
 - [termux/termux-auth](https://github.com/termux/termux-auth) - Password authentication utilities for Termux.
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 - [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
@@ -205,7 +204,7 @@
 - [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
 - [HnkGitHub/MsLink](https://github.com/HnkGitHub/MsLink) - Create and Delete Symbolic Links for Windows
 - [vikasnkumar/hotpatch](https://github.com/vikasnkumar/hotpatch) - Hot patching executables on Linux using .so file injection
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming Resources
+- [0xFA11/GameNetworkingResources](https://github.com/0xFA11/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming Resources
 - [Tribler/self-compile-Android](https://github.com/Tribler/self-compile-Android) - Autonomous smartphone app. Capable of self-compilation, mutation, and viral spreading. World-first proof-of-principle to bypass Internet kill switches.
 - [psyc/libpsyc](https://github.com/psyc/libpsyc) - 
 - [majestrate/trans2p](https://github.com/majestrate/trans2p) - 
@@ -1662,7 +1661,7 @@
 - [evilsocket/sg1](https://github.com/evilsocket/sg1) - A wanna be swiss army knife for data encryption, exfiltration and covert communication.
 - [zcrawl/zcrawl](https://github.com/zcrawl/zcrawl) - An open source web crawling platform
 - [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go
-- [nsheridan/cashier](https://github.com/nsheridan/cashier) - A self-service CA for OpenSSH
+- [cashier-go/cashier](https://github.com/cashier-go/cashier) - A self-service CA for OpenSSH
 - [burkemw3/syncthingfuse](https://github.com/burkemw3/syncthingfuse) - 
 - [jpillora/go-tcp-proxy](https://github.com/jpillora/go-tcp-proxy) - A small TCP proxy written in Go
 - [keroserene/snowflake](https://github.com/keroserene/snowflake) - WebRTC Pluggable Transport - the original snowflake repo
@@ -2019,6 +2018,7 @@
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [5aharsh/audio-stream](https://github.com/5aharsh/audio-stream) - Audio Streaming in JS - https://audio-stream.js.org
 - [ournetworks/2019](https://github.com/ournetworks/2019) - ARCHIVED--Coordination for State of Our Networks 2019  on September 20–22, 2019 😱
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [ciscocsirt/GOSINT](https://github.com/ciscocsirt/GOSINT) - The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm) - Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
