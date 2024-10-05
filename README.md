@@ -350,7 +350,7 @@
 - [isotoxin/isotoxin](https://github.com/isotoxin/isotoxin) - Isotoxin source
 - [R-Rudolph/OmegaRPG](https://github.com/R-Rudolph/OmegaRPG) - OmegaRPG is a free, open-source Virtual Tabletop application.
 - [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2024 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+- [oracle/graaljs](https://github.com/oracle/graaljs) - A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
 - [tevador/RandomX](https://github.com/tevador/RandomX) - Proof of work algorithm based on random code execution
 - [everdox/InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
 - [ewust/telex](https://github.com/ewust/telex) - Telex anticensorship prototype
