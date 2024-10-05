@@ -1943,7 +1943,7 @@
 - [jupnp/jupnp](https://github.com/jupnp/jupnp) - UPnP/DLNA library for Java
 - [chaoyangnz/gava](https://github.com/chaoyangnz/gava) - 🚀 A sandboxed VM any Java developer can afford
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2024 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+- [oracle/graaljs](https://github.com/oracle/graaljs) - A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
 - [HouariZegai/SpyGen](https://github.com/HouariZegai/SpyGen) - Trojan :snake: (keylogger, take screenshots, open your webcam) :unlock:
 - [pavlo-v-chernykh/keystore-go](https://github.com/pavlo-v-chernykh/keystore-go) - A Go (golang) implementation of Java KeyStore encoder/decoder
 - [jitsi/ice4j](https://github.com/jitsi/ice4j) - A Java implementation of the ICE protocol
@@ -1987,7 +1987,7 @@
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [rpnow/rpnow](https://github.com/rpnow/rpnow) - The Do-It-Yourself Roleplay Chat Solution
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2024 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+- [oracle/graaljs](https://github.com/oracle/graaljs) - A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [hewiefreeman/GopherGameServer](https://github.com/hewiefreeman/GopherGameServer) - :trophy: Feature packed, easy-to-use game server API for Go back-ends and Javascript clients. Tutorials and examples included!
 - [owenthereal/godzilla](https://github.com/owenthereal/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
@@ -2357,7 +2357,7 @@
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [rpnow/rpnow](https://github.com/rpnow/rpnow) - The Do-It-Yourself Roleplay Chat Solution
 - [tlhunter/Cobalt-Calibur-3](https://github.com/tlhunter/Cobalt-Calibur-3) - DEFUNCT: HTML5 and Node.js multiplayer browser game from 2013
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2024 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+- [oracle/graaljs](https://github.com/oracle/graaljs) - A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [stellarterm/stellarterm](https://github.com/stellarterm/stellarterm) - Advanced web based trading client for the Stellar network. 📈📊💹💱
 - [imfunniee/NoOS](https://github.com/imfunniee/NoOS) - 🚀 An OS launcher that runs on your current OS
@@ -4304,7 +4304,6 @@
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 - [vespene-io/_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [l-n-s/i2plib](https://github.com/l-n-s/i2plib) - 🐍 i2plib: A modern asynchronous library for building I2P applications
 - [Tribler/py-ipv8](https://github.com/Tribler/py-ipv8) - Python implementation of Tribler's IPv8 p2p-networking layer
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
@@ -4411,7 +4410,6 @@
 - [EffectiveAF/effective](https://github.com/EffectiveAF/effective) - Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 
 ## redux 
 
