@@ -2633,7 +2633,6 @@
 - [prologic/alternative-internet](https://github.com/prologic/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
 - [o-oconnell/mp4grep](https://github.com/o-oconnell/mp4grep) - mp4grep is a CLI for transcribing and searching audio/video files
-- [adyxax/shell-game-launcher](https://github.com/adyxax/shell-game-launcher) - A modern dgamelaunch alternative.
 - [reiver/go-telnet](https://github.com/reiver/go-telnet) - Package telnet provides TELNET and TELNETS client and server implementations, for the Go programming language, in a style similar to the "net/http" library that is part of the Go standard library, inc
 - [houseabsolute/catalauncher](https://github.com/houseabsolute/catalauncher) - CLI tool to launch Cataclysm: Dark Days Ahead (https://cataclysmdda.org/) builds in a Docker container.
 - [mandatoryprogrammer/CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
