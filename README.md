@@ -688,7 +688,6 @@
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [0990/socks5](https://github.com/0990/socks5) - socks5 proxy,support tcp,udp
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
-- [adyxax/shell-game-launcher](https://github.com/adyxax/shell-game-launcher) - A modern dgamelaunch alternative.
 - [reiver/go-telnet](https://github.com/reiver/go-telnet) - Package telnet provides TELNET and TELNETS client and server implementations, for the Go programming language, in a style similar to the "net/http" library that is part of the Go standard library, inc
 - [houseabsolute/catalauncher](https://github.com/houseabsolute/catalauncher) - CLI tool to launch Cataclysm: Dark Days Ahead (https://cataclysmdda.org/) builds in a Docker container.
 - [palantir/go-java-launcher](https://github.com/palantir/go-java-launcher) - A simple Go program for launching Java programs from a fixed configuration. This program replaces Gradle-generated Bash launch scripts which are susceptible to attacks via injection of environment var
