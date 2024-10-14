@@ -521,7 +521,7 @@
 - [marcinwyszynski/popart](https://github.com/marcinwyszynski/popart) - POP3 server library for Go
 - [oxzi/xochimilco](https://github.com/oxzi/xochimilco) - X3DH, Double Ratchet and a straightforward E2E encryption library on top.
 - [bitnami/gonit](https://github.com/bitnami/gonit) - Drop-in replacement for monit written in Go, with Apache 2.0 license
-- [namecoin/heteronculous-horklump](https://github.com/namecoin/heteronculous-horklump) - Go port of Heteronculous (ptrace-based proxy leak detector).  Outreachy project.
+- [namecoin/sockstrace](https://github.com/namecoin/sockstrace) - Go port of Heteronculous (ptrace-based proxy leak detector).  Outreachy project.
 - [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [Danlock/searmage](https://github.com/Danlock/searmage) - Search images locally via a CLI, powered by Tesseract
@@ -1056,7 +1056,7 @@
 - [grumpyhome/grumpy](https://github.com/grumpyhome/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [etiennecossart/P2P_NTRU_OG](https://github.com/etiennecossart/P2P_NTRU_OG) - This code is sourced from Perlin Noise, https://github.com/perlin-network/noise, all credit to Perlin for the code.
 - [perlin-network/life](https://github.com/perlin-network/life) - A secure WebAssembly VM catered for decentralized applications.
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
+- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [tulir/mauview](https://github.com/tulir/mauview) - A Go TUI library based on tcell.
 - [trustbloc/edv](https://github.com/trustbloc/edv) - Encrypted data vault implementation in Golang - https://identity.foundation/edv-spec/
