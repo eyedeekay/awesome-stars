@@ -1469,7 +1469,7 @@
 - [i2pfs/i2pfsd](https://github.com/i2pfs/i2pfsd) - I2P-based high available shared filesystem server (doesn't work, yet)
 - [i2pfs/mount.i2pfs](https://github.com/i2pfs/mount.i2pfs) - I2P-based high available shared filesystem client (doesn't work, yet)
 - [pion/dcnet](https://github.com/pion/dcnet) - net interfaces over DataChannels
-- [minio/mc](https://github.com/minio/mc) - Unix like tools for MinIO Object Store.
+- [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
 - [dblokhin/gringo](https://github.com/dblokhin/gringo) - Alternative full Grin node on Golang (implementation of the MimbleWimble protocol) https://github.com/mimblewimble/grin
 - [shurcooL/vfsgen](https://github.com/shurcooL/vfsgen) - Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
