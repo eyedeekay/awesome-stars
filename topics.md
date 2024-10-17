@@ -12,7 +12,6 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
-- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -304,10 +303,6 @@
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
-## archlinux 
-
-- [Kharacternyk/pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
-
 ## arduino 
 
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
@@ -319,7 +314,6 @@
 ## artificial-intelligence 
 
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
 
 ## atom 
@@ -383,7 +377,7 @@
 
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
-- [minio/mc](https://github.com/minio/mc) - Unix like tools for MinIO Object Store.
+- [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
 
 ## azure 
 
@@ -536,7 +530,6 @@
 
 - [meetkool/FREE-GPT-4](https://github.com/meetkool/FREE-GPT-4) - FREEGPT4 is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI.
 - [promptslab/openai-detector](https://github.com/promptslab/openai-detector) - AI classifier for indicating AI-written text
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 
 ## chatgpt-api 
 
@@ -1298,7 +1291,7 @@
 - [brimstone/go-shellcode](https://github.com/brimstone/go-shellcode) - Load shellcode into a new process
 - [libp2p/go-libp2p-webrtc-direct](https://github.com/libp2p/go-libp2p-webrtc-direct) - A libp2p transport that enables browser-to-server, and server-to-server, direct communication over WebRTC without requiring signalling servers
 - [pion/dcnet](https://github.com/pion/dcnet) - net interfaces over DataChannels
-- [minio/mc](https://github.com/minio/mc) - Unix like tools for MinIO Object Store.
+- [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
 - [shurcooL/vfsgen](https://github.com/shurcooL/vfsgen) - Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
@@ -1607,7 +1600,7 @@
 - [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [pion/dcnet](https://github.com/pion/dcnet) - net interfaces over DataChannels
-- [minio/mc](https://github.com/minio/mc) - Unix like tools for MinIO Object Store.
+- [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
 - [dblokhin/gringo](https://github.com/dblokhin/gringo) - Alternative full Grin node on Golang (implementation of the MimbleWimble protocol) https://github.com/mimblewimble/grin
 - [NyaaPantsu/nyaa](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -1785,7 +1778,6 @@
 - [gitcoinco/web](https://github.com/gitcoinco/web) - Grow Open Source
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [trailofbits/twa](https://github.com/trailofbits/twa) - A tiny web auditor with strong opinions.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [namecoin/ncdns](https://github.com/namecoin/ncdns) - :globe_with_meridians: Namecoin to DNS bridge daemon
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
@@ -2957,6 +2949,7 @@
 - [juntaki/javago](https://github.com/juntaki/javago) - Java JNI wrapper code generator for Go
 - [mlb5000/CFunctionWrapperGenerator](https://github.com/mlb5000/CFunctionWrapperGenerator) - Generates C-Function wrappers and mocks for use in C++
 - [sorcix/irc](https://github.com/sorcix/irc) - Package irc implements generic support for the IRC protocol in Go.
+- [Kharacternyk/pacwall](https://github.com/Kharacternyk/pacwall) - A live wallpaper that shows the dependency graph and status of installed packages.
 - [bkong999/COVNet](https://github.com/bkong999/COVNet) - Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT
 - [diafygi/webrtc-chat](https://github.com/diafygi/webrtc-chat) - Encrypted P2P Chat Demo: https://diafygi.github.io/webrtc-chat/
 - [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/
