@@ -1897,6 +1897,7 @@
 
 ## JavaScript 
 
+- [linuxserver/emulatorjs](https://github.com/linuxserver/emulatorjs) - Self hosted web based retro emulation front end with rom and art management.
 - [SverreNystad/gpt-dungeon-master](https://github.com/SverreNystad/gpt-dungeon-master) - Welcome to the GPT Dungeon Master repository! This project harnesses the power of GPT models to create a dynamic and responsive Dungeon Master (DM) for tabletop role-playing games (RPGs). Whether you'
 - [SwiftIRC/Web-IRC](https://github.com/SwiftIRC/Web-IRC) - A feature-rich Websocket IRC client in JavaScript
 - [x0th/Local-PGP](https://github.com/x0th/Local-PGP) - In-browser PGP encryption and decryption.
