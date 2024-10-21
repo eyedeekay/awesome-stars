@@ -1352,7 +1352,6 @@
 - [cornelk/gitlab2gitea](https://github.com/cornelk/gitlab2gitea) - Migration tool from GitLab to Gitea
 - [TalesMUD/talesmud](https://github.com/TalesMUD/talesmud) - MUD development framework/platform written in Golang
 - [waldirborbajr/kvstok](https://github.com/waldirborbajr/kvstok) - KVSToK - is a CLI-base KEY VALUE storage
-- [digitaldata-cz/tarfs](https://github.com/digitaldata-cz/tarfs) - Golang library with in-memory http.Filesystem from tar archives.
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [go2hx/go2hx](https://github.com/go2hx/go2hx) - Go to Haxe source-to-source compiler
 - [fyne-io/fyne-cross](https://github.com/fyne-io/fyne-cross) - Cross compiler tool for Fyne apps
