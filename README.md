@@ -275,6 +275,7 @@
 - [majestrate/i2p-tools](https://github.com/majestrate/i2p-tools) - Assorted I2P tools and scripts
 - [REhints/Publications](https://github.com/REhints/Publications) - Conference slides and White-papers
 - [aagallag/hid_gadget_test](https://github.com/aagallag/hid_gadget_test) - Linux USB HID Gadget Test Application
+- [linuxboot/linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
 - [glouw/littlewolf](https://github.com/glouw/littlewolf) - A tiny software graphics and game engine
 - [glouw/andvaranaut](https://github.com/glouw/andvaranaut) - A dungeon crawler
 - [rockchip-linux/kernel](https://github.com/rockchip-linux/kernel) - BSP kernel source
@@ -350,7 +351,7 @@
 - [isotoxin/isotoxin](https://github.com/isotoxin/isotoxin) - Isotoxin source
 - [R-Rudolph/OmegaRPG](https://github.com/R-Rudolph/OmegaRPG) - OmegaRPG is a free, open-source Virtual Tabletop application.
 - [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
+- [oracle/graaljs](https://github.com/oracle/graaljs) - GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
 - [tevador/RandomX](https://github.com/tevador/RandomX) - Proof of work algorithm based on random code execution
 - [everdox/InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
 - [ewust/telex](https://github.com/ewust/telex) - Telex anticensorship prototype
@@ -506,6 +507,7 @@
 
 ## Go 
 
+- [go-i2p/go-i2p](https://github.com/go-i2p/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
 - [matrix-org/go-neb](https://github.com/matrix-org/go-neb) - Extensible matrix bot written in Go
 - [Jorropo/go-libp2p-i2p-transport](https://github.com/Jorropo/go-libp2p-i2p-transport) - Experimental I2P transport for libp2p.
 - [spearson78/gitnostr](https://github.com/spearson78/gitnostr) - Git integration for Nostr that supports creation and cloning of repositories and managing permissions of to access the repositorie
@@ -1003,7 +1005,7 @@
 - [nxsre/sshfs-go](https://github.com/nxsre/sshfs-go) - A network filesystem client to connect to SSH servers [ implementation by golang ]
 - [jucie/basic](https://github.com/jucie/basic) - A compiler for BASIC programming language
 - [zot/go-fltk](https://github.com/zot/go-fltk) - Basic Go bindings for FLTK
-- [minekube/gate](https://github.com/minekube/gate) - High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy with Excellent Multi-Protocol Version Support - Velocity/Bungee Replacement - Ready for dev and large deploy!
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [cybozu-go/aptutil](https://github.com/cybozu-go/aptutil) - Go utilities for Debian APT repositories
 - [luoqeng/xmrlite-go](https://github.com/luoqeng/xmrlite-go) - monero wallet
@@ -1896,6 +1898,7 @@
 
 ## JavaScript 
 
+- [CodingTrain/Oregon-Trail](https://github.com/CodingTrain/Oregon-Trail) - A p5.js version of the Apple ][ Oregon Trail Game
 - [linuxserver/emulatorjs](https://github.com/linuxserver/emulatorjs) - Self hosted web based retro emulation front end with rom and art management.
 - [SverreNystad/gpt-dungeon-master](https://github.com/SverreNystad/gpt-dungeon-master) - Welcome to the GPT Dungeon Master repository! This project harnesses the power of GPT models to create a dynamic and responsive Dungeon Master (DM) for tabletop role-playing games (RPGs). Whether you'
 - [SwiftIRC/Web-IRC](https://github.com/SwiftIRC/Web-IRC) - A feature-rich Websocket IRC client in JavaScript
@@ -2446,7 +2449,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Milor123/Motolora-Unlock](https://github.com/Milor123/Motolora-Unlock) - Script that generate the id of Motorola Phones for get the unlock bootloader
 - [laginimaineb/Alohamora](https://github.com/laginimaineb/Alohamora) - Bootloader unlocking code for Motorola devices
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is free, open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
@@ -2598,7 +2601,6 @@
 ## Roff 
 
 - [mist64/cbmsrc](https://github.com/mist64/cbmsrc) - Original source code of various Commodore computers and peripherals.
-- [linuxboot/linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
 
 ## Ruby 
 
@@ -2621,7 +2623,7 @@
 
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [uw-pluverse/perses](https://github.com/uw-pluverse/perses) - language-agnostic program reducer.
-- [thed24/ascii-gen](https://github.com/thed24/ascii-gen) - A CLI tool that converts images to ASCII art.
+- [dominic-codespoti/ascii-gen](https://github.com/dominic-codespoti/ascii-gen) - A CLI tool that converts images to ASCII art.
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
 - [AS207960/acme-onion-ca](https://github.com/AS207960/acme-onion-ca) - 
 - [cyphernet-labs/rust-cyphernet](https://github.com/cyphernet-labs/rust-cyphernet) - Cyphernet is a set of libraries for privacy-preserving networking apps
@@ -2640,7 +2642,7 @@
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [bakape/shamichan](https://github.com/bakape/shamichan) - anonymous realtime imageboard focused on high performance and transparent moderation
 - [datrs/hypercore](https://github.com/datrs/hypercore) - Secure, distributed, append-only log
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [mozilla/cbindgen](https://github.com/mozilla/cbindgen) - A project for generating C bindings from Rust code
 - [resolvingarchitecture/i2p-client](https://github.com/resolvingarchitecture/i2p-client) - A SAMv3 I2P client for a local I2P instance. Can be ran within the Service Bus as a Network OS Service.
 - [agentofuser/git-remote-tor](https://github.com/agentofuser/git-remote-tor) - Seamless .onion and tor-ified git remotes
