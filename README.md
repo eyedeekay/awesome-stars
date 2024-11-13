@@ -2018,7 +2018,7 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [Happy0/ssb-chess-mithril](https://github.com/Happy0/ssb-chess-mithril) - A scuttlebutt chess client written using mithriljs
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
-- [5aharsh/audio-stream](https://github.com/5aharsh/audio-stream) - Audio Streaming in JS - https://audio-stream.js.org
+- [5aharsh/audio-stream](https://github.com/5aharsh/audio-stream) - Audio Streaming in JS
 - [ournetworks/2019](https://github.com/ournetworks/2019) - ARCHIVED--Coordination for State of Our Networks 2019  on September 20–22, 2019 😱
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [ciscocsirt/GOSINT](https://github.com/ciscocsirt/GOSINT) - The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
