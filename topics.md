@@ -3322,7 +3322,7 @@
 - [RTradeLtd/go-garlic-tcp-transport](https://github.com/RTradeLtd/go-garlic-tcp-transport) - 🚗 A new, more consistent and useful libp2p transport for ntcp-like messages over i2p
 - [MirzaAhmedBaig/UndoWhatsApp](https://github.com/MirzaAhmedBaig/UndoWhatsApp) - Android app that allow to see whatsapp deleted messages
 - [diskfs/go-diskfs](https://github.com/diskfs/go-diskfs) - 
-- [5aharsh/audio-stream](https://github.com/5aharsh/audio-stream) - Audio Streaming in JS - https://audio-stream.js.org
+- [5aharsh/audio-stream](https://github.com/5aharsh/audio-stream) - Audio Streaming in JS
 - [KorokEngine/Korok](https://github.com/KorokEngine/Korok) - korok.io - golang game engine
 - [Azure/golua](https://github.com/Azure/golua) - A Lua 5.3 engine implemented in Go
 - [deercreeklabs/lancaster](https://github.com/deercreeklabs/lancaster) - Apache Avro library for Clojure and ClojureScript
