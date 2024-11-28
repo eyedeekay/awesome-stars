@@ -1344,6 +1344,7 @@
 
 ## golang 
 
+- [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [unitoftime/rtcnet](https://github.com/unitoftime/rtcnet) - Provides a webrtc implementation of the standard net.Conn interface
 - [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
@@ -2276,6 +2277,7 @@
 
 ## monero 
 
+- [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [AthanorLabs/atomic-swap](https://github.com/AthanorLabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
 - [SChernykh/p2pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining
 - [minexmr2/minexmr2](https://github.com/minexmr2/minexmr2) - First open-source Monero mining pool using decentralized p2pool as a hashrate-liquidity provider for frequent payouts (approx. 2.1 times/hour)
