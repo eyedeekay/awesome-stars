@@ -1784,7 +1784,7 @@
 - [charlesannic/RotationLockBubble](https://github.com/charlesannic/RotationLockBubble) - Change the orientation of your screen only when you want.
 - [gngrOrg/gngr](https://github.com/gngrOrg/gngr) - a cross-platform browser focussed on privacy.
 - [torproject/jtorctl](https://github.com/torproject/jtorctl) - Tor controller, written in Java
-- [zapek/Xeres](https://github.com/zapek/Xeres) - A Peer-to-Peer (Friend-to-Friend), decentralized, encrypted and secure application designed for communication and sharing.
+- [zapek/Xeres](https://github.com/zapek/Xeres) - A Friend-to-Friend, decentralized and secure application for communication and sharing
 - [marek22k/I2PChatClient](https://github.com/marek22k/I2PChatClient) - A very simple I2P chat.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [mogoweb/chromium_webview](https://github.com/mogoweb/chromium_webview) - Android WebView wrapper based on chromium
