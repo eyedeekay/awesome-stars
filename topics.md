@@ -201,6 +201,7 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -696,7 +697,7 @@
 
 ## csharp 
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [0xFA11/GameNetworkingResources](https://github.com/0xFA11/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming Resources
 - [PeterZander/i2p-cs](https://github.com/PeterZander/i2p-cs) - I2P router in C#
 - [SamuelFisher/i2pdotnet](https://github.com/SamuelFisher/i2pdotnet) - .NET library for using the I2P Simple Anonymous Messaging (SAM v3.0) bridge
@@ -850,7 +851,7 @@
 ## dotnet 
 
 - [matiasinsaurralde/go-dotnet](https://github.com/matiasinsaurralde/go-dotnet) - Go wrapper for the .NET Core Runtime.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [byt3bl33d3r/SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR
 - [SamuelFisher/i2pdotnet](https://github.com/SamuelFisher/i2pdotnet) - .NET library for using the I2P Simple Anonymous Messaging (SAM v3.0) bridge
 
@@ -2141,7 +2142,6 @@
 - [writeas/writeas-cli](https://github.com/writeas/writeas-cli) - Command line client for Write.as / WriteFreely
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
@@ -2513,13 +2513,11 @@
 - [tjnull/TJ-OSINT-Notebook](https://github.com/tjnull/TJ-OSINT-Notebook) - This OSINT Notebook provides an overview of the tools, techniques, and resources that I use for a variety of situations when it comes to performing reconaissance and OSINT operations.  This Notebook h
 - [chainguard-dev/darkfiles](https://github.com/chainguard-dev/darkfiles) - Darkfiles finds orphaned files in container images and makes them to bad deeds
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Go Application Scanner
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [Atavic/legacy-user.js](https://github.com/Atavic/legacy-user.js) - A User.js file stripped down to the bone!
 - [kelvie/dcss-web-docker](https://github.com/kelvie/dcss-web-docker) - Dockerized web version of Dungeon Crawl Stone Soup
 - [jprendes/emception](https://github.com/jprendes/emception) - Run Emscripten in the browser
 - [AmyMoriyama/i2p-browser-maker-linux](https://github.com/AmyMoriyama/i2p-browser-maker-linux) - Makes it easy to get a preconfigured browser for I2P while on Linux
 - [adamff-dev/WiFi-Spam](https://github.com/adamff-dev/WiFi-Spam) - :email::satellite: Spam thousands of WiFi access points with custom SSIDs
-- [eyedeekay/sam-forwarder](https://github.com/eyedeekay/sam-forwarder) - i2ptunnel for Go applications, using SAM instead of I2CP.
 - [delicb/dzip](https://github.com/delicb/dzip) - Simple deterministic zip creation utility
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
 - [neilalexander/yggmail](https://github.com/neilalexander/yggmail) - End-to-end encrypted email for the mesh networking age
@@ -2851,7 +2849,6 @@
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [mikalv/donate.i2p.io](https://github.com/mikalv/donate.i2p.io) - 
 - [dsnet/sshtunnel](https://github.com/dsnet/sshtunnel) - SSH daemon for creating forward and reverse tunnels.
-- [RTradeLtd/libanonvpn](https://github.com/RTradeLtd/libanonvpn) - Library for TUN and TAP devices over I2P in Go Applications
 - [huyz97/darknet-dataset-2020](https://github.com/huyz97/darknet-dataset-2020) - Tor, I2P, ZeroNet, Freenet traffic data
 - [tevador/equix](https://github.com/tevador/equix) - A CPU-friendly client puzzle with instant verification
 - [tevador/hashx](https://github.com/tevador/hashx) - A family of pseudorandomly generated hash functions for proof-of-work and client puzzles
@@ -2874,7 +2871,6 @@
 - [robdelacruz/newsboard](https://github.com/robdelacruz/newsboard) - newsboard - a bulletin board and bookmark sharing site (inspired by HackerNews)
 - [limetext/lime-html](https://github.com/limetext/lime-html) - 
 - [gravitational/wormhole](https://github.com/gravitational/wormhole) - Wireguard based overlay network CNI plugin for kubernetes
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [fdac19/students](https://github.com/fdac19/students) - Background information about students
 - [ruoti/blockchain-simulation-framework](https://github.com/ruoti/blockchain-simulation-framework) - Simulation framework for blockchains
 - [ruoti/COVID-19](https://github.com/ruoti/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
@@ -3033,7 +3029,6 @@
 - [wrmsr/wava](https://github.com/wrmsr/wava) - Java backend/toolchain for WebAssembly
 - [Huawei-LTE-routers-mods/imei_generator](https://github.com/Huawei-LTE-routers-mods/imei_generator) - IMEI generator used in Huawei modified firmware
 - [EngoEngine/engoengine.github.io](https://github.com/EngoEngine/engoengine.github.io) - 
-- [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
 - [jackspirou/clientjs](https://github.com/jackspirou/clientjs) - Device information and digital fingerprinting written in pure JavaScript.
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [syncsynchalt/illustrated-tls12](https://github.com/syncsynchalt/illustrated-tls12) - The Illustrated TLS 1.2 Connection: Every byte explained
@@ -3067,7 +3062,6 @@
 - [holepunchto/dht-rpc](https://github.com/holepunchto/dht-rpc) - Make RPC calls over a Kademlia based DHT.
 - [holepunchto/hyperdht](https://github.com/holepunchto/hyperdht) - The DHT powering Hyperswarm
 - [stephanos/go-reactjs](https://github.com/stephanos/go-reactjs) - React.js server-side rendering with Go
-- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [mikix/deb2snap](https://github.com/mikix/deb2snap) - 
 - [garbados/dat-gateway](https://github.com/garbados/dat-gateway) - In-memory Dat to HTTP gateway
 - [RSenApps/nchainz](https://github.com/RSenApps/nchainz) - A High Performance, Decentralized Cryptocurrency Exchange
@@ -3128,7 +3122,6 @@
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [cjdelisle/goposit](https://github.com/cjdelisle/goposit) - Library for Posit math in golang
 - [everdox/InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
-- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [ewust/telex](https://github.com/ewust/telex) - Telex anticensorship prototype
 - [heroku/minitel-go](https://github.com/heroku/minitel-go) - A telex client for Go
 - [summitto/pgp-packet-library](https://github.com/summitto/pgp-packet-library) - Implementation of binary PGP protocol, as per RFC 4880
@@ -3304,7 +3297,6 @@
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 - [fragglet/ipxbox](https://github.com/fragglet/ipxbox) - Standalone DOSbox IPX-over-UDP server
-- [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [mattias-ohlsson/i2p-desktop](https://github.com/mattias-ohlsson/i2p-desktop) - i2p-desktop
 - [EinMByte/salti](https://github.com/EinMByte/salti) - ∫alti is a Firefox extension for I2P.
 - [khyperia/surface-nets](https://github.com/khyperia/surface-nets) - 
@@ -3409,7 +3401,6 @@
 - [vlall/Darksearch](https://github.com/vlall/Darksearch) - :mag::shipit: Search engine for hidden material. Scraping dark web onions, irc logs, deep web etc...
 - [jaredrummler/Bolts-Android](https://github.com/jaredrummler/Bolts-Android) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier.
 - [egbertbouman/tribler-webui](https://github.com/egbertbouman/tribler-webui) - 
-- [dsnet/udptunnel](https://github.com/dsnet/udptunnel) - Daemon for creating a simple VPN over UDP.
 - [StephenKing/FUDforum](https://github.com/StephenKing/FUDforum) - fudforum
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [absfs/afero](https://github.com/absfs/afero) - A FileSystem Abstraction System for Go
@@ -3750,7 +3741,6 @@
 - [Monero-Monitor/monero-monitor](https://github.com/Monero-Monitor/monero-monitor) - A Chrome extension for monitoring the Monero network
 - [sunrisedo/monero](https://github.com/sunrisedo/monero) - MONERO-API
 - [mripard/sunxi-mali](https://github.com/mripard/sunxi-mali) - 
-- [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [cfwprpht/libhb-master](https://github.com/cfwprpht/libhb-master) - LibHomebrew. A PS4 Homebrewing Library.
 - [xXxTheDarkprogramerxXx/PS3Tools](https://github.com/xXxTheDarkprogramerxXx/PS3Tools) - Open Source PlayStation Tools
 - [ALEXZZZ9/PS4-5.01-WebKit-Exploit-PoC](https://github.com/ALEXZZZ9/PS4-5.01-WebKit-Exploit-PoC) - PS4 5.01 WebKit Exploit PoC
@@ -3922,7 +3912,6 @@
 - [glouw/andvaranaut](https://github.com/glouw/andvaranaut) - A dungeon crawler
 - [cleverca22/toxvpn](https://github.com/cleverca22/toxvpn) - A client / server for a Tox-based VPN. Run the server on one computer, copy the public key, and run the client (with that key) on another computer, and it should Just Work™.
 - [rockchip-linux/kernel](https://github.com/rockchip-linux/kernel) - BSP kernel source
-- [andyshrk/device-rockchip-rk3066](https://github.com/andyshrk/device-rockchip-rk3066) - device specific configuration of rk3066 on Android project
 - [zoff99/ToxPhone](https://github.com/zoff99/ToxPhone) - The Worlds First Hardware ToxPhone with Video
 - [jdfreder/pingjs](https://github.com/jdfreder/pingjs) - JavaScript client side ping API.
 - [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++
@@ -4833,6 +4822,36 @@
 
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [0xFA11/GameNetworkingResources](https://github.com/0xFA11/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming Resources
+
+## vpn 
+
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+- [eyedeekay/sam-forwarder](https://github.com/eyedeekay/sam-forwarder) - i2ptunnel for Go applications, using SAM instead of I2CP.
+- [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
+- [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [RTradeLtd/libanonvpn](https://github.com/RTradeLtd/libanonvpn) - Library for TUN and TAP devices over I2P in Go Applications
+- [retenet/tunle](https://github.com/retenet/tunle) - Dockerized Tunneling for Containers
+- [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [angt/glorytun](https://github.com/angt/glorytun) - Multipath UDP tunnel
+- [cbeuw/Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
+- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
+- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
+- [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
+- [my-network/ipvpn](https://github.com/my-network/ipvpn) - [WIP] Easy-to-use decentralized secure overlay private network (for any device)
+- [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+- [wknapik/openvpn-unroot](https://github.com/wknapik/openvpn-unroot) - Run OpenVPN without root privileges
+- [wofanli/tcp-tunnel](https://github.com/wofanli/tcp-tunnel) - a tcp-tunnel implemented by golang
+- [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
+- [dsnet/udptunnel](https://github.com/dsnet/udptunnel) - Daemon for creating a simple VPN over UDP.
+- [vedetta-com/vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
+- [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
+- [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
+- [kanocz/lcvpn](https://github.com/kanocz/lcvpn) - Decentralized VPN in golang
+- [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+- [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 
 ## vue 
 
