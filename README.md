@@ -310,7 +310,7 @@
 - [Crul/Rogueskiv](https://github.com/Crul/Rogueskiv) - A roguelite game, mashup of Eskiv and the countless Roguelike games
 - [AyrA/mobile-ca](https://github.com/AyrA/mobile-ca) - Mobile Certificate Authority
 - [chromium/vs-chromium](https://github.com/chromium/vs-chromium) - A Visual Studio extension containing a collection of tools to help contributing code to the Chromium project.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
 - [back37/MTK-FirmwareAdapter-Tool](https://github.com/back37/MTK-FirmwareAdapter-Tool) - Sources of MTK FirmwareAdapter Tool, now on GitHub
 - [0xbadjuju/Tokenvator](https://github.com/0xbadjuju/Tokenvator) - A tool to elevate privilege with Windows Tokens
@@ -2166,7 +2166,6 @@
 - [chertov/camopenwrt_docker](https://github.com/chertov/camopenwrt_docker) - 
 - [rsharo/steamos_docker](https://github.com/rsharo/steamos_docker) - Builds a SteamOS image for Docker with 3D graphics and sound
 - [whosonfirst-data/whosonfirst-data-venue-us-wv](https://github.com/whosonfirst-data/whosonfirst-data-venue-us-wv) - Who's On First venue data for West Virginia (us)
-- [andyshrk/device-rockchip-rk3066](https://github.com/andyshrk/device-rockchip-rk3066) - device specific configuration of rk3066 on Android project
 - [dangowrt/gnunet-15.05](https://github.com/dangowrt/gnunet-15.05) - GNUnet packages for OpenWrt 15.05 Chaos Calmer
 
 ## Markdown 
