@@ -1360,7 +1360,7 @@
 - [fyne-io/fyne-cross](https://github.com/fyne-io/fyne-cross) - Cross compiler tool for Fyne apps
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
 - [balacode/one-file-pdf](https://github.com/balacode/one-file-pdf) - A minimalist Go PDF writer in 1982 lines. Draws text, images and shapes. Helps understand the PDF format. Used in production for reports.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [pojntfx/liwasc](https://github.com/pojntfx/liwasc) - List, wake and scan nodes in a network.
 - [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
@@ -2254,7 +2254,7 @@
 
 ## mastodon 
 
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
 - [bclindner/ivory](https://github.com/bclindner/ivory) - A Mastodon automoderator.
 - [McKael/madon](https://github.com/McKael/madon) - Golang Mastodon API library
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
@@ -3709,7 +3709,7 @@
 - [majestrate/garlic](https://github.com/majestrate/garlic) - garlic
 - [SpiderLabs/Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
 - [str4d/zk](https://github.com/str4d/zk) - 
-- [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
+- [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [DanMcInerney/Autobloodhound](https://github.com/DanMcInerney/Autobloodhound) - Automatically parses and attacks BloodHound-generated graphs
 - [Niriel/daggor](https://github.com/Niriel/daggor) - Tile-based turn-based 3D game engine.
 - [mellinoe/ge](https://github.com/mellinoe/ge) - A general-purpose 3D game engine with editor, built with .NET Core
