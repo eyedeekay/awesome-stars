@@ -600,7 +600,7 @@
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [rotblauer/cathack](https://github.com/rotblauer/cathack) - Self-hosted, kitten-friendly collaborative documents written in Golang. Like Google Docs, but eviler.
 - [stunndard/goicy](https://github.com/stunndard/goicy) - AAC and MPEG (MP1, MP2, MP3) Icecast/Shoutcast source client written in Go
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
 - [byte-mug/go-cypherpunk](https://github.com/byte-mug/go-cypherpunk) - Go Cypherpunk Remailer Library (Parser/Server and Composer/Client)
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [adamdecaf/cert-manage](https://github.com/adamdecaf/cert-manage) - WIP x509 Certificate auditing CLI
@@ -2373,7 +2373,7 @@
 - [Kevin-Robertson/Powermad](https://github.com/Kevin-Robertson/Powermad) - PowerShell MachineAccountQuota and DNS exploit tools
 - [RedSiege/WMImplant](https://github.com/RedSiege/WMImplant) - This is a PowerShell based tool that is designed to act like a RAT. Its interface is that of a shell where any command that is supported is translated into a WMI-equivalent for use on a network/remote
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
-- [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
+- [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [DanMcInerney/icebreaker](https://github.com/DanMcInerney/icebreaker) - Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment
 
 ## Puppet 
