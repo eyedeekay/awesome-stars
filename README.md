@@ -1801,7 +1801,7 @@
 - [subins2000/webtorrent-tracker-java](https://github.com/subins2000/webtorrent-tracker-java) - WebTorrent Tracker implemented in Java (Partial implementation)
 - [wasmerio/wasmer-java](https://github.com/wasmerio/wasmer-java) - ☕ WebAssembly runtime for Java
 - [BiglySoftware/BiglyBT-Android](https://github.com/BiglySoftware/BiglyBT-Android) - BiglyBT for Android, torrent client and remote control app
-- [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) - SThis repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter
+- [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) - This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 - [thaliproject/Tor_Onion_Proxy_Library](https://github.com/thaliproject/Tor_Onion_Proxy_Library) - Provides a JAR and an AAR for embedding the Tor Onion Proxy into a Java or Android Program
 - [quartzjer/TeleHash](https://github.com/quartzjer/TeleHash) - Old v1 repo, please see http://github.org/telehash now.
 - [welterde/TeleHash](https://github.com/welterde/TeleHash) - A Kademlia-based DHT and JSON protocol for application meshing and eventing
