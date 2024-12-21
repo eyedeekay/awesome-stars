@@ -1302,7 +1302,7 @@
 - [t-bast/go-libp2p-echalotte](https://github.com/t-bast/go-libp2p-echalotte) - An onion routing implementation for libp2p.
 - [hanwen/gitfs](https://github.com/hanwen/gitfs) - 
 - [otrv4/otr4](https://github.com/otrv4/otr4) - A go implementation of OTR version 4 protocol. This is a mirror of https://bugs.otr.im/otrv4/otr4
-- [roobre/omemo-wget](https://github.com/roobre/omemo-wget) - CLI tool to download and decrypt aesgcm:// URLs
+- [nadiamoe/omemo-wget](https://github.com/nadiamoe/omemo-wget) - CLI tool to download and decrypt aesgcm:// URLs
 - [layeh/gumble](https://github.com/layeh/gumble) - gumble is a Mumble client implementation in Go (golang)
 - [coyove/nj](https://github.com/coyove/nj) - NJ is a simple script engine in golang with Lua-like syntax.
 - [wrfly/just-a-bot](https://github.com/wrfly/just-a-bot) - WON'T follow any github users
@@ -2014,7 +2014,7 @@
 - [adonisfamilia/TorTab](https://github.com/adonisfamilia/TorTab) - 
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [cmgiven/gov-availability](https://github.com/cmgiven/gov-availability) - The availability of the government of the United States of America
-- [shobrook/BitVision](https://github.com/shobrook/BitVision) - Terminal dashboard for trading Bitcoin, predicting price movements, and losing all your money
+- [shobrook/BitVision](https://github.com/shobrook/BitVision) - TUI for trading Bitcoin, modeling price movements, and losing all your money
 - [adonespitogo/AdoBot-IO](https://github.com/adonespitogo/AdoBot-IO) - AdoBot NodeJS Server with socket.io
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
