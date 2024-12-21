@@ -211,7 +211,6 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
-- [zig](#zig)
 
 ## 3d 
 
@@ -419,7 +418,7 @@
 - [koalalorenzo/wallets](https://github.com/koalalorenzo/wallets) - 💰Multi-crypto wallets/keys generator for cold storage with built-in encryption.
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) - Full bitcoin solution written in Go (golang)
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
-- [shobrook/BitVision](https://github.com/shobrook/BitVision) - Terminal dashboard for trading Bitcoin, predicting price movements, and losing all your money
+- [shobrook/BitVision](https://github.com/shobrook/BitVision) - TUI for trading Bitcoin, modeling price movements, and losing all your money
 - [copernet/copernicus](https://github.com/copernet/copernicus) - An alternative implementation of the Bitcoin Cash protocol, written in Golang
 - [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
 - [pielco11/DOT](https://github.com/pielco11/DOT) - Darknet OSINT Transform
@@ -987,6 +986,7 @@
 - [anaseto/harmonist](https://github.com/anaseto/harmonist) - Harmonist: Dayoriah Clan Infiltration is a stealth roguelike game.
 - [anaseto/boohu](https://github.com/anaseto/boohu) - Break Out Of Hareka's Underground, a roguelike game.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
@@ -2207,7 +2207,7 @@
 ## machine-learning 
 
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [shobrook/BitVision](https://github.com/shobrook/BitVision) - Terminal dashboard for trading Bitcoin, predicting price movements, and losing all your money
+- [shobrook/BitVision](https://github.com/shobrook/BitVision) - TUI for trading Bitcoin, modeling price movements, and losing all your money
 - [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
 
@@ -3223,7 +3223,7 @@
 - [govolution/avet](https://github.com/govolution/avet) - AntiVirus Evasion Tool
 - [cobyism/dciy](https://github.com/cobyism/dciy) - Do Continuous Integration Yourself — a simple, open source CI server.
 - [otrv4/otr4](https://github.com/otrv4/otr4) - A go implementation of OTR version 4 protocol. This is a mirror of https://bugs.otr.im/otrv4/otr4
-- [roobre/omemo-wget](https://github.com/roobre/omemo-wget) - CLI tool to download and decrypt aesgcm:// URLs
+- [nadiamoe/omemo-wget](https://github.com/nadiamoe/omemo-wget) - CLI tool to download and decrypt aesgcm:// URLs
 - [layeh/gumble](https://github.com/layeh/gumble) - gumble is a Mumble client implementation in Go (golang)
 - [cowlicks/privacypossum](https://github.com/cowlicks/privacypossum) - Privacy Possum makes tracking you less profitable
 - [Debian/dput-ng](https://github.com/Debian/dput-ng) - [MIRROR] - do not open PRs here
@@ -4458,7 +4458,6 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [tdryer/hangups-rs](https://github.com/tdryer/hangups-rs) - Google Hangouts client library for any language (prototype)
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [bnewbold/geniza](https://github.com/bnewbold/geniza) - hobby implementation of dat in rust
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
@@ -4946,10 +4945,6 @@
 - [parMaster/audiofeed](https://github.com/parMaster/audiofeed) - Host a podcast XML feed from a folder with .mp3 (m4a|m4b) files. Add it to your favourite podcast app and listen to downloaded audiobooks
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
-
-## zig 
-
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
 
 
 ## License
