@@ -2271,7 +2271,6 @@
 - [uradotdesign/works](https://github.com/uradotdesign/works) - The repo containing the assets for every project designed by Ura
 - [ZeroCoinOrganization/ZeroVerify](https://github.com/ZeroCoinOrganization/ZeroVerify) - Directory with trust points and name badges for ZeroNet users.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
-- [linuxboot/book](https://github.com/linuxboot/book) - LinuxBoot book which contains the documentation in markdown format
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [signedbytes/Awesome-Hacking](https://github.com/signedbytes/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -2609,6 +2608,7 @@
 - [cryptosphere/cryptosphere](https://github.com/cryptosphere/cryptosphere) - Encrypted peer-to-peer web application platform for decentralized, privacy-preserving applications
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [remi/teamocil](https://github.com/remi/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
+- [linuxboot/book](https://github.com/linuxboot/book) - LinuxBoot book which contains the documentation in markdown format
 - [tomgi/git_stats](https://github.com/tomgi/git_stats) - GitStats is a git repository statistics generator.
 - [trevorturk/eldorado](https://github.com/trevorturk/eldorado) - El Dorado is a full-stack community web application written in Ruby/Rails.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
