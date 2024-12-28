@@ -177,6 +177,7 @@
 - [scala](#scala)
 - [sdn](#sdn)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -2972,7 +2973,6 @@
 - [nobonobo/gomdslides](https://github.com/nobonobo/gomdslides) - presantation tool write in go
 - [pircbotx/pircbotx](https://github.com/pircbotx/pircbotx) - Modern Java IRC Library
 - [libp2p/go-libp2p-kbucket](https://github.com/libp2p/go-libp2p-kbucket) - A kbucket implementation for use as a routing table
-- [saferwall/saferwall](https://github.com/saferwall/saferwall) - :cloud: Collaborative Malware Analysis Platform at Scale
 - [xwiki/xwiki-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
 - [tableflip/ipfs-pubsub-chat-example](https://github.com/tableflip/ipfs-pubsub-chat-example) - An example pubsub app that uses window.ipfs, provided by the IPFS Companion web extension
 - [april/certainly-something](https://github.com/april/certainly-something) - WebExtension that shows certificate chains in an aesthetically pleasing manner.
@@ -4602,6 +4602,23 @@
 - [linuxboot/linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
 - [GrapheneOS/linux-hardened](https://github.com/GrapheneOS/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
+
+## security-tools 
+
+- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+- [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
+- [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
+- [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+- [saferwall/saferwall](https://github.com/saferwall/saferwall) - :cloud: Collaborative Malware Analysis Platform at Scale
+- [HouariZegai/SpyGen](https://github.com/HouariZegai/SpyGen) - Trojan :snake: (keylogger, take screenshots, open your webcam) :unlock:
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker
+- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+- [byt3bl33d3r/SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR
+- [denji/golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples
+- [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
+- [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
+- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 
 ## self-hosted 
 
