@@ -507,6 +507,7 @@
 
 ## Go 
 
+- [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [go-i2p/go-rst](https://github.com/go-i2p/go-rst) - A Go library for parsing and rendering reStructuredText (RST) documents with translation support. Supports only a subset of restructuredText for now, but relatively easy to expand compared to other at
@@ -1017,7 +1018,7 @@
 - [gruntwork-io/fetch](https://github.com/gruntwork-io/fetch) - Download files, folders, and release assets from a specific git commit, branch, or tag of public and private GitHub repos.
 - [kokizzu/goproc](https://github.com/kokizzu/goproc) - simple process manager helper library
 - [eyedeekay/p2p-messenger](https://github.com/eyedeekay/p2p-messenger) - Peer To Peer Messenger
-- [MixinNetwork/mixin](https://github.com/MixinNetwork/mixin) - 🚀 The Mixin TEE-BFT-DAG network reference implementation.
+- [MixinNetwork/mixin](https://github.com/MixinNetwork/mixin) - 🚀 The Mixin-BFT-DAG network reference implementation.
 - [majestrate/bitchan](https://github.com/majestrate/bitchan) - bittorrent imageboard
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [zxh0/jvm.go](https://github.com/zxh0/jvm.go) - A toy JVM written in Go
@@ -1929,7 +1930,7 @@
 - [handshake-org/hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [jyap808/g0bin](https://github.com/jyap808/g0bin) - G0Bin is a client side encrypted pastebin written in Go
-- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game.
+- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game
 - [mozilla/addons-frontend](https://github.com/mozilla/addons-frontend) - Front-end to complement mozilla/addons-server
 - [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web) - An HTML5 Mumble client
 - [FelixMcFelix/Shallot](https://github.com/FelixMcFelix/Shallot) - Small-scale onion routing over WebRTC
@@ -2028,7 +2029,7 @@
 - [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm) - Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
 - [sintaxi/surge](https://github.com/sintaxi/surge) - CLI for the surge.sh CDN
 - [mozilla/libdweb](https://github.com/mozilla/libdweb) - Extension containing an experimental libdweb APIs
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [aethereans/aether-app](https://github.com/aethereans/aether-app) - Aether client app with bundled front-end and P2P back-end
 - [MicroMinion/curvecp](https://github.com/MicroMinion/curvecp) - CurveCP protocol implementation in pure Javascript
 - [libp2p/interface-stream-muxer](https://github.com/libp2p/interface-stream-muxer) - ⛔️ DEPRECATED: interface-stream-muxer is now included in https://github.com/libp2p/js-interfaces
@@ -2777,7 +2778,7 @@
 - [dfsnc/Hackintosh-Catalina-OpenCore-Lenovo-T450s-efi](https://github.com/dfsnc/Hackintosh-Catalina-OpenCore-Lenovo-T450s-efi) - 
 - [sudo-give-me-coffee/flatpak2appdir](https://github.com/sudo-give-me-coffee/flatpak2appdir) - A proof of concept to demonstrate a viable way to turn a Flatpak into AppDir
 - [darkability/freenet-docker](https://github.com/darkability/freenet-docker) - Docker image for running Freenet
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [Spaceghost/dottk](https://github.com/Spaceghost/dottk) - Automatically renew .tk domains for 12 months
 - [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
