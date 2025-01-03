@@ -364,7 +364,7 @@
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 - [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [Escapingbug/awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
@@ -415,7 +415,7 @@
 - [raspibolt/raspibolt](https://github.com/raspibolt/raspibolt) - RaspiBolt v3: Bitcoin & Lightning full node on a Raspberry Pi
 - [RoboSats/robosats](https://github.com/RoboSats/robosats) - A simple and private bitcoin exchange
 - [btcsuite/btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
-- [MixinNetwork/mixin](https://github.com/MixinNetwork/mixin) - 🚀 The Mixin TEE-BFT-DAG network reference implementation.
+- [MixinNetwork/mixin](https://github.com/MixinNetwork/mixin) - 🚀 The Mixin-BFT-DAG network reference implementation.
 - [koalalorenzo/wallets](https://github.com/koalalorenzo/wallets) - 💰Multi-crypto wallets/keys generator for cold storage with built-in encryption.
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) - Full bitcoin solution written in Go (golang)
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
@@ -438,7 +438,7 @@
 - [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
-- [MixinNetwork/mixin](https://github.com/MixinNetwork/mixin) - 🚀 The Mixin TEE-BFT-DAG network reference implementation.
+- [MixinNetwork/mixin](https://github.com/MixinNetwork/mixin) - 🚀 The Mixin-BFT-DAG network reference implementation.
 - [deroproject/derosuite](https://github.com/deroproject/derosuite) - DERO: Secure, Anonymous Blockchain with Smart Contracts.  Subscribe to Dero announcements by sending mail to lists@dero.io with subject: subscribe announcements
 - [ProofSuite/amp-matching-engine](https://github.com/ProofSuite/amp-matching-engine) - Official proof decentralized exchange matching engine
 - [w3f/polkadot-wiki-old](https://github.com/w3f/polkadot-wiki-old) - The Polkadot wiki.
@@ -711,7 +711,7 @@
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [joeblankenship1/households_WV](https://github.com/joeblankenship1/households_WV) - Analysis of Household Composition and Location in West Virginia
 
 ## cybersecurity 
@@ -858,7 +858,7 @@
 ## education 
 
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [parnoldx/nasc](https://github.com/parnoldx/nasc) - Do maths like a normal person
 
@@ -1062,7 +1062,7 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [tomgi/git_stats](https://github.com/tomgi/git_stats) - GitStats is a git repository statistics generator.
 - [cryptix/git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - git transport helper for ipfs
@@ -1094,6 +1094,7 @@
 
 ## go 
 
+- [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [unitoftime/rtcnet](https://github.com/unitoftime/rtcnet) - Provides a webrtc implementation of the standard net.Conn interface
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 - [yorkie-team/yorkie](https://github.com/yorkie-team/yorkie) - Yorkie is a document store for collaborative applications.
@@ -1346,6 +1347,7 @@
 
 ## golang 
 
+- [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [unitoftime/rtcnet](https://github.com/unitoftime/rtcnet) - Provides a webrtc implementation of the standard net.Conn interface
 - [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
@@ -1825,7 +1827,7 @@
 - [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
 - [Joker/hpp](https://github.com/Joker/hpp) - HTML Pretty Print for Go (golang)
 - [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [joeblankenship1/households_WV](https://github.com/joeblankenship1/households_WV) - Analysis of Household Composition and Location in West Virginia
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 
@@ -1997,7 +1999,7 @@
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [003random/getJS](https://github.com/003random/getJS) - A tool to fastly get all javascript sources/files
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [propublica/facebook-political-ads](https://github.com/propublica/facebook-political-ads) - Monitoring Facebook Political Ads
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -2131,7 +2133,7 @@
 - [sudo-give-me-coffee/flatpak2appdir](https://github.com/sudo-give-me-coffee/flatpak2appdir) - A proof of concept to demonstrate a viable way to turn a Flatpak into AppDir
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
 - [lu4p/ToRat](https://github.com/lu4p/ToRat) - ToRat is a Remote Administation tool written in Go using Tor as a transport mechanism and RPC for communication
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
@@ -2265,7 +2267,7 @@
 
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [TeamWizardry/Wizardry](https://github.com/TeamWizardry/Wizardry) - Delve into spell creation and become a wizard
 - [Angry-Pixel/The-Betweenlands](https://github.com/Angry-Pixel/The-Betweenlands) - A dark, hostile environment...
 - [sokratis12GR/ArmorPlus](https://github.com/sokratis12GR/ArmorPlus) - ArmorPlus is a mod based on exploration, killing, building, getting geared up, fight the bosses and explore the depths of your worlds.
@@ -2360,7 +2362,7 @@
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [adonespitogo/AdoBot-IO](https://github.com/adonespitogo/AdoBot-IO) - AdoBot NodeJS Server with socket.io
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [ZeroNetJS/zeronet-js](https://github.com/ZeroNetJS/zeronet-js) - ZeroNet in JS
 - [mobimeo/node-yolo](https://github.com/mobimeo/node-yolo) - Node bindings for YOLO/Darknet image recognition library
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -2654,7 +2656,7 @@
 - [allhailjarjar/go-libp2p-i2p-transport](https://github.com/allhailjarjar/go-libp2p-i2p-transport) - Transport to allow go-libp2p applications to natively use i2p for communication
 - [fabacab/awesome-tor](https://github.com/fabacab/awesome-tor) - A curated list of awesome Tor related projects, articles, papers, etc
 - [matsuu/docker-nethack-server](https://github.com/matsuu/docker-nethack-server) - Dockerfile for Public NetHack server
-- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game.
+- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game
 - [kasworld/goguelike](https://github.com/kasworld/goguelike) - MMO roguelike game
 - [mfnbc/dgl-nethack](https://github.com/mfnbc/dgl-nethack) - Nethack Server for classic 3.4 and most recent 3.6 using DGameLaunch
 - [Ombarus/SolarRogue](https://github.com/Ombarus/SolarRogue) - Nethack in Space
@@ -4251,7 +4253,7 @@
 ## programming 
 
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
@@ -4677,7 +4679,7 @@
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -4821,7 +4823,7 @@
 
 - [ericoporto/fgmk](https://github.com/ericoporto/fgmk) - Retro RPG Game Maker
 - [cybozu-go/aptutil](https://github.com/cybozu-go/aptutil) - Go utilities for Debian APT repositories
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [esell/deb-simple](https://github.com/esell/deb-simple) - A lightweight, bare-bones apt repository server
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
