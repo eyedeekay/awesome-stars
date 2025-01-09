@@ -601,7 +601,7 @@
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [rotblauer/cathack](https://github.com/rotblauer/cathack) - Self-hosted, kitten-friendly collaborative documents written in Golang. Like Google Docs, but eviler.
 - [stunndard/goicy](https://github.com/stunndard/goicy) - AAC and MPEG (MP1, MP2, MP3) Icecast/Shoutcast source client written in Go
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 17, 2025. See you in the new year!
 - [byte-mug/go-cypherpunk](https://github.com/byte-mug/go-cypherpunk) - Go Cypherpunk Remailer Library (Parser/Server and Composer/Client)
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [adamdecaf/cert-manage](https://github.com/adamdecaf/cert-manage) - WIP x509 Certificate auditing CLI
