@@ -332,7 +332,7 @@
 ## C++ 
 
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [SChernykh/p2pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining
 - [jprendes/emception](https://github.com/jprendes/emception) - Run Emscripten in the browser
 - [foolo/windows-jre-laucher](https://github.com/foolo/windows-jre-laucher) - Create a Windows executable for launching a Java application with a bundled JRE
@@ -933,7 +933,6 @@
 - [weaveworks/mesh](https://github.com/weaveworks/mesh) - A tool for building distributed applications.
 - [traefik/mesh](https://github.com/traefik/mesh) - Traefik Mesh - Simpler Service Mesh
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -1944,6 +1943,7 @@
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [tomer8007/widevine-l3-decryptor](https://github.com/tomer8007/widevine-l3-decryptor) - A Chrome extension that demonstrates bypassing Widevine L3 DRM
 - [RetroShare/RSNewWebUI](https://github.com/RetroShare/RSNewWebUI) - 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
 - [oelin/fingerprint](https://github.com/oelin/fingerprint) - Create canvas fingerprints for your browser ☝.
 - [vtwireless/webtop](https://github.com/vtwireless/webtop) - Javascript, HTML5, CSS to make a simple desktop in a browser page
