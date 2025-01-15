@@ -508,7 +508,7 @@
 
 ## c-plus-plus 
 
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [PurpleBote/pboted](https://github.com/PurpleBote/pboted) - Standalone C++ client for I2P/Bote (server-less encrypted KademliaDHT-based email protocol).
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [isotoxin/isotoxin](https://github.com/isotoxin/isotoxin) - Isotoxin source
@@ -987,7 +987,6 @@
 - [anaseto/harmonist](https://github.com/anaseto/harmonist) - Harmonist: Dayoriah Clan Infiltration is a stealth roguelike game.
 - [anaseto/boohu](https://github.com/anaseto/boohu) - Break Out Of Hareka's Underground, a roguelike game.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
@@ -1502,6 +1501,7 @@
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [chaoyangnz/gava](https://github.com/chaoyangnz/gava) - 🚀 A sandboxed VM any Java developer can afford
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [quasilyte/go-jdk](https://github.com/quasilyte/go-jdk) - Run JVM-based code in Go efficiently
 - [minio/c2goasm](https://github.com/minio/c2goasm) - C to Go Assembly
@@ -2104,7 +2104,7 @@
 
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [krotik/dudeldu](https://github.com/krotik/dudeldu) - A simple SHOUTcast server.
 - [mdlayher/wifi](https://github.com/mdlayher/wifi) - Package wifi provides access to IEEE 802.11 WiFi device actions and statistics.  MIT Licensed.
 - [google/nftables](https://github.com/google/nftables) - This repository contains a Go module to interact with Linux nftables (the iptables successor).
@@ -2193,7 +2193,7 @@
 
 ## lua 
 
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
@@ -2575,7 +2575,6 @@
 - [harpocrates/wasm2jar](https://github.com/harpocrates/wasm2jar) - Convert a web assembly module into a JVM JAR
 - [schollz/find3-android-scanner](https://github.com/schollz/find3-android-scanner) - An android app that scans Bluetooth and WiFi for FIND3
 - [ashishshettyb1993/AndroidBeaconApp](https://github.com/ashishshettyb1993/AndroidBeaconApp) - This is the native Android app used for detecting nearby Bluetooth Beacon devices and WIFI.
-- [cmars/hockeypuck](https://github.com/cmars/hockeypuck) - OpenPGP Key Server (main development is in github.com/hockeypuck/hockeypuck)
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
 - [knadh/niltalk](https://github.com/knadh/niltalk) - Instant, disposable, single-binary web based live chat server. Go + VueJS.
 - [serjs/socks5-server](https://github.com/serjs/socks5-server) - 
@@ -2656,7 +2655,7 @@
 - [allhailjarjar/go-libp2p-i2p-transport](https://github.com/allhailjarjar/go-libp2p-i2p-transport) - Transport to allow go-libp2p applications to natively use i2p for communication
 - [fabacab/awesome-tor](https://github.com/fabacab/awesome-tor) - A curated list of awesome Tor related projects, articles, papers, etc
 - [matsuu/docker-nethack-server](https://github.com/matsuu/docker-nethack-server) - Dockerfile for Public NetHack server
-- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game
+- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game. Authoritative Game Server
 - [kasworld/goguelike](https://github.com/kasworld/goguelike) - MMO roguelike game
 - [mfnbc/dgl-nethack](https://github.com/mfnbc/dgl-nethack) - Nethack Server for classic 3.4 and most recent 3.6 using DGameLaunch
 - [Ombarus/SolarRogue](https://github.com/Ombarus/SolarRogue) - Nethack in Space
