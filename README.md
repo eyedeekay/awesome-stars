@@ -601,7 +601,7 @@
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [rotblauer/cathack](https://github.com/rotblauer/cathack) - Self-hosted, kitten-friendly collaborative documents written in Golang. Like Google Docs, but eviler.
 - [stunndard/goicy](https://github.com/stunndard/goicy) - AAC and MPEG (MP1, MP2, MP3) Icecast/Shoutcast source client written in Go
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 17, 2025. See you in the new year!
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [byte-mug/go-cypherpunk](https://github.com/byte-mug/go-cypherpunk) - Go Cypherpunk Remailer Library (Parser/Server and Composer/Client)
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [adamdecaf/cert-manage](https://github.com/adamdecaf/cert-manage) - WIP x509 Certificate auditing CLI
@@ -945,7 +945,6 @@
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [izqui/blockchain](https://github.com/izqui/blockchain) - A basic blockchain implementation written in Go
 - [saiajaym/gorrent](https://github.com/saiajaym/gorrent) - Implemetation of peer to peer file sharing based on paper "Incentives Build Robustness in BitTorrent"
-- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [cruzbit/cruzbit](https://github.com/cruzbit/cruzbit) - A simple decentralized peer-to-peer ledger implementation
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
@@ -2897,6 +2896,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
