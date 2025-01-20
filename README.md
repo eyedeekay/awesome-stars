@@ -256,7 +256,7 @@
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [bol-van/me-disable](https://github.com/bol-van/me-disable) - Intel ME temporary disable for linux
-- [iphydf/cyclone](https://github.com/iphydf/cyclone) - 
+- [TokTok/cyclone](https://github.com/TokTok/cyclone) - 
 - [valentinbreiz/PS4-Linux-Loader](https://github.com/valentinbreiz/PS4-Linux-Loader) - PS4 Linux Loader: A simple payload that let you run Linux on your 4.05 / 4.55 / 5.01 / 5.05 PS4
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [owntone/owntone-server](https://github.com/owntone/owntone-server) - Linux/FreeBSD DAAP (iTunes) and MPD audio server with support for AirPlay 1 and 2 speakers (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
