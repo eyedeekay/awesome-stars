@@ -3767,7 +3767,7 @@
 - [majestrate/llarp](https://github.com/majestrate/llarp) - Low Latency Anon Routing Protocol
 - [str4d/bls](https://github.com/str4d/bls) - Rust crate for BLS signatures
 - [mikalv/bls](https://github.com/mikalv/bls) - Rust crate for BLS signatures
-- [iphydf/cyclone](https://github.com/iphydf/cyclone) - 
+- [TokTok/cyclone](https://github.com/TokTok/cyclone) - 
 - [joren485/Facebook-Location-OSINT](https://github.com/joren485/Facebook-Location-OSINT) - Retrieve someones private Facebook location, using their public information.
 - [PaulSec/osint-facebook-reset-password](https://github.com/PaulSec/osint-facebook-reset-password) - Python util to retrieve full display name and profile picture from a single email address
 - [TheCyberViking/Facebook_OSINT_Dump](https://github.com/TheCyberViking/Facebook_OSINT_Dump) - A Windows Tool for doing OSINT investigations on a Facebook Profile
