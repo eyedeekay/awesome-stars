@@ -1774,7 +1774,7 @@
 - [nayuki/MamIRC](https://github.com/nayuki/MamIRC) - Use at your own risk.
 - [RPTools/maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
 - [a-pavlov/jed2k](https://github.com/a-pavlov/jed2k) - Java library for ed2k networks
-- [guardianproject/orbot](https://github.com/guardianproject/orbot) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
+- [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [syvita/nano](https://github.com/syvita/nano) - 0 dependency, cross-platform I2P.core wrapper with a SAM interface.
 - [schollz/find3-android-scanner](https://github.com/schollz/find3-android-scanner) - An android app that scans Bluetooth and WiFi for FIND3
