@@ -286,7 +286,7 @@
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 - [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
 - [zamaudio/intelmetool](https://github.com/zamaudio/intelmetool) - My tool for working with Intel Management Engine - RETIRED REPO (see coreboot for new upstream)
-- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
+- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
 - [raspberrypi/hats](https://github.com/raspberrypi/hats) - 
 - [mempodippy/vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
 - [marizmendi/BitStegNet](https://github.com/marizmendi/BitStegNet) - PoC for Network Steganography using BitTorrent traffic
