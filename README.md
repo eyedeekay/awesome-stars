@@ -372,7 +372,6 @@
 - [dmiddlecamp/walkie_talkies](https://github.com/dmiddlecamp/walkie_talkies) - an easy way to build your own walkie talkies!
 - [bulwark-crypto/Bulwark](https://github.com/bulwark-crypto/Bulwark) - The primary development repository for the Bulwark project
 - [lufinkey/iSSB](https://github.com/lufinkey/iSSB) - A cross-platform "Super Smash Bros. Brawl" fan-game
-- [mobimeo/node-yolo](https://github.com/mobimeo/node-yolo) - Node bindings for YOLO/Darknet image recognition library
 - [KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos) - Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is
 - [stealth/qdns](https://github.com/stealth/qdns) - QUANTUM-DNS server
 - [stealth/crash](https://github.com/stealth/crash) - crypted admin shell: SSH-like strong crypto remote admin shell for Linux, BSD, Android, Solaris and OSX
@@ -577,7 +576,7 @@
 - [superseriousbusiness/exif-terminator](https://github.com/superseriousbusiness/exif-terminator) - READ ONLY - Migrated to Codeberg
 - [chainguard-dev/darkfiles](https://github.com/chainguard-dev/darkfiles) - Darkfiles finds orphaned files in container images and makes them to bad deeds
 - [stateless-minds/cyber-witness](https://github.com/stateless-minds/cyber-witness) - Decentralized media simulator based on the reporter and witnesses concept. It aims to be an alternative to mass media, surveillance, censorship, fact checkers and centralized control of news.
-- [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Go Application Scanner
+- [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Application Layer Scanner
 - [redwood/redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
