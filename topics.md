@@ -504,6 +504,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
+- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
 - [mempodippy/vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
 
 ## c-plus-plus 
@@ -2364,7 +2365,6 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [ZeroNetJS/zeronet-js](https://github.com/ZeroNetJS/zeronet-js) - ZeroNet in JS
-- [mobimeo/node-yolo](https://github.com/mobimeo/node-yolo) - Node bindings for YOLO/Darknet image recognition library
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [redhog/node-i2p](https://github.com/redhog/node-i2p) - NodeJS api for communicating over i2p
@@ -2515,7 +2515,7 @@
 - [superseriousbusiness/exif-terminator](https://github.com/superseriousbusiness/exif-terminator) - READ ONLY - Migrated to Codeberg
 - [tjnull/TJ-OSINT-Notebook](https://github.com/tjnull/TJ-OSINT-Notebook) - This OSINT Notebook provides an overview of the tools, techniques, and resources that I use for a variety of situations when it comes to performing reconaissance and OSINT operations.  This Notebook h
 - [chainguard-dev/darkfiles](https://github.com/chainguard-dev/darkfiles) - Darkfiles finds orphaned files in container images and makes them to bad deeds
-- [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Go Application Scanner
+- [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Application Layer Scanner
 - [Atavic/legacy-user.js](https://github.com/Atavic/legacy-user.js) - A User.js file stripped down to the bone!
 - [kelvie/dcss-web-docker](https://github.com/kelvie/dcss-web-docker) - Dockerized web version of Dungeon Crawl Stone Soup
 - [jprendes/emception](https://github.com/jprendes/emception) - Run Emscripten in the browser
@@ -3960,7 +3960,6 @@
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [jmcvetta/cspace](https://github.com/jmcvetta/cspace) - Communication software of unknown origin, promising unusually high levels of privacy
 - [musalbas/address-spoofing-poc](https://github.com/musalbas/address-spoofing-poc) - Chrome address spoofing vulnerability proof-of-concept for HTTPS. (Original by David Leo.)
-- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
 - [phonefree/phonefree.github.io](https://github.com/phonefree/phonefree.github.io) - Staging repository for the Phone-Free Information Center Web Site
 - [gtracy/phonefree-twilio](https://github.com/gtracy/phonefree-twilio) - A browser-based phone using the Twilio Client that can be deployed to Google App Engine
 - [sdl2-vapi/sdl2-vapi](https://github.com/sdl2-vapi/sdl2-vapi) - Vala bindings for SDL2
