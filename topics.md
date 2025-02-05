@@ -66,6 +66,7 @@
 - [emulator](#emulator)
 - [es6](#es6)
 - [ethereum](#ethereum)
+- [facebook](#facebook)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -302,7 +303,7 @@
 - [ScriptSmith/socialreaper](https://github.com/ScriptSmith/socialreaper) - Social media scraping / data collection library for Facebook, Twitter, Reddit, YouTube, Pinterest, and Tumblr APIs
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## arduino 
@@ -426,7 +427,7 @@
 - [pielco11/DOGE](https://github.com/pielco11/DOGE) - Darknet Osint Graph Explorer
 - [bulwark-crypto/Bulwark](https://github.com/bulwark-crypto/Bulwark) - The primary development repository for the Bulwark project
 - [aiportal/gowallet](https://github.com/aiportal/gowallet) - A Bitcoin HD Wallet software. Use a long key and a simple phrase to generate tens of thousands of Bitcoin wallet addresses.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 
 ## blockchain 
@@ -466,7 +467,7 @@
 - [Galigator/Mattermost-client](https://github.com/Galigator/Mattermost-client) - A simple java client for the api V4 of Mattermost compatible with Mattermost 4.5 The client aim at writing java Bot for Mattermost.
 - [zonkeynet/ZonkeyNet](https://github.com/zonkeynet/ZonkeyNet) - RADIO Mesh Network
 - [SaturnsVoid/GoBot2](https://github.com/SaturnsVoid/GoBot2) - Second Version of The GoBot Botnet, But more advanced.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## bugbounty 
 
@@ -656,7 +657,7 @@
 - [bulwark-crypto/Bulwark](https://github.com/bulwark-crypto/Bulwark) - The primary development repository for the Bulwark project
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [Ragnaroek/mithril](https://github.com/Ragnaroek/mithril) - Pure Rust Monero Miner
 - [bradoyler/xmr-miner](https://github.com/bradoyler/xmr-miner) - Web-based Cryptocurrency miner, built with Vue.js
 - [CamilleScholtz/sako](https://github.com/CamilleScholtz/sako) - A self-hosted Monero web-interface.
@@ -911,7 +912,13 @@
 - [gitcoinco/web](https://github.com/gitcoinco/web) - Grow Open Source
 - [RTradeLtd/mining-bootstrap](https://github.com/RTradeLtd/mining-bootstrap) - 👞 cryptocurrency mining farm bootstrap and management kit - team GREEEEEN BABY
 - [RTradeLtd/Temporal](https://github.com/RTradeLtd/Temporal) - ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+
+## facebook 
+
+- [propublica/facebook-political-ads](https://github.com/propublica/facebook-political-ads) - Monitoring Facebook Political Ads
+- [lamthuyvo/social-media-data-scripts](https://github.com/lamthuyvo/social-media-data-scripts) - 
+- [ScriptSmith/socialreaper](https://github.com/ScriptSmith/socialreaper) - Social media scraping / data collection library for Facebook, Twitter, Reddit, YouTube, Pinterest, and Tumblr APIs
 
 ## firebase 
 
@@ -1094,6 +1101,7 @@
 
 ## go 
 
+- [theHamdiz/it](https://github.com/theHamdiz/it) - A collection of helpful error handling, performance measuring, execution retrial, benchmarking & other useful patterns for golang under one package.
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [unitoftime/rtcnet](https://github.com/unitoftime/rtcnet) - Provides a webrtc implementation of the standard net.Conn interface
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
@@ -1347,6 +1355,7 @@
 
 ## golang 
 
+- [theHamdiz/it](https://github.com/theHamdiz/it) - A collection of helpful error handling, performance measuring, execution retrial, benchmarking & other useful patterns for golang under one package.
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [unitoftime/rtcnet](https://github.com/unitoftime/rtcnet) - Provides a webrtc implementation of the standard net.Conn interface
@@ -2094,7 +2103,7 @@
 - [lrstanley/girc](https://github.com/lrstanley/girc) - :bomb: girc is a flexible IRC library for Go :ok_hand:
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [McKael/madon](https://github.com/McKael/madon) - Golang Mastodon API library
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [codedust/go-tox](https://github.com/codedust/go-tox) - Go wrapper for the toxcore library - contributions welcome!
 - [nopn0p/rkorova](https://github.com/nopn0p/rkorova) - ld_preload userland rootkit
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -2441,6 +2450,7 @@
 
 ## others 
 
+- [Hoshinonyaruko/palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [go-i2p/go-rst](https://github.com/go-i2p/go-rst) - A Go library for parsing and rendering reStructuredText (RST) documents with translation support. Supports only a subset of restructuredText for now, but relatively easy to expand compared to other at
 - [CodingTrain/Oregon-Trail](https://github.com/CodingTrain/Oregon-Trail) - A p5.js version of the Apple ][ Oregon Trail Game
@@ -2836,7 +2846,7 @@
 - [guardianproject/gpmaven](https://github.com/guardianproject/gpmaven) - Maven Repository for Gradle-based projects using Guardian Project CipherKit Libraries
 - [matrix-org/gomatrix](https://github.com/matrix-org/gomatrix) - A Golang Matrix client
 - [go-gitea/tea](https://github.com/go-gitea/tea) - A command line tool to interact with Gitea servers, moved to https://gitea.com/gitea/tea
-- [natlas/natlas](https://github.com/natlas/natlas) - Scaling Network Scanning. Changes prior to 1.0 may cause difficult to avoid backwards incompatibilities. You've been warned.
+- [natlas/natlas](https://github.com/natlas/natlas) - Attack Surface Management since before Attack Surface Management was a thing
 - [oelin/fingerprint](https://github.com/oelin/fingerprint) - Create canvas fingerprints for your browser ☝.
 - [drbh/wasm-fingerprint](https://github.com/drbh/wasm-fingerprint) - 🖖 Fast, small, reliable, embeddable browser canvas fingerprinting implemented in WebAssembly.
 - [vituperative/flyte](https://github.com/vituperative/flyte) - I2P BitTorrent Tracker
@@ -4053,7 +4063,7 @@
 - [nknorg/nnet](https://github.com/nknorg/nnet) - nnet: a fast, scalable, and developer-friendly p2p overlay network stack
 - [xgfone/go-bt](https://github.com/xgfone/go-bt) - Another pure golang implementation of BitTorrent library.
 - [subins2000/p2pt](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server. Use WebTorrent trackers for any kind of WebRTC app ! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
-- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
+- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
 - [pdupub/documentation](https://github.com/pdupub/documentation) - A Peer-to-Peer Social Network Service
 - [mmailhos/webrtc-messaging](https://github.com/mmailhos/webrtc-messaging) - Simple implementation of a p2p chat from web browsers
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
@@ -4961,7 +4971,7 @@
 
 - [parMaster/audiofeed](https://github.com/parMaster/audiofeed) - Host a podcast XML feed from a folder with .mp3 (m4a|m4b) files. Add it to your favourite podcast app and listen to downloaded audiobooks
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
-- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
+- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
 
 
 ## License
