@@ -506,6 +506,8 @@
 
 ## Go 
 
+- [theHamdiz/it](https://github.com/theHamdiz/it) - A collection of helpful error handling, performance measuring, execution retrial, benchmarking & other useful patterns for golang under one package.
+- [Hoshinonyaruko/palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
@@ -2406,7 +2408,7 @@
 - [2mf/tox-bootstrapd-docker](https://github.com/2mf/tox-bootstrapd-docker) - run Tox node in Docker
 - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
 - [elimisteve/police-brutality](https://github.com/elimisteve/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
-- [natlas/natlas](https://github.com/natlas/natlas) - Scaling Network Scanning. Changes prior to 1.0 may cause difficult to avoid backwards incompatibilities. You've been warned.
+- [natlas/natlas](https://github.com/natlas/natlas) - Attack Surface Management since before Attack Surface Management was a thing
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [ruoti/blockchain-simulation-framework](https://github.com/ruoti/blockchain-simulation-framework) - Simulation framework for blockchains
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
@@ -2496,7 +2498,7 @@
 - [HelloZeroNet/ZeroNet-kivy](https://github.com/HelloZeroNet/ZeroNet-kivy) - Android client for ZeroNet
 - [meejah/txtorcon](https://github.com/meejah/txtorcon) - Twisted-based asynchronous Tor control protocol implementation. Includes unit-tests, examples, state-tracking code and configuration abstraction.
 - [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
@@ -2934,7 +2936,7 @@
 
 ## Vala 
 
-- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
+- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
 - [parnoldx/nasc](https://github.com/parnoldx/nasc) - Do maths like a normal person
 - [naxuroqa/vala-toxcore-c](https://github.com/naxuroqa/vala-toxcore-c) - Vala bindings for toxcore
 - [Serranya/sdl2-vala-lazy-foo](https://github.com/Serranya/sdl2-vala-lazy-foo) - Vala version of the SDL2 Tutorials from http://lazyfoo.net/tutorials/SDL/index.php
