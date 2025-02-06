@@ -2507,7 +2507,7 @@
 - [Mr-Un1k0d3r/DKMC](https://github.com/Mr-Un1k0d3r/DKMC) - DKMC - Dont kill my cat - Malicious payload evasion tool
 - [firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
-- [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
+- [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [devicenull/ipmi_firmware_tools](https://github.com/devicenull/ipmi_firmware_tools) - IPMI analysis tools
 - [hatRiot/zarp](https://github.com/hatRiot/zarp) - Network Attack Tool
 - [jordanpotti/AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets
