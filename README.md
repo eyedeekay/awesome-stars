@@ -1936,6 +1936,7 @@
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [maciekmm/container-tabs-sidebar](https://github.com/maciekmm/container-tabs-sidebar) - Firefox addon aiming to utilize screen estate more efficiently by showing tabs in a sidebar grouped by privacy containers. Inspired by TreeStyleTab.
 - [EffectiveAF/effective](https://github.com/EffectiveAF/effective) - Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [
+- [metowolf/iplist](https://github.com/metowolf/iplist) - :book: IP CIDRs List / IP 地址列表
 - [eyedeekay/I2P-in-Private-Browsing-Mode-Firefox](https://github.com/eyedeekay/I2P-in-Private-Browsing-Mode-Firefox) - I2P in Private Browsing mode for Firefox, built using Webextensions and Contextual Identities
 - [zleman1593/Aktie](https://github.com/zleman1593/Aktie) - A DDP-based Peer-to-Peer File Sharing System
 - [jenkinsci/firefox-extension-buildmonitor](https://github.com/jenkinsci/firefox-extension-buildmonitor) - Jenkins Firefox Add-on BuildMonitor
@@ -2205,7 +2206,6 @@
 - [fabacab/awesome-tor](https://github.com/fabacab/awesome-tor) - A curated list of awesome Tor related projects, articles, papers, etc
 - [oakmound/AgentRelease](https://github.com/oakmound/AgentRelease) - Releases of Agent Blue, a stealth game written in Go
 - [rhodey/chip-linux-docker](https://github.com/rhodey/chip-linux-docker) - Tools for cross-compiling linux kernels for the Next Thing Co. Pocket CHIP using docker.
-- [metowolf/iplist](https://github.com/metowolf/iplist) - :book: IP CIDRs List / IP 地址列表
 - [singe/wifi-frequency-hacker](https://github.com/singe/wifi-frequency-hacker) - A modified frequency regulatory domain configuration that doesn't limit you.
 - [bonedaddy/awesome-crypto-trackers](https://github.com/bonedaddy/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards.
 - [rocky-linux/rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
@@ -2705,7 +2705,7 @@
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [str4d/bls](https://github.com/str4d/bls) - Rust crate for BLS signatures
 - [mikalv/bls](https://github.com/mikalv/bls) - Rust crate for BLS signatures
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
 - [mackwic/systemd-linter](https://github.com/mackwic/systemd-linter) - Lint Systemd unit files
