@@ -580,7 +580,7 @@
 - [stateless-minds/cyber-witness](https://github.com/stateless-minds/cyber-witness) - Decentralized media simulator based on the reporter and witnesses concept. It aims to be an alternative to mass media, surveillance, censorship, fact checkers and centralized control of news.
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Application Layer Scanner
 - [redwood/redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [fyne-io/fyne-cross](https://github.com/fyne-io/fyne-cross) - Cross compiler tool for Fyne apps
 - [eyedeekay/sam-forwarder](https://github.com/eyedeekay/sam-forwarder) - i2ptunnel for Go applications, using SAM instead of I2CP.
