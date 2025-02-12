@@ -506,6 +506,7 @@
 
 ## Go 
 
+- [PowPool/xmrpool](https://github.com/PowPool/xmrpool) - Improved mining pool for Monero
 - [theHamdiz/it](https://github.com/theHamdiz/it) - A collection of helpful error handling, performance measuring, execution retrial, benchmarking & other useful patterns for golang under one package.
 - [Hoshinonyaruko/palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
