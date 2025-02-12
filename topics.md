@@ -317,6 +317,7 @@
 ## artificial-intelligence 
 
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
 
 ## atom 
@@ -1355,6 +1356,7 @@
 
 ## golang 
 
+- [PowPool/xmrpool](https://github.com/PowPool/xmrpool) - Improved mining pool for Monero
 - [theHamdiz/it](https://github.com/theHamdiz/it) - A collection of helpful error handling, performance measuring, execution retrial, benchmarking & other useful patterns for golang under one package.
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
@@ -2290,6 +2292,7 @@
 
 ## monero 
 
+- [PowPool/xmrpool](https://github.com/PowPool/xmrpool) - Improved mining pool for Monero
 - [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [AthanorLabs/atomic-swap](https://github.com/AthanorLabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
 - [SChernykh/p2pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining
