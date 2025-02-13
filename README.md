@@ -1937,7 +1937,7 @@
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [maciekmm/container-tabs-sidebar](https://github.com/maciekmm/container-tabs-sidebar) - Firefox addon aiming to utilize screen estate more efficiently by showing tabs in a sidebar grouped by privacy containers. Inspired by TreeStyleTab.
 - [EffectiveAF/effective](https://github.com/EffectiveAF/effective) - Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [
-- [metowolf/iplist](https://github.com/metowolf/iplist) - :book: IP CIDRs List / IP 地址列表
+- [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
 - [eyedeekay/I2P-in-Private-Browsing-Mode-Firefox](https://github.com/eyedeekay/I2P-in-Private-Browsing-Mode-Firefox) - I2P in Private Browsing mode for Firefox, built using Webextensions and Contextual Identities
 - [zleman1593/Aktie](https://github.com/zleman1593/Aktie) - A DDP-based Peer-to-Peer File Sharing System
 - [jenkinsci/firefox-extension-buildmonitor](https://github.com/jenkinsci/firefox-extension-buildmonitor) - Jenkins Firefox Add-on BuildMonitor
@@ -2277,7 +2277,7 @@
 - [Xe/crowley](https://github.com/Xe/crowley) - A HTTP router built to scale
 - [denji/golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples
 - [chokepoint/crunchpwn](https://github.com/chokepoint/crunchpwn) - #Pwn Linux (CrunchPwn) is a penetration testing repository/addition for CrunchBang Linux.
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [agl/ed25519](https://github.com/agl/ed25519) - ed25519 for Go
 - [jnny/fundingopensource](https://github.com/jnny/fundingopensource) - Resources for sustaining open source projects
