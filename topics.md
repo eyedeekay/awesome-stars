@@ -862,7 +862,7 @@
 
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [parnoldx/nasc](https://github.com/parnoldx/nasc) - Do maths like a normal person
 
 ## electron 
@@ -900,7 +900,7 @@
 
 ## es6 
 
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 
 ## ethereum 
 
@@ -2020,7 +2020,7 @@
 - [streamr-dev/streamr-client-javascript](https://github.com/streamr-dev/streamr-client-javascript) - JS library for interacting with Streamr APIs: publishing and subscribing to data, creating streams, etc.
 - [d3x0r/gun-file](https://github.com/d3x0r/gun-file) - Storage adapater for Gun database; adds local file system storage.
 - [smartnsoft/android-monero-miner](https://github.com/smartnsoft/android-monero-miner) - A minimal SDK that lets an integrator add a Monero Miner using the Javascript miner created by CoinHive. The Monero Miner can be used with any CoinHive address and is a proof of concept of an alternat
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
@@ -2750,7 +2750,7 @@
 - [j15r/bookmark-server](https://github.com/j15r/bookmark-server) - Simple bookmark server to sync browser bookmarks with  WebExtensions
 - [BenNeighbour/istio](https://github.com/BenNeighbour/istio) - Connect, secure, control, and observe services.
 - [marek22k/php-i2pseed](https://github.com/marek22k/php-i2pseed) - 
-- [metowolf/iplist](https://github.com/metowolf/iplist) - :book: IP CIDRs List / IP 地址列表
+- [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
 - [Arlet/Freecut](https://github.com/Arlet/Freecut) - Free cutting firmware replacement for cricut hardware
 - [v2ray/geoip](https://github.com/v2ray/geoip) - 
 - [mogoweb/chromium_webview](https://github.com/mogoweb/chromium_webview) - Android WebView wrapper based on chromium
@@ -4265,7 +4265,7 @@
 
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## project-management 
