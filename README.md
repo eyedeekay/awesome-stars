@@ -204,7 +204,7 @@
 - [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
 - [HnkGitHub/MsLink](https://github.com/HnkGitHub/MsLink) - Create and Delete Symbolic Links for Windows
 - [vikasnkumar/hotpatch](https://github.com/vikasnkumar/hotpatch) - Hot patching executables on Linux using .so file injection
-- [0xFA11/GameNetworkingResources](https://github.com/0xFA11/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming Resources
+- [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 - [Tribler/self-compile-Android](https://github.com/Tribler/self-compile-Android) - Autonomous smartphone app. Capable of self-compilation, mutation, and viral spreading. World-first proof-of-principle to bypass Internet kill switches.
 - [psyc/libpsyc](https://github.com/psyc/libpsyc) - 
 - [majestrate/trans2p](https://github.com/majestrate/trans2p) - 
@@ -471,6 +471,7 @@
 
 ## Dockerfile 
 
+- [qdm12/godevcontainer](https://github.com/qdm12/godevcontainer) - Golang development container for Visual Studio Code Remote Containers Development
 - [kelvie/dcss-web-docker](https://github.com/kelvie/dcss-web-docker) - Dockerized web version of Dungeon Crawl Stone Soup
 - [matsuu/docker-nethack](https://github.com/matsuu/docker-nethack) - Dockerfile for Nethack 3.6.7
 - [matsuu/docker-nethack-server](https://github.com/matsuu/docker-nethack-server) - Dockerfile for Public NetHack server
@@ -506,6 +507,7 @@
 
 ## Go 
 
+- [reeflective/readline](https://github.com/reeflective/readline) - Shell library with powerful and modern UI, large feature set, and `.inputrc` support
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [PowPool/xmrpool](https://github.com/PowPool/xmrpool) - Improved mining pool for Monero
 - [theHamdiz/it](https://github.com/theHamdiz/it) - A collection of helpful error handling, performance measuring, execution retrial, benchmarking & other useful patterns for golang under one package.
@@ -1070,7 +1072,7 @@
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [chaoyangnz/gava](https://github.com/chaoyangnz/gava) - 🚀 A sandboxed VM any Java developer can afford
 - [bsdpunk/dndshell](https://github.com/bsdpunk/dndshell) - Dungeons And Dragons Shell Tool
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free little text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compil
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [quasilyte/go-jdk](https://github.com/quasilyte/go-jdk) - Run JVM-based code in Go efficiently
 - [ThomasHabets/goircd](https://github.com/ThomasHabets/goircd) - Minimalistic simple Internet Relay Chat (IRC) server
@@ -1695,7 +1697,6 @@
 - [olahol/melody-jsnes](https://github.com/olahol/melody-jsnes) - :tv: Multiplayer NES through the magic of WebSockets and Go.
 - [mynodebtc/mynode](https://github.com/mynodebtc/mynode) - The easiest way to run Bitcoin and Lightning!
 - [macromorgan/chip-debroot](https://github.com/macromorgan/chip-debroot) - 
-- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game. Authoritative Game Server
 - [AuraOS/AuraOS](https://github.com/AuraOS/AuraOS) - An advanced FreeDOS-based Live CD.
 - [marek22k/php-i2pseed](https://github.com/marek22k/php-i2pseed) - 
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
@@ -1903,6 +1904,7 @@
 
 ## JavaScript 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [CodingTrain/Oregon-Trail](https://github.com/CodingTrain/Oregon-Trail) - A p5.js version of the Apple ][ Oregon Trail Game
 - [linuxserver/emulatorjs](https://github.com/linuxserver/emulatorjs) - Self hosted web based retro emulation front end with rom and art management.
 - [SwiftIRC/Web-IRC](https://github.com/SwiftIRC/Web-IRC) - A feature-rich Websocket IRC client in JavaScript
@@ -1931,6 +1933,7 @@
 - [handshake-org/hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [jyap808/g0bin](https://github.com/jyap808/g0bin) - G0Bin is a client side encrypted pastebin written in Go
+- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game. Authoritative Game Server
 - [mozilla/addons-frontend](https://github.com/mozilla/addons-frontend) - Front-end to complement mozilla/addons-server
 - [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web) - An HTML5 Mumble client
 - [FelixMcFelix/Shallot](https://github.com/FelixMcFelix/Shallot) - Small-scale onion routing over WebRTC
