@@ -507,6 +507,7 @@
 
 ## Go 
 
+- [samber/oops](https://github.com/samber/oops) - 🔥 Error handling library with context, assertion, stack trace and source fragments
 - [reeflective/readline](https://github.com/reeflective/readline) - Shell library with powerful and modern UI, large feature set, and `.inputrc` support
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [PowPool/xmrpool](https://github.com/PowPool/xmrpool) - Improved mining pool for Monero
@@ -714,6 +715,7 @@
 - [veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client) - Tiny BitTorrent client written in Go
 - [allhailjarjar/go-libp2p-i2p-transport](https://github.com/allhailjarjar/go-libp2p-i2p-transport) - Transport to allow go-libp2p applications to natively use i2p for communication
 - [griffithsh/squads](https://github.com/griffithsh/squads) - A hexagonal Tactics roguelite game.
+- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game. Authoritative Game Server
 - [kasworld/goguelike](https://github.com/kasworld/goguelike) - MMO roguelike game
 - [yuva670/ipfs-go-client](https://github.com/yuva670/ipfs-go-client) - This is a simple client for IPFS - add and receive files to/from ipfs
 - [aler9/dctk](https://github.com/aler9/dctk) - Direct Connect client library (ADC and NMDC) for the Go programming language
@@ -1933,7 +1935,6 @@
 - [handshake-org/hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [jyap808/g0bin](https://github.com/jyap808/g0bin) - G0Bin is a client side encrypted pastebin written in Go
-- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game. Authoritative Game Server
 - [mozilla/addons-frontend](https://github.com/mozilla/addons-frontend) - Front-end to complement mozilla/addons-server
 - [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web) - An HTML5 Mumble client
 - [FelixMcFelix/Shallot](https://github.com/FelixMcFelix/Shallot) - Small-scale onion routing over WebRTC
@@ -2627,6 +2628,17 @@
 
 ## Rust 
 
+- [altonen/yosemite](https://github.com/altonen/yosemite) - Asynchronous SAMv3 library
+- [albe-rosado/i2pd-sys](https://github.com/albe-rosado/i2pd-sys) - Rust bindings for i2pd
+- [bddap/i2pcat](https://github.com/bddap/i2pcat) - send or receive a byte stream over i2p
+- [mikalv/rust-i2p](https://github.com/mikalv/rust-i2p) - Rust implementation of i2p protocol.
+- [kn0sys/j4-i2p-rs](https://github.com/kn0sys/j4-i2p-rs) - Java for I2P Rust wrapper
+- [ChristopherBilg/rs-i2p-samv3](https://github.com/ChristopherBilg/rs-i2p-samv3) - I2P SAMv3 client implementation
+- [kn0sys/is2fp](https://github.com/kn0sys/is2fp) - Dandelion-IS2FP uses random i2p relay servers for stem selection and fluff propagation
+- [bonedaddy/teeceepeeproxy](https://github.com/bonedaddy/teeceepeeproxy) - i2p tcp proxy
+- [str4d/i2p_elgamal](https://github.com/str4d/i2p_elgamal) - Rust implementation of I2P's 2048-bit ElGamal primitive
+- [bonedaddy/b0n3r](https://github.com/bonedaddy/b0n3r) - Erecting I2P tunnels for anonymous microservice development, with fully decentralized ddos mitigation using VDF captchas.
+- [creating2morrow/neveko](https://github.com/creating2morrow/neveko) - full-stack privacy application with enciphered messaging, monero multisig and built-in i2p marketplace
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [uw-pluverse/perses](https://github.com/uw-pluverse/perses) - language-agnostic program reducer.
 - [dominic-codespoti/ascii-gen](https://github.com/dominic-codespoti/ascii-gen) - A CLI tool that converts images to ASCII art.
@@ -2748,6 +2760,7 @@
 
 ## Shell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [JNRowe/surfraw](https://github.com/JNRowe/surfraw) - Mirror of the upstream git repository
 - [n4ru/1vyrain](https://github.com/n4ru/1vyrain) - LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking.
 - [noob-hackers/kalimux](https://github.com/noob-hackers/kalimux) - Install And Use Kali Linux With Gui In Termux
