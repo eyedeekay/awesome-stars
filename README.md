@@ -286,7 +286,7 @@
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 - [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
 - [zamaudio/intelmetool](https://github.com/zamaudio/intelmetool) - My tool for working with Intel Management Engine - RETIRED REPO (see coreboot for new upstream)
-- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
+- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. Synced every hour. We don't handle Pull Requests.
 - [raspberrypi/hats](https://github.com/raspberrypi/hats) - 
 - [mempodippy/vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
 - [marizmendi/BitStegNet](https://github.com/marizmendi/BitStegNet) - PoC for Network Steganography using BitTorrent traffic
@@ -507,6 +507,9 @@
 
 ## Go 
 
+- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
+- [blusip/blu](https://github.com/blusip/blu) - Yet another SIP server.
+- [gbazil/sipd](https://github.com/gbazil/sipd) - Lite SIP Server
 - [samber/oops](https://github.com/samber/oops) - 🔥 Error handling library with context, assertion, stack trace and source fragments
 - [reeflective/readline](https://github.com/reeflective/readline) - Shell library with powerful and modern UI, large feature set, and `.inputrc` support
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -1230,6 +1233,7 @@
 - [brave-intl/bat-go](https://github.com/brave-intl/bat-go) - Pass "go", collect 200 BAT
 - [DataDog/gohai](https://github.com/DataDog/gohai) - System information collector
 - [arkizenty-dev/finfetch](https://github.com/arkizenty-dev/finfetch) - A simple command line tool used to show time written in Go
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [cjdelisle/goposit](https://github.com/cjdelisle/goposit) - Library for Posit math in golang
@@ -1913,7 +1917,6 @@
 - [x0th/Local-PGP](https://github.com/x0th/Local-PGP) - In-browser PGP encryption and decryption.
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [eyedeekay/Onion-in-Container-Browsing-Mode-Firefox](https://github.com/eyedeekay/Onion-in-Container-Browsing-Mode-Firefox) - UNOFFICIAL! NOT ENDORSED BY THE TOR PROJECT! USE TOR BROWSER. WebExtension for browsing .onion sites directly in Firefox using a container tab.
-- [superseriousbusiness/gotosocial-admin](https://github.com/superseriousbusiness/gotosocial-admin) - Admin webapp for GoToSocial
 - [Atavic/legacy-user.js](https://github.com/Atavic/legacy-user.js) - A User.js file stripped down to the bone!
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -2001,7 +2004,6 @@
 - [travisdmathis/cdrw-frontend](https://github.com/travisdmathis/cdrw-frontend) - Frontend for Decentralized Certificate of Deposit built on Ethereum in 32hrs for ETHBoston
 - [slate/slate](https://github.com/slate/slate) - Slate IRC client
 - [retrohacker/peerweb.js](https://github.com/retrohacker/peerweb.js) - A client side library for fetching and rendering a static website via torrent over WebRTC
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [PursuanceProject/pursuance](https://github.com/PursuanceProject/pursuance) - Pursuance: end-to-end encrypted task management optimized for large numbers of volunteers. We are building a vast and formidable ecosystem of opposition to institutionalized injustice.
 - [Jorropo/js-libp2p-i2p](https://github.com/Jorropo/js-libp2p-i2p) - This the transport and connection of i2p for js-libp2p.
@@ -2020,7 +2022,7 @@
 - [adonisfamilia/TorTab](https://github.com/adonisfamilia/TorTab) - 
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [cmgiven/gov-availability](https://github.com/cmgiven/gov-availability) - The availability of the government of the United States of America
-- [shobrook/BitVision](https://github.com/shobrook/BitVision) - TUI for trading Bitcoin, modeling price movements, and losing all your money
+- [shobrook/BitVision](https://github.com/shobrook/BitVision) - Trade Bitcoin and run forecasting models from the terminal
 - [adonespitogo/AdoBot-IO](https://github.com/adonespitogo/AdoBot-IO) - AdoBot NodeJS Server with socket.io
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
@@ -2197,6 +2199,7 @@
 
 ## Others 
 
+- [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
 - [thinkski/osx-arm-linux-toolchains](https://github.com/thinkski/osx-arm-linux-toolchains) - Pre-built ARM/Linux C cross-compilers for MacOS
 - [i2p/i2p.graphics](https://github.com/i2p/i2p.graphics) - I2P Graphics (Git mirror of mtn://mtn.i2p-projekt.de?i2p.graphics)
 - [johnboiles/BaofengUV5R-TRRS](https://github.com/johnboiles/BaofengUV5R-TRRS) - Tiny board that allows you to connect the Baofeng UV5R radio to a smartphone or other device that uses a TRRS connector for audio.
@@ -2628,6 +2631,7 @@
 
 ## Rust 
 
+- [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
 - [altonen/yosemite](https://github.com/altonen/yosemite) - Asynchronous SAMv3 library
 - [albe-rosado/i2pd-sys](https://github.com/albe-rosado/i2pd-sys) - Rust bindings for i2pd
 - [bddap/i2pcat](https://github.com/bddap/i2pcat) - send or receive a byte stream over i2p
