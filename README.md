@@ -1877,7 +1877,7 @@
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [TeamWizardry/Wizardry](https://github.com/TeamWizardry/Wizardry) - Delve into spell creation and become a wizard
 - [Angry-Pixel/The-Betweenlands](https://github.com/Angry-Pixel/The-Betweenlands) - A dark, hostile environment...
-- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/13/generate_metadata.py for the server metadata generation tool.
+- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/15/generate_metadata.py for the server metadata generation tool.
 - [harikris/android-forensics](https://github.com/harikris/android-forensics) - Open source Android Forensics app and framework
 - [sokratis12GR/ArmorPlus](https://github.com/sokratis12GR/ArmorPlus) - ArmorPlus is a mod based on exploration, killing, building, getting geared up, fight the bosses and explore the depths of your worlds.
 - [TechReborn/TechReborn](https://github.com/TechReborn/TechReborn) - Tech Reborn is a completely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod. https://www.curseforge.com/minecraft/mc-mods/techrebo
@@ -2199,6 +2199,7 @@
 
 ## Others 
 
+- [DoingFedTime/AirGappedSystemExplained](https://github.com/DoingFedTime/AirGappedSystemExplained) - A SVG visualization explaining air-gapped systems.
 - [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
 - [thinkski/osx-arm-linux-toolchains](https://github.com/thinkski/osx-arm-linux-toolchains) - Pre-built ARM/Linux C cross-compilers for MacOS
 - [i2p/i2p.graphics](https://github.com/i2p/i2p.graphics) - I2P Graphics (Git mirror of mtn://mtn.i2p-projekt.de?i2p.graphics)
