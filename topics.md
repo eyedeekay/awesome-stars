@@ -198,6 +198,7 @@
 - [termux-hacking](#termux-hacking)
 - [terraform](#terraform)
 - [testing](#testing)
+- [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -266,7 +267,7 @@
 - [mhatta/Orchid](https://github.com/mhatta/Orchid) - A Tor client implementation and library written in pure Java
 - [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
 - [adonespitogo/AdoBot](https://github.com/adonespitogo/AdoBot) - Open-source android spyware
-- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/13/generate_metadata.py for the server metadata generation tool.
+- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/15/generate_metadata.py for the server metadata generation tool.
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
 - [HelloZeroNet/ZeroNet-kivy](https://github.com/HelloZeroNet/ZeroNet-kivy) - Android client for ZeroNet
@@ -422,7 +423,7 @@
 - [koalalorenzo/wallets](https://github.com/koalalorenzo/wallets) - 💰Multi-crypto wallets/keys generator for cold storage with built-in encryption.
 - [piotrnar/gocoin](https://github.com/piotrnar/gocoin) - Full bitcoin solution written in Go (golang)
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
-- [shobrook/BitVision](https://github.com/shobrook/BitVision) - TUI for trading Bitcoin, modeling price movements, and losing all your money
+- [shobrook/BitVision](https://github.com/shobrook/BitVision) - Trade Bitcoin and run forecasting models from the terminal
 - [copernet/copernicus](https://github.com/copernet/copernicus) - An alternative implementation of the Bitcoin Cash protocol, written in Golang
 - [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
 - [pielco11/DOT](https://github.com/pielco11/DOT) - Darknet OSINT Transform
@@ -507,7 +508,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.
+- [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. Synced every hour. We don't handle Pull Requests.
 - [mempodippy/vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
 
 ## c-plus-plus 
@@ -1740,6 +1741,7 @@
 
 ## hacktoberfest 
 
+- [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
 - [yorkie-team/yorkie](https://github.com/yorkie-team/yorkie) - Yorkie is a document store for collaborative applications.
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
@@ -2234,7 +2236,7 @@
 ## machine-learning 
 
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [shobrook/BitVision](https://github.com/shobrook/BitVision) - TUI for trading Bitcoin, modeling price movements, and losing all your money
+- [shobrook/BitVision](https://github.com/shobrook/BitVision) - Trade Bitcoin and run forecasting models from the terminal
 - [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
 
@@ -2468,6 +2470,11 @@
 
 ## others 
 
+- [DoingFedTime/AirGappedSystemExplained](https://github.com/DoingFedTime/AirGappedSystemExplained) - A SVG visualization explaining air-gapped systems.
+- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
+- [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
+- [blusip/blu](https://github.com/blusip/blu) - Yet another SIP server.
+- [gbazil/sipd](https://github.com/gbazil/sipd) - Lite SIP Server
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [albe-rosado/i2pd-sys](https://github.com/albe-rosado/i2pd-sys) - Rust bindings for i2pd
 - [bddap/i2pcat](https://github.com/bddap/i2pcat) - send or receive a byte stream over i2p
@@ -2546,7 +2553,6 @@
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [benbjohnson/css](https://github.com/benbjohnson/css) - W3C-compliant CSS3 parser and scanner
 - [eyedeekay/Onion-in-Container-Browsing-Mode-Firefox](https://github.com/eyedeekay/Onion-in-Container-Browsing-Mode-Firefox) - UNOFFICIAL! NOT ENDORSED BY THE TOR PROJECT! USE TOR BROWSER. WebExtension for browsing .onion sites directly in Firefox using a container tab.
-- [superseriousbusiness/gotosocial-admin](https://github.com/superseriousbusiness/gotosocial-admin) - Admin webapp for GoToSocial
 - [shanman190/go-update-alternatives](https://github.com/shanman190/go-update-alternatives) - 
 - [superseriousbusiness/exif-terminator](https://github.com/superseriousbusiness/exif-terminator) - READ ONLY - Migrated to Codeberg
 - [tjnull/TJ-OSINT-Notebook](https://github.com/tjnull/TJ-OSINT-Notebook) - This OSINT Notebook provides an overview of the tools, techniques, and resources that I use for a variety of situations when it comes to performing reconaissance and OSINT operations.  This Notebook h
@@ -3166,7 +3172,7 @@
 - [Pluggable-Transports/Pluggable-Transports-website](https://github.com/Pluggable-Transports/Pluggable-Transports-website) - 
 - [getlantern/http-proxy-archived](https://github.com/getlantern/http-proxy-archived) - HTTP Proxy with TLS support
 - [cornfeedhobo/ssh-keydgen](https://github.com/cornfeedhobo/ssh-keydgen) - Generate Deterministic SSH keys
-- [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
+- [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 - [Jorropo/js-libp2p-i2p](https://github.com/Jorropo/js-libp2p-i2p) - This the transport and connection of i2p for js-libp2p.
 - [wesaphzt/privatelocation](https://github.com/wesaphzt/privatelocation) - 
 - [gumblex/ptproxy](https://github.com/gumblex/ptproxy) - Turn any pluggable transport for Tor into an obfuscating TCP tunnel.
@@ -4261,7 +4267,7 @@
 - [i2p/i2p.i2p-bote](https://github.com/i2p/i2p.i2p-bote) - I2P-Bote is a serverless, encrypted e-mail application.
 - [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 - [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
-- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/13/generate_metadata.py for the server metadata generation tool.
+- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/15/generate_metadata.py for the server metadata generation tool.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [bulwark-crypto/Bulwark](https://github.com/bulwark-crypto/Bulwark) - The primary development repository for the Bulwark project
@@ -4604,7 +4610,7 @@
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
-- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/13/generate_metadata.py for the server metadata generation tool.
+- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/15/generate_metadata.py for the server metadata generation tool.
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [ciscocsirt/GOSINT](https://github.com/ciscocsirt/GOSINT) - The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
 - [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
@@ -4841,6 +4847,12 @@
 
 - [stevenaldinger/decker](https://github.com/stevenaldinger/decker) - Declarative penetration testing orchestration framework
 - [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
+
+## trading 
+
+- [shobrook/BitVision](https://github.com/shobrook/BitVision) - Trade Bitcoin and run forecasting models from the terminal
+- [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## twitter 
 
