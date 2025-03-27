@@ -280,7 +280,7 @@
 - [glouw/andvaranaut](https://github.com/glouw/andvaranaut) - A dungeon crawler
 - [rockchip-linux/kernel](https://github.com/rockchip-linux/kernel) - BSP kernel source
 - [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [pranomostro/ratox](https://github.com/pranomostro/ratox) - [wip] fifo based tox client
 - [GrapheneOS/linux-hardened](https://github.com/GrapheneOS/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
@@ -507,6 +507,9 @@
 
 ## Go 
 
+- [Xpl0itU/WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
+- [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [blusip/blu](https://github.com/blusip/blu) - Yet another SIP server.
 - [gbazil/sipd](https://github.com/gbazil/sipd) - Lite SIP Server
@@ -1760,7 +1763,7 @@
 
 ## Haxe 
 
-- [go2hx/go2hx](https://github.com/go2hx/go2hx) - Go to Haxe source-to-source compiler
+- [go2hx/go2hx](https://github.com/go2hx/go2hx) - Import Go libraries in your Haxe projects Go -&gt; Haxe source-to-source compiler
 
 ## HolyC 
 
