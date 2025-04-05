@@ -198,6 +198,7 @@
 - [termux-hacking](#termux-hacking)
 - [terraform](#terraform)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -505,7 +506,7 @@
 - [Interrupt/systemshock](https://github.com/Interrupt/systemshock) - Shockolate - A minimalist and cross platform System Shock source port.
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [owntone/owntone-server](https://github.com/owntone/owntone-server) - Linux/FreeBSD DAAP (iTunes) and MPD audio server with support for AirPlay 1 and 2 speakers (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [coreboot/coreboot](https://github.com/coreboot/coreboot) - Read-only mirror of https://review.coreboot.org/coreboot.git. Synced every hour. We don't handle Pull Requests.
@@ -567,6 +568,7 @@
 
 ## cli 
 
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
@@ -611,7 +613,7 @@
 
 ## compiler 
 
-- [go2hx/go2hx](https://github.com/go2hx/go2hx) - Go to Haxe source-to-source compiler
+- [go2hx/go2hx](https://github.com/go2hx/go2hx) - Import Go libraries in your Haxe projects Go -&gt; Haxe source-to-source compiler
 - [udhos/basgo](https://github.com/udhos/basgo) - basgo compiles BASIC-lang to Golang. Then 'go build' can translate code to native executable binary.
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -669,6 +671,7 @@
 
 ## cryptography 
 
+- [altonen/emissary](https://github.com/altonen/emissary) - Rust implementation of the I2P protocol stack
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [depado/goploader](https://github.com/depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant
@@ -932,6 +935,7 @@
 
 ## firefox 
 
+- [eyedeekay/Copy-Tab-URL](https://github.com/eyedeekay/Copy-Tab-URL) - Copy Tab URL WebExtension for at least Firefox
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
@@ -1124,7 +1128,7 @@
 - [cornelk/gitlab2gitea](https://github.com/cornelk/gitlab2gitea) - Migration tool from GitLab to Gitea
 - [waldirborbajr/kvstok](https://github.com/waldirborbajr/kvstok) - KVSToK - is a CLI-base KEY VALUE storage
 - [digitaldata-cz/tarfs](https://github.com/digitaldata-cz/tarfs) - Golang library with in-memory http.Filesystem from tar archives.
-- [go2hx/go2hx](https://github.com/go2hx/go2hx) - Go to Haxe source-to-source compiler
+- [go2hx/go2hx](https://github.com/go2hx/go2hx) - Import Go libraries in your Haxe projects Go -&gt; Haxe source-to-source compiler
 - [fyne-io/fyne-cross](https://github.com/fyne-io/fyne-cross) - Cross compiler tool for Fyne apps
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 - [balacode/one-file-pdf](https://github.com/balacode/one-file-pdf) - A minimalist Go PDF writer in 1982 lines. Draws text, images and shapes. Helps understand the PDF format. Used in production for reports.
@@ -1364,6 +1368,7 @@
 
 ## golang 
 
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [reeflective/readline](https://github.com/reeflective/readline) - Shell library with powerful and modern UI, large feature set, and `.inputrc` support
 - [qdm12/godevcontainer](https://github.com/qdm12/godevcontainer) - Golang development container for Visual Studio Code Remote Containers Development
 - [PowPool/xmrpool](https://github.com/PowPool/xmrpool) - Improved mining pool for Monero
@@ -1380,7 +1385,7 @@
 - [TalesMUD/talesmud](https://github.com/TalesMUD/talesmud) - MUD development framework/platform written in Golang
 - [waldirborbajr/kvstok](https://github.com/waldirborbajr/kvstok) - KVSToK - is a CLI-base KEY VALUE storage
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
-- [go2hx/go2hx](https://github.com/go2hx/go2hx) - Go to Haxe source-to-source compiler
+- [go2hx/go2hx](https://github.com/go2hx/go2hx) - Import Go libraries in your Haxe projects Go -&gt; Haxe source-to-source compiler
 - [fyne-io/fyne-cross](https://github.com/fyne-io/fyne-cross) - Cross compiler tool for Fyne apps
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
 - [balacode/one-file-pdf](https://github.com/balacode/one-file-pdf) - A minimalist Go PDF writer in 1982 lines. Draws text, images and shapes. Helps understand the PDF format. Used in production for reports.
@@ -1827,7 +1832,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [vala-lang/vala-lint](https://github.com/vala-lang/vala-lint) - Check code-style of Vala code files
@@ -2128,6 +2133,7 @@
 
 ## linux 
 
+- [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
@@ -2470,6 +2476,18 @@
 
 ## others 
 
+- [eyedeekay/go-indexer](https://github.com/eyedeekay/go-indexer) - Indexes torrent files better than zzzot-tracker-hack but uses a tiny bit of javascript
+- [eyedeekay/Actually-Work-Offline](https://github.com/eyedeekay/Actually-Work-Offline) - WebExtension to replaces Mozilla's aggressively useless Work Offline implementation. Requires a wrapper, works by installing an extension into a profile which uninstalls itself.
+- [eyedeekay/cert9util](https://github.com/eyedeekay/cert9util) - Tool/Library for editing Mozilla Firefox cert9 and key4 db's in Go
+- [urgentquest/go-i2p](https://github.com/urgentquest/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [satk0/go-i2p](https://github.com/satk0/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [hkh4n/go-i2p](https://github.com/hkh4n/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [stephenjonpeters/go-i2p](https://github.com/stephenjonpeters/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [Thuulium/go-i2p](https://github.com/Thuulium/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [apeace/go-i2p](https://github.com/apeace/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [kpetku/go-i2p](https://github.com/kpetku/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [vikstrous/gotox](https://github.com/vikstrous/gotox) - [wip] a re-implementation of toxcore in go
+- [Xpl0itU/WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
 - [DoingFedTime/AirGappedSystemExplained](https://github.com/DoingFedTime/AirGappedSystemExplained) - A SVG visualization explaining air-gapped systems.
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
@@ -2508,7 +2526,6 @@
 - [uw-pluverse/perses](https://github.com/uw-pluverse/perses) - language-agnostic program reducer.
 - [bonehurtingjuice/mattereddit](https://github.com/bonehurtingjuice/mattereddit) - Matterbridge API plugin for Reddit Community Chat
 - [torhve/gomirc](https://github.com/torhve/gomirc) - Matrix &lt;=&gt; IRC bridge in Go
-- [SverreNystad/gpt-dungeon-master](https://github.com/SverreNystad/gpt-dungeon-master) - Welcome to the GPT Dungeon Master repository! This project harnesses the power of GPT models to create a dynamic and responsive Dungeon Master (DM) for tabletop role-playing games (RPGs). Whether you'
 - [SwiftIRC/Web-IRC](https://github.com/SwiftIRC/Web-IRC) - A feature-rich Websocket IRC client in JavaScript
 - [subutai-attic/kurjun](https://github.com/subutai-attic/kurjun) - Kurjun is a configurable Apt Repository that can proxy, mirror and merge together several repositories. It can dynamically publish verified changes with version control, access control, encryption, ve
 - [theoweiss/apt-repo](https://github.com/theoweiss/apt-repo) - A maven plugin to create an apt repository.
@@ -3662,7 +3679,7 @@
 - [sha0coder/gohack](https://github.com/sha0coder/gohack) - Hack tools coded in golang
 - [jonaslejon/tor-fingerprint](https://github.com/jonaslejon/tor-fingerprint) - Tor Browser and Tails version fingerprint PoC
 - [xlab/android-go](https://github.com/xlab/android-go) - The android-go project provides a platform for writing native Android apps in Go programming language.
-- [aspic/g-wiki](https://github.com/aspic/g-wiki) - A simple wiki built with Golang with Git as its back-end.
+- [mehlium/g-wiki](https://github.com/mehlium/g-wiki) - A simple wiki built with Golang with Git as its back-end.
 - [barnslig/bilbo](https://github.com/barnslig/bilbo) - Wiki software
 - [lexi-lambda/hackett](https://github.com/lexi-lambda/hackett) - WIP implementation of a Haskell-like Lisp in Racket
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
@@ -3849,8 +3866,6 @@
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [free-greek-iptv/greek-iptv](https://github.com/free-greek-iptv/greek-iptv) - Λίστα με κανάλια της Ελλάδας και της Κύπρου.
 - [ssbc/ssb-db](https://github.com/ssbc/ssb-db) - A database of unforgeable append-only feeds, optimized for efficient replication for peer to peer protocols
-- [TelecomixSyria/Landlines](https://github.com/TelecomixSyria/Landlines) - A simple crowdsourced tracking tool for the status of landlines (and possibly other things in the future).
-- [TelecomixSyria/social-media-attacks](https://github.com/TelecomixSyria/social-media-attacks) - An attempt at making a collaborative report on social media based attacks
 - [firstlookmedia/whistleblower](https://github.com/firstlookmedia/whistleblower) - Headless browser testing utils via Jest and Puppeteer
 - [theintercept/trial-and-terror-data](https://github.com/theintercept/trial-and-terror-data) - Trial and Terror Dataset
 - [firstlookmedia/deployables](https://github.com/firstlookmedia/deployables) - :wastebasket: a basket of deploy scripts
@@ -4483,6 +4498,7 @@
 
 ## rust 
 
+- [altonen/emissary](https://github.com/altonen/emissary) - Rust implementation of the I2P protocol stack
 - [altonen/yosemite](https://github.com/altonen/yosemite) - Asynchronous SAMv3 library
 - [kn0sys/j4-i2p-rs](https://github.com/kn0sys/j4-i2p-rs) - Java for I2P Rust wrapper
 - [creating2morrow/neveko](https://github.com/creating2morrow/neveko) - full-stack privacy application with enciphered messaging, monero multisig and built-in i2p marketplace
@@ -4562,6 +4578,8 @@
 
 ## security 
 
+- [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) - Creepy device and browser fingerprinting
 - [pvrego/dogrobot](https://github.com/pvrego/dogrobot) - DogRobot : A Home C4ISR System
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
@@ -4653,6 +4671,7 @@
 
 ## security-tools 
 
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
@@ -4848,6 +4867,10 @@
 - [stevenaldinger/decker](https://github.com/stevenaldinger/decker) - Declarative penetration testing orchestration framework
 - [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
 
+## text-to-speech 
+
+- [SverreNystad/gpt-dungeon-master](https://github.com/SverreNystad/gpt-dungeon-master) - Welcome to the GPT Dungeon Master repository! This project harnesses the power of GPT models to create a dynamic and responsive Dungeon Master (DM) for tabletop role-playing games (RPGs). Whether you'
+
 ## trading 
 
 - [shobrook/BitVision](https://github.com/shobrook/BitVision) - Trade Bitcoin and run forecasting models from the terminal
@@ -4902,7 +4925,7 @@
 ## vpn 
 
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [eyedeekay/sam-forwarder](https://github.com/eyedeekay/sam-forwarder) - i2ptunnel for Go applications, using SAM instead of I2CP.
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
