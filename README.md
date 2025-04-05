@@ -507,6 +507,16 @@
 
 ## Go 
 
+- [eyedeekay/go-indexer](https://github.com/eyedeekay/go-indexer) - Indexes torrent files better than zzzot-tracker-hack but uses a tiny bit of javascript
+- [eyedeekay/cert9util](https://github.com/eyedeekay/cert9util) - Tool/Library for editing Mozilla Firefox cert9 and key4 db's in Go
+- [urgentquest/go-i2p](https://github.com/urgentquest/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [satk0/go-i2p](https://github.com/satk0/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [hkh4n/go-i2p](https://github.com/hkh4n/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [stephenjonpeters/go-i2p](https://github.com/stephenjonpeters/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [Thuulium/go-i2p](https://github.com/Thuulium/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [apeace/go-i2p](https://github.com/apeace/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [kpetku/go-i2p](https://github.com/kpetku/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [vikstrous/gotox](https://github.com/vikstrous/gotox) - [wip] a re-implementation of toxcore in go
 - [Xpl0itU/WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
 - [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -591,7 +601,7 @@
 - [stateless-minds/cyber-witness](https://github.com/stateless-minds/cyber-witness) - Decentralized media simulator based on the reporter and witnesses concept. It aims to be an alternative to mass media, surveillance, censorship, fact checkers and centralized control of news.
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Application Layer Scanner
 - [redwood/redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [fyne-io/fyne-cross](https://github.com/fyne-io/fyne-cross) - Cross compiler tool for Fyne apps
 - [eyedeekay/sam-forwarder](https://github.com/eyedeekay/sam-forwarder) - i2ptunnel for Go applications, using SAM instead of I2CP.
@@ -1557,7 +1567,7 @@
 - [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) - Golang for Security Professionals
 - [xlab/android-go](https://github.com/xlab/android-go) - The android-go project provides a platform for writing native Android apps in Go programming language.
-- [aspic/g-wiki](https://github.com/aspic/g-wiki) - A simple wiki built with Golang with Git as its back-end.
+- [mehlium/g-wiki](https://github.com/mehlium/g-wiki) - A simple wiki built with Golang with Git as its back-end.
 - [barnslig/bilbo](https://github.com/barnslig/bilbo) - Wiki software
 - [undead-ru/gofido](https://github.com/undead-ru/gofido) - Golang library for FidoNet tools developing
 - [majestrate/i2pboted](https://github.com/majestrate/i2pboted) - 
@@ -1699,6 +1709,7 @@
 
 ## HTML 
 
+- [eyedeekay/Copy-Tab-URL](https://github.com/eyedeekay/Copy-Tab-URL) - Copy Tab URL WebExtension for at least Firefox
 - [0xless/clickjackpocgen](https://github.com/0xless/clickjackpocgen) - Simple PoC generator for clickjacking vulnerabilities
 - [eyedeekay/i2p.plugins.tor-manager](https://github.com/eyedeekay/i2p.plugins.tor-manager) - Cross-platform Tor Browser and Tor Service Manager/Updater intended mostly for I2P.
 - [marek22k/p2p-chat](https://github.com/marek22k/p2p-chat) - A simple peer-to-peer chat that uses the PeerMessage plugin for communication and the CryptMessage plugin and Ecies for encryption.
@@ -1913,6 +1924,7 @@
 
 ## JavaScript 
 
+- [eyedeekay/Actually-Work-Offline](https://github.com/eyedeekay/Actually-Work-Offline) - WebExtension to replaces Mozilla's aggressively useless Work Offline implementation. Requires a wrapper, works by installing an extension into a profile which uninstalls itself.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [CodingTrain/Oregon-Trail](https://github.com/CodingTrain/Oregon-Trail) - A p5.js version of the Apple ][ Oregon Trail Game
 - [linuxserver/emulatorjs](https://github.com/linuxserver/emulatorjs) - Self hosted web based retro emulation front end with rom and art management.
@@ -2103,7 +2115,6 @@
 - [calzoneman/sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [ssbc/ssb-db](https://github.com/ssbc/ssb-db) - A database of unforgeable append-only feeds, optimized for efficient replication for peer to peer protocols
-- [TelecomixSyria/Landlines](https://github.com/TelecomixSyria/Landlines) - A simple crowdsourced tracking tool for the status of landlines (and possibly other things in the future).
 - [firstlookmedia/whistleblower](https://github.com/firstlookmedia/whistleblower) - Headless browser testing utils via Jest and Puppeteer
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [bradoyler/xmr-miner](https://github.com/bradoyler/xmr-miner) - Web-based Cryptocurrency miner, built with Vue.js
@@ -2307,7 +2318,6 @@
 - [clflush/elf-infector](https://github.com/clflush/elf-infector) - ELF binary infector
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - curated list of open-source anti-censorship tools
 - [free-greek-iptv/greek-iptv](https://github.com/free-greek-iptv/greek-iptv) - Λίστα με κανάλια της Ελλάδας και της Κύπρου.
-- [TelecomixSyria/social-media-attacks](https://github.com/TelecomixSyria/social-media-attacks) - An attempt at making a collaborative report on social media based attacks
 - [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
 - [theintercept/trial-and-terror-data](https://github.com/theintercept/trial-and-terror-data) - Trial and Terror Dataset
 - [radareorg/awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
@@ -2635,6 +2645,7 @@
 
 ## Rust 
 
+- [altonen/emissary](https://github.com/altonen/emissary) - Rust implementation of the I2P protocol stack
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
 - [altonen/yosemite](https://github.com/altonen/yosemite) - Asynchronous SAMv3 library
 - [albe-rosado/i2pd-sys](https://github.com/albe-rosado/i2pd-sys) - Rust bindings for i2pd
