@@ -826,7 +826,7 @@
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 - [retenet/tunle](https://github.com/retenet/tunle) - Dockerized Tunneling for Containers
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
 - [diva-exchange/i2p](https://github.com/diva-exchange/i2p) - I2P Layer of diva.exchange. Based on i2pd, see https://github.com/PurpleI2P/i2pd
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image
@@ -1224,7 +1224,7 @@
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [alokmenghrajani/gpgeez](https://github.com/alokmenghrajani/gpgeez) - Small wrapper around golang.org/x/crypto/openpgp
 - [gkze/gh-stars](https://github.com/gkze/gh-stars) - :star: Keep your Github Stars fresh!
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [cybozu-go/aptutil](https://github.com/cybozu-go/aptutil) - Go utilities for Debian APT repositories
 - [kokizzu/goproc](https://github.com/kokizzu/goproc) - simple process manager helper library
@@ -1964,7 +1964,7 @@
 - [zapek/Xeres](https://github.com/zapek/Xeres) - A Friend-to-Friend, decentralized and secure application for communication and sharing
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [wasmerio/wasmer-java](https://github.com/wasmerio/wasmer-java) - ☕ WebAssembly runtime for Java
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
 - [dorkbox/Notify](https://github.com/dorkbox/Notify) - Linux, MacOS, or Windows (notification/growl/toast) popups for the desktop and applications for Java 8+
 - [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
 - [jupnp/jupnp](https://github.com/jupnp/jupnp) - UPnP/DLNA library for Java
@@ -2092,7 +2092,7 @@
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
@@ -2298,7 +2298,7 @@
 ## minecraft 
 
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [TeamWizardry/Wizardry](https://github.com/TeamWizardry/Wizardry) - Delve into spell creation and become a wizard
 - [Angry-Pixel/The-Betweenlands](https://github.com/Angry-Pixel/The-Betweenlands) - A dark, hostile environment...
@@ -4242,7 +4242,7 @@
 - [creating2morrow/neveko](https://github.com/creating2morrow/neveko) - full-stack privacy application with enciphered messaging, monero multisig and built-in i2p marketplace
 - [namecoin/sockstrace](https://github.com/namecoin/sockstrace) - Go port of Heteronculous (ptrace-based proxy leak detector).  Outreachy project.
 - [htrgouvea/nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
-- [cyphernet-labs/rust-cyphernet](https://github.com/cyphernet-labs/rust-cyphernet) - Cyphernet is a set of libraries for privacy-preserving networking apps
+- [cyphernet-labs/cyphernet.rs](https://github.com/cyphernet-labs/cyphernet.rs) - Cyphernet is a set of libraries for privacy-preserving networking apps
 - [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
@@ -4504,7 +4504,7 @@
 - [creating2morrow/neveko](https://github.com/creating2morrow/neveko) - full-stack privacy application with enciphered messaging, monero multisig and built-in i2p marketplace
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
-- [cyphernet-labs/rust-cyphernet](https://github.com/cyphernet-labs/rust-cyphernet) - Cyphernet is a set of libraries for privacy-preserving networking apps
+- [cyphernet-labs/cyphernet.rs](https://github.com/cyphernet-labs/cyphernet.rs) - Cyphernet is a set of libraries for privacy-preserving networking apps
 - [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [betrusted-io/xous-core](https://github.com/betrusted-io/xous-core) - The Xous microkernel
