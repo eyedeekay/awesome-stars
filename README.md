@@ -1030,7 +1030,7 @@
 - [nxsre/sshfs-go](https://github.com/nxsre/sshfs-go) - A network filesystem client to connect to SSH servers [ implementation by golang ]
 - [jucie/basic](https://github.com/jucie/basic) - A compiler for BASIC programming language
 - [zot/go-fltk](https://github.com/zot/go-fltk) - Basic Go bindings for FLTK
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [cybozu-go/aptutil](https://github.com/cybozu-go/aptutil) - Go utilities for Debian APT repositories
 - [luoqeng/xmrlite-go](https://github.com/luoqeng/xmrlite-go) - monero wallet
@@ -2663,7 +2663,7 @@
 - [dominic-codespoti/ascii-gen](https://github.com/dominic-codespoti/ascii-gen) - A CLI tool that converts images to ASCII art.
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
 - [AS207960/acme-onion-ca](https://github.com/AS207960/acme-onion-ca) - 
-- [cyphernet-labs/rust-cyphernet](https://github.com/cyphernet-labs/rust-cyphernet) - Cyphernet is a set of libraries for privacy-preserving networking apps
+- [cyphernet-labs/cyphernet.rs](https://github.com/cyphernet-labs/cyphernet.rs) - Cyphernet is a set of libraries for privacy-preserving networking apps
 - [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [kindelia/Kindelia](https://github.com/kindelia/Kindelia) - An efficient, secure cryptocomputer
