@@ -617,7 +617,6 @@
 - [unikiosk/go-firefox](https://github.com/unikiosk/go-firefox) - go-firefox bindings
 - [bfix/gnunet-go](https://github.com/bfix/gnunet-go) - GNUnet in Go
 - [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
-- [calebdoxsey/w32env](https://github.com/calebdoxsey/w32env) - Set environmental variables in windows with go
 - [balacode/one-file-pdf](https://github.com/balacode/one-file-pdf) - A minimalist Go PDF writer in 1982 lines. Draws text, images and shapes. Helps understand the PDF format. Used in production for reports.
 - [firefart/zwiebelproxy](https://github.com/firefart/zwiebelproxy) - web based tor proxy
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
