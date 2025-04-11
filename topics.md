@@ -53,6 +53,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -774,6 +775,11 @@
 ## deno 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+
+## development 
+
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## devops 
 
@@ -2597,7 +2603,6 @@
 - [foolo/windows-jre-laucher](https://github.com/foolo/windows-jre-laucher) - Create a Windows executable for launching a Java application with a bundled JRE
 - [bfix/gnunet-go](https://github.com/bfix/gnunet-go) - GNUnet in Go
 - [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
-- [calebdoxsey/w32env](https://github.com/calebdoxsey/w32env) - Set environmental variables in windows with go
 - [firefart/zwiebelproxy](https://github.com/firefart/zwiebelproxy) - web based tor proxy
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [rotblauer/cathack](https://github.com/rotblauer/cathack) - Self-hosted, kitten-friendly collaborative documents written in Golang. Like Google Docs, but eviler.
