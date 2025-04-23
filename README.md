@@ -1652,7 +1652,7 @@
 - [zenhotels/astranet](https://github.com/zenhotels/astranet) - A Go (golang) library for managing highly concurrent independent network streams.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [Netflix/signal-wrapper](https://github.com/Netflix/signal-wrapper) - 
-- [mvdan/fdroidcl](https://github.com/mvdan/fdroidcl) - F-Droid desktop client
+- [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - F-Droid desktop client
 - [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - fake a machine
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1981,7 +1981,7 @@
 - [siratama/Flash-To-Haxe-Converter](https://github.com/siratama/Flash-To-Haxe-Converter) - 
 - [xuset/planktos](https://github.com/xuset/planktos) - Serving websites over bittorrent
 - [vfleaking/uoj](https://github.com/vfleaking/uoj) - Universal Online Judge
-- [dosyago/dn](https://github.com/dosyago/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
+- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [renatodex/grider](https://github.com/renatodex/grider) - A Block Editor designed to create Tabletop Dungeon Maps
 - [arvindpunk/peer2peer-message](https://github.com/arvindpunk/peer2peer-message) - Peer 2 peer messaging sample app via WebRTC (using framework peer.js)
 - [tlhunter/Cobalt-Calibur-3](https://github.com/tlhunter/Cobalt-Calibur-3) - DEFUNCT: HTML5 and Node.js multiplayer browser game from 2013
