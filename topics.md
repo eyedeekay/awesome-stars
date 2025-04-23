@@ -193,6 +193,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -280,7 +281,7 @@
 - [chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [speks7/nazar](https://github.com/speks7/nazar) - Electronic component detection, identification and recognition system in realtime from camera image using react-native and tensorflow for classification along with Clarifai API with option to search t
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
-- [mvdan/fdroidcl](https://github.com/mvdan/fdroidcl) - F-Droid desktop client
+- [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - F-Droid desktop client
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
 - [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [Antox/Antox](https://github.com/Antox/Antox) - Android client for Project Tox - Secure Peer to Peer Messaging
@@ -2994,7 +2995,7 @@
 - [yanc0/goyaniv](https://github.com/yanc0/goyaniv) - Online, multiplayer, yaniv card game
 - [clagraff/devoid](https://github.com/clagraff/devoid) - Devoid: a multiplayer-first, real-time roguelike engine & client
 - [renom/fastbot](https://github.com/renom/fastbot) - Fastbot is a Golang app which implements a bot for Battle for Wesnoth that intended to automatically host multiplayer games, particularly to host Fast tournament games.
-- [dosyago/dn](https://github.com/dosyago/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
+- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [Sniki/Lenovo-Thinkpad-T440P-Clover](https://github.com/Sniki/Lenovo-Thinkpad-T440P-Clover) - Lenovo ThinkPad T440P
 - [K4thos/Ikemen_GO](https://github.com/K4thos/Ikemen_GO) - 
@@ -4816,6 +4817,12 @@
 - [shelomentsevd/telegramgo](https://github.com/shelomentsevd/telegramgo) - CLI telegram client written in golang
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
+
+## telegram-bot 
+
+- [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
+- [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
+- [bavadim/telegramutils](https://github.com/bavadim/telegramutils) - Use a telegram messenger in the console!
 
 ## tensorflow 
 
