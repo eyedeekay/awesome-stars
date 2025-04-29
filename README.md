@@ -507,6 +507,8 @@
 
 ## Go 
 
+- [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [eyedeekay/go-indexer](https://github.com/eyedeekay/go-indexer) - Indexes torrent files better than zzzot-tracker-hack but uses a tiny bit of javascript
 - [eyedeekay/cert9util](https://github.com/eyedeekay/cert9util) - Tool/Library for editing Mozilla Firefox cert9 and key4 db's in Go
 - [urgentquest/go-i2p](https://github.com/urgentquest/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
@@ -622,7 +624,7 @@
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [rotblauer/cathack](https://github.com/rotblauer/cathack) - Self-hosted, kitten-friendly collaborative documents written in Golang. Like Google Docs, but eviler.
 - [stunndard/goicy](https://github.com/stunndard/goicy) - AAC and MPEG (MP1, MP2, MP3) Icecast/Shoutcast source client written in Go
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [byte-mug/go-cypherpunk](https://github.com/byte-mug/go-cypherpunk) - Go Cypherpunk Remailer Library (Parser/Server and Composer/Client)
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [adamdecaf/cert-manage](https://github.com/adamdecaf/cert-manage) - WIP x509 Certificate auditing CLI
@@ -1335,7 +1337,7 @@
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [majestrate/XD](https://github.com/majestrate/XD) - meme bittorrent client
 - [ipfs/interface-go-ipfs-core](https://github.com/ipfs/interface-go-ipfs-core) - [ARCHIVED] this interface is now part of boxo and kubo/client/rpc
-- [ipdr/ipdr](https://github.com/ipdr/ipdr) - 🐋 IPFS-backed Docker Registry
+- [ipdr/ipdr](https://github.com/ipdr/ipdr) - 🐋 IPFS-backed Docker Registry. By @miguelmota
 - [filecoin-project/venus](https://github.com/filecoin-project/venus) - Filecoin Full Node Implementation in Go
 - [BenLubar/ipfs-proxy](https://github.com/BenLubar/ipfs-proxy) - Go proxy that redirects to filestore'd IPFS hashes
 - [geir54/IPFSproxy](https://github.com/geir54/IPFSproxy) - A transparent proxy using IPFS as a CDN
