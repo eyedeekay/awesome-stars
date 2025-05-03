@@ -507,6 +507,7 @@
 
 ## Go 
 
+- [pinpox/gitea-matrix-bot](https://github.com/pinpox/gitea-matrix-bot) - A bot to post gitea events to a matrix channel
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [eyedeekay/go-indexer](https://github.com/eyedeekay/go-indexer) - Indexes torrent files better than zzzot-tracker-hack but uses a tiny bit of javascript
@@ -1710,6 +1711,7 @@
 
 ## HTML 
 
+- [planetary-social/nos](https://github.com/planetary-social/nos) - nos.social social media for all of us, using nostr
 - [eyedeekay/Copy-Tab-URL](https://github.com/eyedeekay/Copy-Tab-URL) - Copy Tab URL WebExtension for at least Firefox
 - [0xless/clickjackpocgen](https://github.com/0xless/clickjackpocgen) - Simple PoC generator for clickjacking vulnerabilities
 - [eyedeekay/i2p.plugins.tor-manager](https://github.com/eyedeekay/i2p.plugins.tor-manager) - Cross-platform Tor Browser and Tor Service Manager/Updater intended mostly for I2P.
