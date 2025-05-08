@@ -127,6 +127,7 @@
 
 ## C 
 
+- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [sickcodes/doom-wasm](https://github.com/sickcodes/doom-wasm) - Chocolate Doom WebAssembly port with WebSockets support
@@ -507,6 +508,7 @@
 
 ## Go 
 
+- [go-i2p/go-gittisane](https://github.com/go-i2p/go-gittisane) - A soft-fork of gitea with support for running as an I2P service. Just the mod and the CI files.
 - [pinpox/gitea-matrix-bot](https://github.com/pinpox/gitea-matrix-bot) - A bot to post gitea events to a matrix channel
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
@@ -2332,7 +2334,6 @@
 - [mikalv/UnblockTelegramInRussia](https://github.com/mikalv/UnblockTelegramInRussia) - 
 - [mhatta/debian-staging](https://github.com/mhatta/debian-staging) - Debian package (semi-official, not yet advertised but built with builds) (staging repo, all devs have access)
 - [l-n-s/libtorrent-i2p](https://github.com/l-n-s/libtorrent-i2p) - libtorrent modified to download torrents anonymously
-- [chris-barry/tahoe-lafs-i2p](https://github.com/chris-barry/tahoe-lafs-i2p) - Tahoe-LAFS + I2P + Docker = &lt;3
 - [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communicati
 - [yegord/snowman](https://github.com/yegord/snowman) - Snowman decompiler
 - [openelections/openelections-results-wv](https://github.com/openelections/openelections-results-wv) - Raw results for West Virginia elections
@@ -2367,6 +2368,7 @@
 
 ## Pascal 
 
+- [norayr/ratatusk](https://github.com/norayr/ratatusk) - yggdrasil messenger using xep-0174
 - [ssg/wolverine](https://github.com/ssg/wolverine) - An offline mail reader for FidoNet-style networks supporting BlueWave and QWK formats.
 
 ## Perl 
@@ -2572,7 +2574,6 @@
 - [str4d/txi2p](https://github.com/str4d/txi2p) - I2P bindings for Twisted.
 - [torbjo/i2p-reseeder](https://github.com/torbjo/i2p-reseeder) - I2P Reseeder written in Python (WSGI)
 - [robertfoss/i2pjump](https://github.com/robertfoss/i2pjump) - I2P jump service. A sort of slave DNS server for I2P.
-- [chris-barry/i2spy](https://github.com/chris-barry/i2spy) - I2P analysis network.
 - [i2phosts/py-i2phosts](https://github.com/i2phosts/py-i2phosts) - hostnames registration application for I2P
 - [rbif/transi2p](https://github.com/rbif/transi2p) - Transparent proxying for I2P and forwarding other addresses to Tor or clearnet.
 - [PurpleI2P/pyseeder](https://github.com/PurpleI2P/pyseeder) - Reseed data management tools for I2P
