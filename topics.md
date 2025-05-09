@@ -1124,6 +1124,7 @@
 
 ## go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [pinpox/gitea-matrix-bot](https://github.com/pinpox/gitea-matrix-bot) - A bot to post gitea events to a matrix channel
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [samber/oops](https://github.com/samber/oops) - 🔥 Error handling library with context, assertion, stack trace and source fragments
@@ -1383,6 +1384,7 @@
 
 ## golang 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [pinpox/gitea-matrix-bot](https://github.com/pinpox/gitea-matrix-bot) - A bot to post gitea events to a matrix channel
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -2496,6 +2498,7 @@
 
 ## others 
 
+- [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - bare metal Go
 - [norayr/ratatusk](https://github.com/norayr/ratatusk) - yggdrasil messenger using xep-0174
 - [go-i2p/go-gittisane](https://github.com/go-i2p/go-gittisane) - A soft-fork of gitea with support for running as an I2P service. Just the mod and the CI files.
 - [planetary-social/nos](https://github.com/planetary-social/nos) - nos.social social media for all of us, using nostr
@@ -4258,6 +4261,7 @@
 
 ## privacy 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [kn0sys/j4-i2p-rs](https://github.com/kn0sys/j4-i2p-rs) - Java for I2P Rust wrapper
 - [creating2morrow/neveko](https://github.com/creating2morrow/neveko) - full-stack privacy application with enciphered messaging, monero multisig and built-in i2p marketplace
 - [namecoin/sockstrace](https://github.com/namecoin/sockstrace) - Go port of Heteronculous (ptrace-based proxy leak detector).  Outreachy project.
