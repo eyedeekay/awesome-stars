@@ -4264,7 +4264,7 @@
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [kn0sys/j4-i2p-rs](https://github.com/kn0sys/j4-i2p-rs) - Java for I2P Rust wrapper
 - [creating2morrow/neveko](https://github.com/creating2morrow/neveko) - full-stack privacy application with enciphered messaging, monero multisig and built-in i2p marketplace
-- [namecoin/sockstrace](https://github.com/namecoin/sockstrace) - Go port of Heteronculous (ptrace-based proxy leak detector).  Outreachy project.
+- [namecoin/sockstrace](https://github.com/namecoin/sockstrace) - Go port of Heteronculous (ptrace-based proxy leak detector).  Outreachy project. Currently undergoing a rewrite!
 - [htrgouvea/nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
 - [cyphernet-labs/cyphernet.rs](https://github.com/cyphernet-labs/cyphernet.rs) - Cyphernet is a set of libraries for privacy-preserving networking apps
 - [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
