@@ -205,6 +205,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vim](#vim)
@@ -573,6 +574,7 @@
 
 ## cli 
 
+- [nwtgck/handy-sshd](https://github.com/nwtgck/handy-sshd) - Portable SSH Server
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -817,6 +819,7 @@
 
 ## docker 
 
+- [engity-com/bifroest](https://github.com/engity-com/bifroest) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session.
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [qdm12/godevcontainer](https://github.com/qdm12/godevcontainer) - Golang development container for Visual Studio Code Remote Containers Development
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -1087,7 +1090,7 @@
 - [nulab/go-git-http-xfer](https://github.com/nulab/go-git-http-xfer) - Implements Git HTTP Transport.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [gruntwork-io/fetch](https://github.com/gruntwork-io/fetch) - Download files, folders, and release assets from a specific git commit, branch, or tag of public and private GitHub repos.
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [isacikgoz/gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
@@ -1124,6 +1127,7 @@
 
 ## go 
 
+- [mikesmitty/curse](https://github.com/mikesmitty/curse) - CURSE is an SSH certificate signing server, built as an alternative to Netflix's BLESS tool, but without a dependency on AWS.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [pinpox/gitea-matrix-bot](https://github.com/pinpox/gitea-matrix-bot) - A bot to post gitea events to a matrix channel
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
@@ -1384,6 +1388,7 @@
 
 ## golang 
 
+- [minetest-mapserver/mapserver](https://github.com/minetest-mapserver/mapserver) - Minetest realtime mapserver, written in go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [pinpox/gitea-matrix-bot](https://github.com/pinpox/gitea-matrix-bot) - A bot to post gitea events to a matrix channel
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
@@ -2103,6 +2108,7 @@
 
 ## kubernetes 
 
+- [engity-com/bifroest](https://github.com/engity-com/bifroest) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
@@ -2153,6 +2159,7 @@
 
 ## linux 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
@@ -2268,6 +2275,7 @@
 
 ## macos 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [ncruces/zenity](https://github.com/ncruces/zenity) - Zenity dialogs for Golang, Windows, macOS
@@ -2498,6 +2506,11 @@
 
 ## others 
 
+- [function61/function22](https://github.com/function61/function22) - A memory-safe SSH server, focused on listening only on VPN networks such as Tailscale
+- [trzsz/tsshd](https://github.com/trzsz/tsshd) - The tsshd works like mosh-server, while the "tssh --udp" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
+- [wzshiming/sshd](https://github.com/wzshiming/sshd) - SSH Server
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
+- [Ubuntu-Sway/Ubuntu-Sway-Remix](https://github.com/Ubuntu-Sway/Ubuntu-Sway-Remix) - Ubuntu with Sway wayland compositor
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - bare metal Go
 - [norayr/ratatusk](https://github.com/norayr/ratatusk) - yggdrasil messenger using xep-0174
 - [go-i2p/go-gittisane](https://github.com/go-i2p/go-gittisane) - A soft-fork of gitea with support for running as an I2P service. Just the mod and the CI files.
@@ -2712,7 +2725,6 @@
 - [mikeperry-tor/torspec](https://github.com/mikeperry-tor/torspec) - unofficial git repo -- report bugs/issues/pull requests on https://trac.torproject.org/ -- discuss proposals on tor-dev@lists.torproject
 - [mynodebtc/mynode](https://github.com/mynodebtc/mynode) - The easiest way to run Bitcoin and Lightning!
 - [CyberMonitor/APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) - APT & CyberCriminal Campaign Collection
-- [eyedeekay/hulu](https://github.com/eyedeekay/hulu) - Hulu downloader written in Go
 - [0990/socks5](https://github.com/0990/socks5) - socks5 proxy,support tcp,udp
 - [prologic/alternative-internet](https://github.com/prologic/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
@@ -2739,7 +2751,7 @@
 - [allhailjarjar/go-libp2p-i2p-transport](https://github.com/allhailjarjar/go-libp2p-i2p-transport) - Transport to allow go-libp2p applications to natively use i2p for communication
 - [fabacab/awesome-tor](https://github.com/fabacab/awesome-tor) - A curated list of awesome Tor related projects, articles, papers, etc
 - [matsuu/docker-nethack-server](https://github.com/matsuu/docker-nethack-server) - Dockerfile for Public NetHack server
-- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game. Authoritative Game Server
+- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Browser game.
 - [kasworld/goguelike](https://github.com/kasworld/goguelike) - MMO roguelike game
 - [mfnbc/dgl-nethack](https://github.com/mfnbc/dgl-nethack) - Nethack Server for classic 3.4 and most recent 3.6 using DGameLaunch
 - [Ombarus/SolarRogue](https://github.com/Ombarus/SolarRogue) - Nethack in Space
@@ -2915,7 +2927,6 @@
 - [viney/go-call-java](https://github.com/viney/go-call-java) - golang call java
 - [andlabs/ui](https://github.com/andlabs/ui) - Platform-native GUI library for Go.
 - [btcsuite/btcwallet](https://github.com/btcsuite/btcwallet) - A secure bitcoin wallet daemon written in Go (golang)
-- [eyedeekay/sampt](https://github.com/eyedeekay/sampt) - Acquire Tor bridge as a SAM service with a SAM client
 - [macourtney/masques](https://github.com/macourtney/masques) - Masques is a distributed social network.
 - [guardianproject/gpmaven](https://github.com/guardianproject/gpmaven) - Maven Repository for Gradle-based projects using Guardian Project CipherKit Libraries
 - [matrix-org/gomatrix](https://github.com/matrix-org/gomatrix) - A Golang Matrix client
@@ -2976,7 +2987,6 @@
 - [luoqeng/xmrlite-go](https://github.com/luoqeng/xmrlite-go) - monero wallet
 - [TemaKozyrev/go-monero](https://github.com/TemaKozyrev/go-monero) - A Monero RPC Wallet client implementation written in Go (Golang)
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
-- [eyedeekay/p2p-messenger](https://github.com/eyedeekay/p2p-messenger) - Peer To Peer Messenger
 - [majestrate/bitchan](https://github.com/majestrate/bitchan) - bittorrent imageboard
 - [ssbc/patchbay](https://github.com/ssbc/patchbay) - An alternative Secure Scuttlebutt client interface that is fully compatible with Patchwork
 - [majestrate/waveguide](https://github.com/majestrate/waveguide) - federated youtube alt using webtorrent and acitvitypub
@@ -3996,7 +4006,6 @@
 - [zoff99/ToxPhone](https://github.com/zoff99/ToxPhone) - The Worlds First Hardware ToxPhone with Video
 - [jdfreder/pingjs](https://github.com/jdfreder/pingjs) - JavaScript client side ping API.
 - [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++
-- [eyedeekay/si-i2p-plugin](https://github.com/eyedeekay/si-i2p-plugin) - An experimental approach to provide a destination-isolating mechanism for http-over-i2p.
 - [paulrouget/servo-embedding-example](https://github.com/paulrouget/servo-embedding-example) - An example of how to embed Servo
 - [plexinc/dnsd](https://github.com/plexinc/dnsd) - Dynamic authoritative name server
 - [ianpreston/redditfs](https://github.com/ianpreston/redditfs) - ls -l /r/programming
@@ -4071,7 +4080,6 @@
 - [Torlus/mosquitto-twister](https://github.com/Torlus/mosquitto-twister) - Proof-of-concept of a fully distributed MQTT broker for the IoT. Uses Twister platform, Bitcoin and Bittorrent protocols.
 - [kisom/cryptutils](https://github.com/kisom/cryptutils) - Various crypto utilties based on a common NaCl/Ed25519 core.
 - [asonawalla/FBEraser](https://github.com/asonawalla/FBEraser) - Programatically delete your Facebook posts
-- [eyedeekay/android_product_antm_revo](https://github.com/eyedeekay/android_product_antm_revo) - Product information for creating ROM's for the ANTM Revo, which is a pretty basic Allwinner A33 Tablet.
 - [linux-sunxi/sunxi-livesuite](https://github.com/linux-sunxi/sunxi-livesuite) - All in one repo for the LiveSuit tool, to take some of the pain outof using this.
 - [linux-sunxi/linux-sunxi](https://github.com/linux-sunxi/linux-sunxi) - Linux source for Allwinner/Boxchip F20 (sun3i), A10 (sun4i), A12/A13/A10S (sun5i) and A20 (sun7i) SoCs
 - [bbrezillon/linux-sunxi](https://github.com/bbrezillon/linux-sunxi) - sunxi linux kernel
@@ -4082,7 +4090,6 @@
 - [mempo/mempo-kernel](https://github.com/mempo/mempo-kernel) - Deterministic kernel build scripts, for Linux, mainly for Debian
 - [dpl0/phrack](https://github.com/dpl0/phrack) - Copy of the contents at phrack.com
 - [jdub/nadzapper](https://github.com/jdub/nadzapper) - A web-nasty-blasting url_rewrite_program for Squid, inspired by the venerable adzapper.
-- [eyedeekay/netifrc](https://github.com/eyedeekay/netifrc) - Network Interface startup scripts (official mirror); bugs -&gt; https://bugs.gentoo.org/
 - [rxcomm/mixminion](https://github.com/rxcomm/mixminion) - mixminion is the main implementation of the Type III ("Mixminion") remailer protocol.
 - [mixminion/mixminion](https://github.com/mixminion/mixminion) - mixminion is the main implementation of the Type III ("Mixminion") remailer protocol.
 - [jduck/cve-2015-1538-1](https://github.com/jduck/cve-2015-1538-1) - An exploit for CVE-2015-1538-1 - Google Stagefright ‘stsc’ MP4 Atom Integer Overflow Remote Code Execution
@@ -4603,6 +4610,7 @@
 
 ## security 
 
+- [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -4854,6 +4862,7 @@
 
 ## terminal 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [reeflective/readline](https://github.com/reeflective/readline) - Shell library with powerful and modern UI, large feature set, and `.inputrc` support
 - [TwiN/go-color](https://github.com/TwiN/go-color) - A lightweight, simple and cross-platform package to colorize text in terminals
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -4940,6 +4949,14 @@
 - [ivan1986/deb-pkg-gen](https://github.com/ivan1986/deb-pkg-gen) - Site generate debian packages for repository
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
+
+## ui 
+
+- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
+- [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
+- [themesberg/windows-95-ui-kit](https://github.com/themesberg/windows-95-ui-kit) - 💾   Windows 95 UI Kit made with Bootstrap 4 components
+- [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
+- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 
 ## unity 
 
@@ -5041,13 +5058,14 @@
 
 ## windows 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
 - [asamy/ksm](https://github.com/asamy/ksm) - A fast, hackable and simple x64 VT-x hypervisor for Windows and Linux.  Builtin userspace sandbox and introspection engine.
 - [LinCast-Team/LinCast](https://github.com/LinCast-Team/LinCast) - The server of Your Open Source and 100% Free podcast player. *Work in progress*
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [C-Sto/BananaPhone](https://github.com/C-Sto/BananaPhone) - It's a go variant of Hells gate! (directly calling windows kernel functions, but from Go!)
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
-- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [neurlang/wayland](https://github.com/neurlang/wayland) - Golang Wayland - Go Multiplatform UI library
 - [ncruces/zenity](https://github.com/ncruces/zenity) - Zenity dialogs for Golang, Windows, macOS
 - [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows
