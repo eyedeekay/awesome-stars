@@ -110,6 +110,7 @@
 
 ## Batchfile 
 
+- [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [yshalsager/MSM8225-TWRP-Porter](https://github.com/yshalsager/MSM8225-TWRP-Porter) - TWRP Recovery Port Tool For Qualcomm Devices
 - [TheCyberViking/Facebook_OSINT_Dump](https://github.com/TheCyberViking/Facebook_OSINT_Dump) - A Windows Tool for doing OSINT investigations on a Facebook Profile
 
@@ -293,7 +294,6 @@
 - [marizmendi/BitStegNet](https://github.com/marizmendi/BitStegNet) - PoC for Network Steganography using BitTorrent traffic
 - [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
 - [darconeous/sdcc](https://github.com/darconeous/sdcc) - This is a *REALLY OLD* clone of the Small Device C Compiler. Really, why is anyone staring this repository? No one is keeping this up to date. At all. Goto http://sdcc.sourceforge.net/ and get the lat
-- [eyedeekay/android_product_antm_revo](https://github.com/eyedeekay/android_product_antm_revo) - Product information for creating ROM's for the ANTM Revo, which is a pretty basic Allwinner A33 Tablet.
 - [linux-sunxi/sunxi-livesuite](https://github.com/linux-sunxi/sunxi-livesuite) - All in one repo for the LiveSuit tool, to take some of the pain outof using this.
 - [linux-sunxi/linux-sunxi](https://github.com/linux-sunxi/linux-sunxi) - Linux source for Allwinner/Boxchip F20 (sun3i), A10 (sun4i), A12/A13/A10S (sun5i) and A20 (sun7i) SoCs
 - [bbrezillon/linux-sunxi](https://github.com/bbrezillon/linux-sunxi) - sunxi linux kernel
@@ -508,6 +508,15 @@
 
 ## Go 
 
+- [nwtgck/handy-sshd](https://github.com/nwtgck/handy-sshd) - Portable SSH Server
+- [mikesmitty/curse](https://github.com/mikesmitty/curse) - CURSE is an SSH certificate signing server, built as an alternative to Netflix's BLESS tool, but without a dependency on AWS.
+- [engity-com/bifroest](https://github.com/engity-com/bifroest) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session.
+- [function61/function22](https://github.com/function61/function22) - A memory-safe SSH server, focused on listening only on VPN networks such as Tailscale
+- [trzsz/tsshd](https://github.com/trzsz/tsshd) - The tsshd works like mosh-server, while the "tssh --udp" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
+- [wzshiming/sshd](https://github.com/wzshiming/sshd) - SSH Server
+- [minetest-mapserver/mapserver](https://github.com/minetest-mapserver/mapserver) - Minetest realtime mapserver, written in go
+- [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - bare metal Go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [go-i2p/go-gittisane](https://github.com/go-i2p/go-gittisane) - A soft-fork of gitea with support for running as an I2P service. Just the mod and the CI files.
@@ -717,7 +726,6 @@
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [shawn1m/overture](https://github.com/shawn1m/overture) - A customized DNS relay server
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
-- [eyedeekay/hulu](https://github.com/eyedeekay/hulu) - Hulu downloader written in Go
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [0990/socks5](https://github.com/0990/socks5) - socks5 proxy,support tcp,udp
 - [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV
@@ -737,7 +745,6 @@
 - [veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client) - Tiny BitTorrent client written in Go
 - [allhailjarjar/go-libp2p-i2p-transport](https://github.com/allhailjarjar/go-libp2p-i2p-transport) - Transport to allow go-libp2p applications to natively use i2p for communication
 - [griffithsh/squads](https://github.com/griffithsh/squads) - A hexagonal Tactics roguelite game.
-- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Online game. Authoritative Game Server
 - [kasworld/goguelike](https://github.com/kasworld/goguelike) - MMO roguelike game
 - [yuva670/ipfs-go-client](https://github.com/yuva670/ipfs-go-client) - This is a simple client for IPFS - add and receive files to/from ipfs
 - [aler9/dctk](https://github.com/aler9/dctk) - Direct Connect client library (ADC and NMDC) for the Go programming language
@@ -1044,7 +1051,6 @@
 - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
 - [gruntwork-io/fetch](https://github.com/gruntwork-io/fetch) - Download files, folders, and release assets from a specific git commit, branch, or tag of public and private GitHub repos.
 - [kokizzu/goproc](https://github.com/kokizzu/goproc) - simple process manager helper library
-- [eyedeekay/p2p-messenger](https://github.com/eyedeekay/p2p-messenger) - Peer To Peer Messenger
 - [MixinNetwork/mixin](https://github.com/MixinNetwork/mixin) - 🚀 The Mixin-BFT-DAG network reference implementation.
 - [majestrate/bitchan](https://github.com/majestrate/bitchan) - bittorrent imageboard
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
@@ -1193,7 +1199,7 @@
 - [libp2p/go-libp2p-nat](https://github.com/libp2p/go-libp2p-nat) - NAT port mapping library for go-libp2p
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [reusee/vpnsocks](https://github.com/reusee/vpnsocks) - simple vpn with socks5 server inside.
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [koding/websocketproxy](https://github.com/koding/websocketproxy) - WebSocket reverse proxy handler for Go
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [scopelemanuele/machinista](https://github.com/scopelemanuele/machinista) - Simple rootkit hunter
@@ -1688,7 +1694,6 @@
 - [google/safebrowsing](https://github.com/google/safebrowsing) - Safe Browsing API Go Client
 - [cryptix/goSam](https://github.com/cryptix/goSam) - A go library for using the I2P Simple Anonymous Messaging (SAM version 3.0) bridge
 - [ezdapps/backend](https://github.com/ezdapps/backend) - A blockchain platform with a simplified programming language. 85% of all tokens will be distributed for free among GitHub users.
-- [eyedeekay/si-i2p-plugin](https://github.com/eyedeekay/si-i2p-plugin) - An experimental approach to provide a destination-isolating mechanism for http-over-i2p.
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [evilsocket/sg1](https://github.com/evilsocket/sg1) - A wanna be swiss army knife for data encryption, exfiltration and covert communication.
 - [zcrawl/zcrawl](https://github.com/zcrawl/zcrawl) - An open source web crawling platform
@@ -1724,6 +1729,7 @@
 - [olahol/melody-jsnes](https://github.com/olahol/melody-jsnes) - :tv: Multiplayer NES through the magic of WebSockets and Go.
 - [mynodebtc/mynode](https://github.com/mynodebtc/mynode) - The easiest way to run Bitcoin and Lightning!
 - [macromorgan/chip-debroot](https://github.com/macromorgan/chip-debroot) - 
+- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Browser game.
 - [AuraOS/AuraOS](https://github.com/AuraOS/AuraOS) - An advanced FreeDOS-based Live CD.
 - [marek22k/php-i2pseed](https://github.com/marek22k/php-i2pseed) - 
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
@@ -1931,6 +1937,7 @@
 
 ## JavaScript 
 
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [eyedeekay/Actually-Work-Offline](https://github.com/eyedeekay/Actually-Work-Offline) - WebExtension to replaces Mozilla's aggressively useless Work Offline implementation. Requires a wrapper, works by installing an extension into a profile which uninstalls itself.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [CodingTrain/Oregon-Trail](https://github.com/CodingTrain/Oregon-Trail) - A p5.js version of the Apple ][ Oregon Trail Game
@@ -1964,7 +1971,7 @@
 - [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web) - An HTML5 Mumble client
 - [FelixMcFelix/Shallot](https://github.com/FelixMcFelix/Shallot) - Small-scale onion routing over WebRTC
 - [luk3yx/underbite](https://github.com/luk3yx/underbite) - A modern-ish gopher:// viewer, using the Floodgap Gopher proxy.
-- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [maciekmm/container-tabs-sidebar](https://github.com/maciekmm/container-tabs-sidebar) - Firefox addon aiming to utilize screen estate more efficiently by showing tabs in a sidebar grouped by privacy containers. Inspired by TreeStyleTab.
 - [EffectiveAF/effective](https://github.com/EffectiveAF/effective) - Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [
 - [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
@@ -2220,6 +2227,7 @@
 
 ## Others 
 
+- [Ubuntu-Sway/Ubuntu-Sway-Remix](https://github.com/Ubuntu-Sway/Ubuntu-Sway-Remix) - Ubuntu with Sway wayland compositor
 - [DoingFedTime/AirGappedSystemExplained](https://github.com/DoingFedTime/AirGappedSystemExplained) - A SVG visualization explaining air-gapped systems.
 - [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
 - [thinkski/osx-arm-linux-toolchains](https://github.com/thinkski/osx-arm-linux-toolchains) - Pre-built ARM/Linux C cross-compilers for MacOS
@@ -2240,9 +2248,7 @@
 - [singe/wifi-frequency-hacker](https://github.com/singe/wifi-frequency-hacker) - A modified frequency regulatory domain configuration that doesn't limit you.
 - [bonedaddy/awesome-crypto-trackers](https://github.com/bonedaddy/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards.
 - [rocky-linux/rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
-- [eyedeekay/sampt](https://github.com/eyedeekay/sampt) - Acquire Tor bridge as a SAM service with a SAM client
 - [guardianproject/gpmaven](https://github.com/guardianproject/gpmaven) - Maven Repository for Gradle-based projects using Guardian Project CipherKit Libraries
-- [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [huyz97/darknet-dataset-2020](https://github.com/huyz97/darknet-dataset-2020) - Tor, I2P, ZeroNet, Freenet traffic data
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [ruoti/COVID-19](https://github.com/ruoti/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
@@ -2400,7 +2406,6 @@
 - [danielbohannon/Revoke-Obfuscation](https://github.com/danielbohannon/Revoke-Obfuscation) - PowerShell Obfuscation Detection Framework
 - [Kevin-Robertson/Powermad](https://github.com/Kevin-Robertson/Powermad) - PowerShell MachineAccountQuota and DNS exploit tools
 - [RedSiege/WMImplant](https://github.com/RedSiege/WMImplant) - This is a PowerShell based tool that is designed to act like a RAT. Its interface is that of a shell where any command that is supported is translated into a WMI-equivalent for use on a network/remote
-- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [DanMcInerney/icebreaker](https://github.com/DanMcInerney/icebreaker) - Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment
 
@@ -2541,6 +2546,7 @@
 - [devicenull/ipmi_firmware_tools](https://github.com/devicenull/ipmi_firmware_tools) - IPMI analysis tools
 - [hatRiot/zarp](https://github.com/hatRiot/zarp) - Network Attack Tool
 - [jordanpotti/AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets
+- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [defaultnamehere/zzzzz](https://github.com/defaultnamehere/zzzzz) - Roleplay as the NSA by making creepy graphs of your friends
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
@@ -2913,7 +2919,6 @@
 - [moebiuseye/skf](https://github.com/moebiuseye/skf) - Plugin-based static website generator inspired by Suckless Web Framework
 - [bfritz/freedos-custom-iso](https://github.com/bfritz/freedos-custom-iso) - Shell scripts to create custom FreeDOS ISO image based on http://www.tummy.com/blogs/2008/09/21/using-freedos-cd-for-bios-updates/ .
 - [gentoo/netifrc](https://github.com/gentoo/netifrc) - [MIRROR] netifrc network configuration tools from OpenRC
-- [eyedeekay/netifrc](https://github.com/eyedeekay/netifrc) - Network Interface startup scripts (official mirror); bugs -&gt; https://bugs.gentoo.org/
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
 
 ## Standard ML 
