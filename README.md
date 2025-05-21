@@ -1729,7 +1729,6 @@
 - [olahol/melody-jsnes](https://github.com/olahol/melody-jsnes) - :tv: Multiplayer NES through the magic of WebSockets and Go.
 - [mynodebtc/mynode](https://github.com/mynodebtc/mynode) - The easiest way to run Bitcoin and Lightning!
 - [macromorgan/chip-debroot](https://github.com/macromorgan/chip-debroot) - 
-- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Browser game.
 - [AuraOS/AuraOS](https://github.com/AuraOS/AuraOS) - An advanced FreeDOS-based Live CD.
 - [marek22k/php-i2pseed](https://github.com/marek22k/php-i2pseed) - 
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
@@ -1967,6 +1966,7 @@
 - [handshake-org/hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [jyap808/g0bin](https://github.com/jyap808/g0bin) - G0Bin is a client side encrypted pastebin written in Go
+- [jolav/roguelike-online](https://github.com/jolav/roguelike-online) - Post Apocalyptic 2D Turn Based Roguelike Game. Browser game.
 - [mozilla/addons-frontend](https://github.com/mozilla/addons-frontend) - Front-end to complement mozilla/addons-server
 - [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web) - An HTML5 Mumble client
 - [FelixMcFelix/Shallot](https://github.com/FelixMcFelix/Shallot) - Small-scale onion routing over WebRTC
@@ -2090,6 +2090,7 @@
 - [schollz/cowyo](https://github.com/schollz/cowyo) - A feature-rich wiki webserver for minimalists :cow: :speech_balloon:
 - [Lunik/tcloud](https://github.com/Lunik/tcloud) - File sharing and torrent downloading
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
+- [linuxboot/book](https://github.com/linuxboot/book) - LinuxBoot book which contains the documentation in markdown format
 - [jaruba/PowderPlayer](https://github.com/jaruba/PowderPlayer) - Hybrid between a Torrent Client and a Player (torrent streaming) -
 - [trailofbits/tubertc](https://github.com/trailofbits/tubertc) - Peer-to-Peer Video Chat for Corporate LANs
 - [deranjer/goTorrent](https://github.com/deranjer/goTorrent) - goTorrent is a torrenting server built with Go (Golang) with websocket API that comes with a React web frontend.
@@ -2592,6 +2593,7 @@
 - [ianpreston/redditfs](https://github.com/ianpreston/redditfs) - ls -l /r/programming
 - [livecd-tools/livecd-tools](https://github.com/livecd-tools/livecd-tools) - Tools for building live CDs using DNF
 - [linuxerwang/rkflashkit](https://github.com/linuxerwang/rkflashkit) - rkflashkit is an open source toolkit for flashing Linux kernel images to rockchip rk3066/rk3188/rk3288 etc. based devices.  It's programmed with python and gtk2.
+- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [blha303/plexurl](https://github.com/blha303/plexurl) - 
 - [albertito/git-arr](https://github.com/albertito/git-arr) - A (static) git repository browser [mirror]
 - [skochinsky/me-tools](https://github.com/skochinsky/me-tools) - Tools for working with Intel ME
@@ -2643,7 +2645,6 @@
 - [cryptosphere/cryptosphere](https://github.com/cryptosphere/cryptosphere) - Encrypted peer-to-peer web application platform for decentralized, privacy-preserving applications
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [remi/teamocil](https://github.com/remi/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
-- [linuxboot/book](https://github.com/linuxboot/book) - LinuxBoot book which contains the documentation in markdown format
 - [tomgi/git_stats](https://github.com/tomgi/git_stats) - GitStats is a git repository statistics generator.
 - [trevorturk/eldorado](https://github.com/trevorturk/eldorado) - El Dorado is a full-stack community web application written in Ruby/Rails.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
@@ -2763,7 +2764,6 @@
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) - 🌰  encrypt/decrypt using ssh keys
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static linux rust binaries
 - [way-cooler/way-cooler-lock](https://github.com/way-cooler/way-cooler-lock) - [DEPRECATED] Lock screen for Way Cooler
 - [Drakulix/fireplace](https://github.com/Drakulix/fireplace) - Modular wayland window manager written in rust
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
