@@ -486,6 +486,7 @@
 - [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) - Automated builded images for rust-lang with rustup, "the ultimate way to install RUST"
 - [hkparker/i2p-docker](https://github.com/hkparker/i2p-docker) - Java I2P router in Docker
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates.
+- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 
 ## Elixir 
 
@@ -2228,6 +2229,7 @@
 
 ## Others 
 
+- [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
 - [Ubuntu-Sway/Ubuntu-Sway-Remix](https://github.com/Ubuntu-Sway/Ubuntu-Sway-Remix) - Ubuntu with Sway wayland compositor
 - [DoingFedTime/AirGappedSystemExplained](https://github.com/DoingFedTime/AirGappedSystemExplained) - A SVG visualization explaining air-gapped systems.
 - [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
@@ -2593,7 +2595,6 @@
 - [ianpreston/redditfs](https://github.com/ianpreston/redditfs) - ls -l /r/programming
 - [livecd-tools/livecd-tools](https://github.com/livecd-tools/livecd-tools) - Tools for building live CDs using DNF
 - [linuxerwang/rkflashkit](https://github.com/linuxerwang/rkflashkit) - rkflashkit is an open source toolkit for flashing Linux kernel images to rockchip rk3066/rk3188/rk3288 etc. based devices.  It's programmed with python and gtk2.
-- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [blha303/plexurl](https://github.com/blha303/plexurl) - 
 - [albertito/git-arr](https://github.com/albertito/git-arr) - A (static) git repository browser [mirror]
 - [skochinsky/me-tools](https://github.com/skochinsky/me-tools) - Tools for working with Intel ME
