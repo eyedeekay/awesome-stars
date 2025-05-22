@@ -2506,6 +2506,7 @@
 
 ## others 
 
+- [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
 - [function61/function22](https://github.com/function61/function22) - A memory-safe SSH server, focused on listening only on VPN networks such as Tailscale
 - [trzsz/tsshd](https://github.com/trzsz/tsshd) - The tsshd works like mosh-server, while the "tssh --udp" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
 - [wzshiming/sshd](https://github.com/wzshiming/sshd) - SSH Server
