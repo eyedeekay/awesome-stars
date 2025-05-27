@@ -509,6 +509,7 @@
 
 ## Go 
 
+- [yarlson/lnk](https://github.com/yarlson/lnk) - 🔗 Git-native dotfiles management that doesn't suck.
 - [nwtgck/handy-sshd](https://github.com/nwtgck/handy-sshd) - Portable SSH Server
 - [mikesmitty/curse](https://github.com/mikesmitty/curse) - CURSE is an SSH certificate signing server, built as an alternative to Netflix's BLESS tool, but without a dependency on AWS.
 - [engity-com/bifroest](https://github.com/engity-com/bifroest) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session.
@@ -577,7 +578,7 @@
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) - :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make
-- [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
+- [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [TwiN/go-color](https://github.com/TwiN/go-color) - A lightweight, simple and cross-platform package to colorize text in terminals
@@ -1751,6 +1752,7 @@
 - [propublica/facebook-political-ads](https://github.com/propublica/facebook-political-ads) - Monitoring Facebook Political Ads
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [Danladi/HttpPwnly](https://github.com/Danladi/HttpPwnly) - "Repeater" style XSS post-exploitation tool for mass browser control. Primarily a PoC to show why HttpOnly flag isn't a complete protection against session hijacking via XSS
+- [AOSC-Dev/aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 - [prisonstrike/prisonstrike.github.io](https://github.com/prisonstrike/prisonstrike.github.io) - 
 - [davidapple/davemail](https://github.com/davidapple/davemail) - Decentralised, encrypted, anonymous, offline messaging platform for git.
 - [SkyLined/LocalNetworkScanner](https://github.com/SkyLined/LocalNetworkScanner) - PoC Javascript that scans your local network when you open a webpage
@@ -1817,7 +1819,7 @@
 - [syvita/nano](https://github.com/syvita/nano) - 0 dependency, cross-platform I2P.core wrapper with a SAM interface.
 - [schollz/find3-android-scanner](https://github.com/schollz/find3-android-scanner) - An android app that scans Bluetooth and WiFi for FIND3
 - [ashishshettyb1993/AndroidBeaconApp](https://github.com/ashishshettyb1993/AndroidBeaconApp) - This is the native Android app used for detecting nearby Bluetooth Beacon devices and WIFI.
-- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC server app for Android that does not require root privileges.
+- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC remote desktop server app for Android
 - [charlesannic/RotationLockBubble](https://github.com/charlesannic/RotationLockBubble) - Change the orientation of your screen only when you want.
 - [gngrOrg/gngr](https://github.com/gngrOrg/gngr) - a cross-platform browser focussed on privacy.
 - [torproject/jtorctl](https://github.com/torproject/jtorctl) - Tor controller, written in Java
@@ -2418,6 +2420,7 @@
 
 ## Python 
 
+- [ctrlsam/rigour](https://github.com/ctrlsam/rigour) - A rigorous IoT scanner based on Shodan.io
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [meetkool/FREE-GPT-4](https://github.com/meetkool/FREE-GPT-4) - FREEGPT4 is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI.
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - [being rewritten] Cross-platform iMessage POC
@@ -2884,7 +2887,6 @@
 - [streamr-dev/streamr-docker-dev](https://github.com/streamr-dev/streamr-docker-dev) - Tool for quickly setting up a copy of the Streamr stack for development and testing
 - [CaseAnon/wp_users](https://github.com/CaseAnon/wp_users) - Bash script to enumerate and obtain users of a wordpress blog. (Footprinting)
 - [mesalock-linux/mesalock-distro](https://github.com/mesalock-linux/mesalock-distro) - MesaLock Linux: a memory-safe Linux distribution.
-- [AOSC-Dev/aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 - [AbedAlqaderSwedan1/ASWCrypter](https://github.com/AbedAlqaderSwedan1/ASWCrypter) - An Bash&Python Script For Generating Payloads that Bypasses All Antivirus so far [FUD]
 - [mkdesu/cables](https://github.com/mkdesu/cables) - Cables Communication, secure and anonymous communication using email-like addresses.
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
