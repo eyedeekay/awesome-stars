@@ -59,6 +59,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -246,7 +247,7 @@
 - [collinsmith/riiablo](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX
 - [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform attacks such as WPA/WPA2 cracking and MITM attacks.
 - [a-pavlov/jed2k](https://github.com/a-pavlov/jed2k) - Java library for ed2k networks
-- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC server app for Android that does not require root privileges.
+- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC remote desktop server app for Android
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -874,6 +875,10 @@
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [naxuroqa/vala-toxcore-c](https://github.com/naxuroqa/vala-toxcore-c) - Vala bindings for toxcore
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
+
+## dotfiles 
+
+- [yarlson/lnk](https://github.com/yarlson/lnk) - 🔗 Git-native dotfiles management that doesn't suck.
 
 ## dotnet 
 
@@ -2506,6 +2511,7 @@
 
 ## others 
 
+- [ctrlsam/rigour](https://github.com/ctrlsam/rigour) - A rigorous IoT scanner based on Shodan.io
 - [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
 - [function61/function22](https://github.com/function61/function22) - A memory-safe SSH server, focused on listening only on VPN networks such as Tailscale
 - [trzsz/tsshd](https://github.com/trzsz/tsshd) - The tsshd works like mosh-server, while the "tssh --udp" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
@@ -2577,7 +2583,7 @@
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [x0th/Local-PGP](https://github.com/x0th/Local-PGP) - In-browser PGP encryption and decryption.
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make
-- [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
+- [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
 - [i2p/i2p.graphics](https://github.com/i2p/i2p.graphics) - I2P Graphics (Git mirror of mtn://mtn.i2p-projekt.de?i2p.graphics)
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [helloyi/go-sshclient](https://github.com/helloyi/go-sshclient) - simple sshclient with go
@@ -4745,7 +4751,7 @@
 - [tigase/tigase-server](https://github.com/tigase/tigase-server) - (M) Highly optimized, extremely modular and very flexible XMPP/Jabber server
 - [krotik/dudeldu](https://github.com/krotik/dudeldu) - A simple SHOUTcast server.
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
-- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC server app for Android that does not require root privileges.
+- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC remote desktop server app for Android
 - [LinCast-Team/LinCast](https://github.com/LinCast-Team/LinCast) - The server of Your Open Source and 100% Free podcast player. *Work in progress*
 - [toorop/tmail](https://github.com/toorop/tmail) - Golang SMTP server
 - [DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) - The main repository for the Darkflame Universe Server Emulator project.
