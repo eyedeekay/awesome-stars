@@ -247,7 +247,7 @@
 - [collinsmith/riiablo](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX
 - [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform attacks such as WPA/WPA2 cracking and MITM attacks.
 - [a-pavlov/jed2k](https://github.com/a-pavlov/jed2k) - Java library for ed2k networks
-- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC remote desktop server app for Android
+- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -317,6 +317,7 @@
 ## arduino 
 
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
+- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
@@ -842,7 +843,6 @@
 - [KeKsBoTer/socialloot](https://github.com/KeKsBoTer/socialloot) - 💎 A Reddit like content sharing platform made with Go
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
-- [retenet/tunle](https://github.com/retenet/tunle) - Dockerized Tunneling for Containers
 - [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
 - [diva-exchange/i2p](https://github.com/diva-exchange/i2p) - I2P Layer of diva.exchange. Based on i2pd, see https://github.com/PurpleI2P/i2pd
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -1554,7 +1554,7 @@
 - [notedit/media-server-go](https://github.com/notedit/media-server-go) - WebRTC media server for go
 - [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang
 - [grumpyhome/grumpy](https://github.com/grumpyhome/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
+- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [chaoyangnz/gava](https://github.com/chaoyangnz/gava) - 🚀 A sandboxed VM any Java developer can afford
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free little text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compil
@@ -1945,6 +1945,7 @@
 ## iot 
 
 - [tigase/tigase-server](https://github.com/tigase/tigase-server) - (M) Highly optimized, extremely modular and very flexible XMPP/Jabber server
+- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [akamai-threat-research/mqtt-pwn](https://github.com/akamai-threat-research/mqtt-pwn) - MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
@@ -3071,7 +3072,6 @@
 - [sahib/brig](https://github.com/sahib/brig) - File synchronization on top of ipfs with git like interface & web based UI
 - [codr7/gfoo](https://github.com/codr7/gfoo) - a Go scripting language
 - [dideler/chess-park](https://github.com/dideler/chess-park) - Networked multiplayer chess in your browser
-- [gioblu/PJON](https://github.com/gioblu/PJON) - PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.
 - [nobonobo/gomdslides](https://github.com/nobonobo/gomdslides) - presantation tool write in go
 - [pircbotx/pircbotx](https://github.com/pircbotx/pircbotx) - Modern Java IRC Library
 - [libp2p/go-libp2p-kbucket](https://github.com/libp2p/go-libp2p-kbucket) - A kbucket implementation for use as a routing table
@@ -4751,7 +4751,7 @@
 - [tigase/tigase-server](https://github.com/tigase/tigase-server) - (M) Highly optimized, extremely modular and very flexible XMPP/Jabber server
 - [krotik/dudeldu](https://github.com/krotik/dudeldu) - A simple SHOUTcast server.
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
-- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - VNC remote desktop server app for Android
+- [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
 - [LinCast-Team/LinCast](https://github.com/LinCast-Team/LinCast) - The server of Your Open Source and 100% Free podcast player. *Work in progress*
 - [toorop/tmail](https://github.com/toorop/tmail) - Golang SMTP server
 - [DarkflameUniverse/DarkflameServer](https://github.com/DarkflameUniverse/DarkflameServer) - The main repository for the Darkflame Universe Server Emulator project.
@@ -4988,7 +4988,6 @@
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [RTradeLtd/libanonvpn](https://github.com/RTradeLtd/libanonvpn) - Library for TUN and TAP devices over I2P in Go Applications
-- [retenet/tunle](https://github.com/retenet/tunle) - Dockerized Tunneling for Containers
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [angt/glorytun](https://github.com/angt/glorytun) - Multipath UDP tunnel
