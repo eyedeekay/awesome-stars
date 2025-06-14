@@ -2797,6 +2797,7 @@
 
 ## Shell 
 
+- [mephistolist/hoxha](https://github.com/mephistolist/hoxha) - A userland rootkit
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [JNRowe/surfraw](https://github.com/JNRowe/surfraw) - Mirror of the upstream git repository
