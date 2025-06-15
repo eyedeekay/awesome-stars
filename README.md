@@ -32,6 +32,7 @@
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Hack](#hack)
+- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
 - [HolyC](#holyc)
@@ -910,7 +911,6 @@
 - [mad-s/go-peerflix-server](https://github.com/mad-s/go-peerflix-server) - Streaming torrent client with Web UI
 - [Binject/go-donut](https://github.com/Binject/go-donut) - Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut
 - [omaidf/go-malware](https://github.com/omaidf/go-malware) - Golang Virus Examples
-- [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 - [coyim/otr3](https://github.com/coyim/otr3) - A Go implementation of the OTR 3 protocol, with libotr 4.1.0 feature parity
 - [ssbc/go-ssb](https://github.com/ssbc/go-ssb) - Go implementation of ssb (work in progress!)
 - [schollz/kiki](https://github.com/schollz/kiki) - An experimental social network that works offline.
@@ -1778,6 +1778,10 @@
 ## Hack 
 
 - [krzysztof113/ZeronetLink](https://github.com/krzysztof113/ZeronetLink) - 
+
+## Handlebars 
+
+- [PretendoNetwork/website](https://github.com/PretendoNetwork/website) - Website for Pretendo Network
 
 ## Haskell 
 
@@ -2647,6 +2651,7 @@
 
 ## Ruby 
 
+- [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 - [cobyism/dciy](https://github.com/cobyism/dciy) - Do Continuous Integration Yourself — a simple, open source CI server.
 - [cryptosphere/cryptosphere](https://github.com/cryptosphere/cryptosphere) - Encrypted peer-to-peer web application platform for decentralized, privacy-preserving applications
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
