@@ -202,7 +202,6 @@
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
-- [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
 - [merge/skulls](https://github.com/merge/skulls) - pre-built coreboot images and documentation on how to flash them for Thinkpad Laptops
@@ -510,6 +509,12 @@
 
 ## Go 
 
+- [zcyberseclab/zscan](https://github.com/zcyberseclab/zscan) - A fast, customizable service detection tool powered by a flexible fingerprint system. It helps you identify services, APIs, and network configurations across your infrastructure.
+- [tcpfailed/tcp-watch](https://github.com/tcpfailed/tcp-watch) - A real-time network monitoring and DDoS protection tool written in Go, featuring live traffic analysis, attack detection, and system resource monitoring.
+- [happy-bubbles/presence](https://github.com/happy-bubbles/presence) - Presence detection server for Happy Bubbles Bluetooth beacon-based presence detection system.
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+- [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 - [UltiRequiem/kimera](https://github.com/UltiRequiem/kimera) - 🦁 A Minimal and Secure runtime for JavaScript and TypeScript.
@@ -555,7 +560,7 @@
 - [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [go-i2p/go-rst](https://github.com/go-i2p/go-rst) - A Go library for parsing and rendering reStructuredText (RST) documents with translation support. Supports only a subset of restructuredText for now, but relatively easy to expand compared to other at
-- [go-i2p/go-i2p](https://github.com/go-i2p/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [go-i2p/go-i2p](https://github.com/go-i2p/go-i2p) - Go implementation of the I2P Router protocol(WIP)
 - [matrix-org/go-neb](https://github.com/matrix-org/go-neb) - Extensible matrix bot written in Go
 - [Jorropo/go-libp2p-i2p-transport](https://github.com/Jorropo/go-libp2p-i2p-transport) - Experimental I2P transport for libp2p.
 - [spearson78/gitnostr](https://github.com/spearson78/gitnostr) - Git integration for Nostr that supports creation and cloning of repositories and managing permissions of to access the repositorie
@@ -1669,7 +1674,7 @@
 - [zenhotels/astranet](https://github.com/zenhotels/astranet) - A Go (golang) library for managing highly concurrent independent network streams.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [Netflix/signal-wrapper](https://github.com/Netflix/signal-wrapper) - 
-- [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - F-Droid desktop client
+- [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - A command-line F-Droid desktop client
 - [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - fake a machine
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -2165,6 +2170,7 @@
 
 ## Jupyter Notebook 
 
+- [marcosan93/Price-Forecaster](https://github.com/marcosan93/Price-Forecaster) - Forecasting the future prices of BTC and More using Machine and Deep Learning Models
 - [teticio/Deej-AI](https://github.com/teticio/Deej-AI) - Create automatic playlists by using Deep Learning to *listen* to the music.
 - [poppy-project/poppy-humanoid](https://github.com/poppy-project/poppy-humanoid) - Poppy Humanoid is an open-source and 3D printed humanoid robot. Optimized for research and education purposes, its modularity allows for a wide range of applications and experimentations.
 - [fdac19/students](https://github.com/fdac19/students) - Background information about students
@@ -2237,6 +2243,7 @@
 
 ## Others 
 
+- [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
 - [Ubuntu-Sway/Ubuntu-Sway-Remix](https://github.com/Ubuntu-Sway/Ubuntu-Sway-Remix) - Ubuntu with Sway wayland compositor
 - [DoingFedTime/AirGappedSystemExplained](https://github.com/DoingFedTime/AirGappedSystemExplained) - A SVG visualization explaining air-gapped systems.
@@ -2426,6 +2433,7 @@
 
 ## Python 
 
+- [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 - [ctrlsam/rigour](https://github.com/ctrlsam/rigour) - A rigorous IoT scanner based on Shodan.io
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [meetkool/FREE-GPT-4](https://github.com/meetkool/FREE-GPT-4) - FREEGPT4 is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI.
@@ -2651,6 +2659,7 @@
 
 ## Ruby 
 
+- [kranzky/megahal](https://github.com/kranzky/megahal) - MegaHAL is a learning chatterbot.
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 - [cobyism/dciy](https://github.com/cobyism/dciy) - Do Continuous Integration Yourself — a simple, open source CI server.
 - [cryptosphere/cryptosphere](https://github.com/cryptosphere/cryptosphere) - Encrypted peer-to-peer web application platform for decentralized, privacy-preserving applications
@@ -2669,6 +2678,7 @@
 
 ## Rust 
 
+- [mmalmi/gun-rs-wasm](https://github.com/mmalmi/gun-rs-wasm) - Gun port in rust & wasm
 - [altonen/emissary](https://github.com/altonen/emissary) - Rust implementation of the I2P protocol stack
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
 - [altonen/yosemite](https://github.com/altonen/yosemite) - Asynchronous SAMv3 library
@@ -2955,7 +2965,7 @@
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
