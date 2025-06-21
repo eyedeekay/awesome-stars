@@ -509,6 +509,8 @@
 
 ## Go 
 
+- [itchio/smaug](https://github.com/itchio/smaug) - 🐲 separate user on windows + firejail on linux + sandbox-exec on macOS
+- [syumai/sbx](https://github.com/syumai/sbx) - an easy-to-use command-line tool for running commands with macOS sandbox-exec policies using flag-based interface
 - [zcyberseclab/zscan](https://github.com/zcyberseclab/zscan) - A fast, customizable service detection tool powered by a flexible fingerprint system. It helps you identify services, APIs, and network configurations across your infrastructure.
 - [tcpfailed/tcp-watch](https://github.com/tcpfailed/tcp-watch) - A real-time network monitoring and DDoS protection tool written in Go, featuring live traffic analysis, attack detection, and system resource monitoring.
 - [happy-bubbles/presence](https://github.com/happy-bubbles/presence) - Presence detection server for Happy Bubbles Bluetooth beacon-based presence detection system.
