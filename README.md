@@ -929,7 +929,7 @@
 - [aquilax/opendirindexer](https://github.com/aquilax/opendirindexer) - Open directory indexer
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [PuerkitoBio/gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
-- [matiasinsaurralde/transports](https://github.com/matiasinsaurralde/transports) - A HTTP proxy that aims to support different transports.
+- [matiasinsaurralde/transports](https://github.com/matiasinsaurralde/transports) - An HTTP proxy that aims to support different transports.
 - [goffee/goffee](https://github.com/goffee/goffee) - Global uptime monitoring via Tor
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
 - [staaldraad/ssh-git-go](https://github.com/staaldraad/ssh-git-go) - Simple SSH server that serves anonymous git repositories (read-only)
@@ -2426,6 +2426,7 @@
 - [danielbohannon/Revoke-Obfuscation](https://github.com/danielbohannon/Revoke-Obfuscation) - PowerShell Obfuscation Detection Framework
 - [Kevin-Robertson/Powermad](https://github.com/Kevin-Robertson/Powermad) - PowerShell MachineAccountQuota and DNS exploit tools
 - [RedSiege/WMImplant](https://github.com/RedSiege/WMImplant) - This is a PowerShell based tool that is designed to act like a RAT. Its interface is that of a shell where any command that is supported is translated into a WMI-equivalent for use on a network/remote
+- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [DanMcInerney/icebreaker](https://github.com/DanMcInerney/icebreaker) - Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment
 
@@ -2568,7 +2569,6 @@
 - [devicenull/ipmi_firmware_tools](https://github.com/devicenull/ipmi_firmware_tools) - IPMI analysis tools
 - [hatRiot/zarp](https://github.com/hatRiot/zarp) - Network Attack Tool
 - [jordanpotti/AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets
-- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [defaultnamehere/zzzzz](https://github.com/defaultnamehere/zzzzz) - Roleplay as the NSA by making creepy graphs of your friends
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
