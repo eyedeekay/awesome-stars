@@ -156,6 +156,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -227,10 +228,11 @@
 
 ## ai 
 
+- [kranzky/megahal](https://github.com/kranzky/megahal) - MegaHAL is a learning chatterbot.
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) - Stable diffusion for real-time music generation
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 
@@ -284,7 +286,7 @@
 - [chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [speks7/nazar](https://github.com/speks7/nazar) - Electronic component detection, identification and recognition system in realtime from camera image using react-native and tensorflow for classification along with Clarifai API with option to search t
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
-- [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - F-Droid desktop client
+- [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - A command-line F-Droid desktop client
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
 - [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [Antox/Antox](https://github.com/Antox/Antox) - Android client for Project Tox - Secure Peer to Peer Messaging
@@ -539,6 +541,7 @@
 
 ## chatbot 
 
+- [kranzky/megahal](https://github.com/kranzky/megahal) - MegaHAL is a learning chatterbot.
 - [meetkool/FREE-GPT-4](https://github.com/meetkool/FREE-GPT-4) - FREEGPT4 is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [omergunal/hackerbot](https://github.com/omergunal/hackerbot) - Chat with hacker assistant
@@ -614,6 +617,7 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - A command-line F-Droid desktop client
 - [dbohdan/initool](https://github.com/dbohdan/initool) - Manipulate INI files from the command line
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [mempodippy/vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
@@ -766,7 +770,7 @@
 
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [redwood/redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -784,7 +788,7 @@
 
 ## deno 
 
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## development 
 
@@ -822,6 +826,7 @@
 
 ## docker 
 
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [engity-com/bifroest](https://github.com/engity-com/bifroest) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session.
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
@@ -954,7 +959,7 @@
 
 ## firebase 
 
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## firefox 
 
@@ -1134,6 +1139,8 @@
 
 ## go 
 
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [UltiRequiem/kimera](https://github.com/UltiRequiem/kimera) - 🦁 A Minimal and Secure runtime for JavaScript and TypeScript.
 - [mikesmitty/curse](https://github.com/mikesmitty/curse) - CURSE is an SSH certificate signing server, built as an alternative to Netflix's BLESS tool, but without a dependency on AWS.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -1396,6 +1403,9 @@
 
 ## golang 
 
+- [zcyberseclab/zscan](https://github.com/zcyberseclab/zscan) - A fast, customizable service detection tool powered by a flexible fingerprint system. It helps you identify services, APIs, and network configurations across your infrastructure.
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+- [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [minetest-mapserver/mapserver](https://github.com/minetest-mapserver/mapserver) - Minetest realtime mapserver, written in go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -1507,7 +1517,7 @@
 - [thamizhv/tgnutella](https://github.com/thamizhv/tgnutella) - Gnutella servent with basic functionalities in golang
 - [ssbc/go-ssb](https://github.com/ssbc/go-ssb) - Go implementation of ssb (work in progress!)
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
-- [matiasinsaurralde/transports](https://github.com/matiasinsaurralde/transports) - A HTTP proxy that aims to support different transports.
+- [matiasinsaurralde/transports](https://github.com/matiasinsaurralde/transports) - An HTTP proxy that aims to support different transports.
 - [chaisql/chai](https://github.com/chaisql/chai) - Modern embedded SQL database
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 - [coyim/coyim](https://github.com/coyim/coyim) - coyim - a safe and secure chat client
@@ -2316,6 +2326,7 @@
 
 ## markdown 
 
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [posener/goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Now available as a Github action!
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -2409,7 +2420,7 @@
 ## nextjs 
 
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## nlp 
 
@@ -2516,6 +2527,14 @@
 
 ## others 
 
+- [itchio/smaug](https://github.com/itchio/smaug) - 🐲 separate user on windows + firejail on linux + sandbox-exec on macOS
+- [syumai/sbx](https://github.com/syumai/sbx) - an easy-to-use command-line tool for running commands with macOS sandbox-exec policies using flag-based interface
+- [tcpfailed/tcp-watch](https://github.com/tcpfailed/tcp-watch) - A real-time network monitoring and DDoS protection tool written in Go, featuring live traffic analysis, attack detection, and system resource monitoring.
+- [happy-bubbles/presence](https://github.com/happy-bubbles/presence) - Presence detection server for Happy Bubbles Bluetooth beacon-based presence detection system.
+- [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
+- [mmalmi/gun-rs-wasm](https://github.com/mmalmi/gun-rs-wasm) - Gun port in rust & wasm
+- [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
+- [marcosan93/Price-Forecaster](https://github.com/marcosan93/Price-Forecaster) - Forecasting the future prices of BTC and More using Machine and Deep Learning Models
 - [PretendoNetwork/website](https://github.com/PretendoNetwork/website) - Website for Pretendo Network
 - [mephistolist/hoxha](https://github.com/mephistolist/hoxha) - A userland rootkit
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -2560,7 +2579,7 @@
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [go-i2p/go-rst](https://github.com/go-i2p/go-rst) - A Go library for parsing and rendering reStructuredText (RST) documents with translation support. Supports only a subset of restructuredText for now, but relatively easy to expand compared to other at
 - [CodingTrain/Oregon-Trail](https://github.com/CodingTrain/Oregon-Trail) - A p5.js version of the Apple ][ Oregon Trail Game
-- [go-i2p/go-i2p](https://github.com/go-i2p/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
+- [go-i2p/go-i2p](https://github.com/go-i2p/go-i2p) - Go implementation of the I2P Router protocol(WIP)
 - [linuxserver/emulatorjs](https://github.com/linuxserver/emulatorjs) - Self hosted web based retro emulation front end with rom and art management.
 - [matrix-org/go-neb](https://github.com/matrix-org/go-neb) - Extensible matrix bot written in Go
 - [Jorropo/go-libp2p-i2p-transport](https://github.com/Jorropo/go-libp2p-i2p-transport) - Experimental I2P transport for libp2p.
@@ -3457,7 +3476,6 @@
 - [zielmicha/fc00.org](https://github.com/zielmicha/fc00.org) - Hyperboria (CJDNS network) map
 - [majestrate/inproxy](https://github.com/majestrate/inproxy) - pub i2p http inproxy
 - [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
-- [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [harikris/android-forensics](https://github.com/harikris/android-forensics) - Open source Android Forensics app and framework
 - [back37/MTK-FirmwareAdapter-Tool](https://github.com/back37/MTK-FirmwareAdapter-Tool) - Sources of MTK FirmwareAdapter Tool, now on GitHub
@@ -4213,6 +4231,7 @@
 
 ## penetration-testing 
 
+- [zcyberseclab/zscan](https://github.com/zcyberseclab/zscan) - A fast, customizable service detection tool powered by a flexible fingerprint system. It helps you identify services, APIs, and network configurations across your infrastructure.
 - [3xploitGuy/lazyaircrack](https://github.com/3xploitGuy/lazyaircrack) - Automated tool for WiFi hacking.
 - [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
 - [M4cs/BabySploit](https://github.com/M4cs/BabySploit) - :baby: BabySploit Beginner Pentesting Toolkit/Framework Written in Python :snake:
@@ -4272,7 +4291,7 @@
 ## postgresql 
 
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [EffectiveAF/effective](https://github.com/EffectiveAF/effective) - Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [
 
@@ -4353,6 +4372,10 @@
 - [GrapheneOS/linux-hardened](https://github.com/GrapheneOS/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## productivity 
+
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 
 ## programming 
 
@@ -4469,6 +4492,7 @@
 
 ## react 
 
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [mozilla/addons-frontend](https://github.com/mozilla/addons-frontend) - Front-end to complement mozilla/addons-server
 - [EffectiveAF/effective](https://github.com/EffectiveAF/effective) - Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [
 - [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
@@ -4650,7 +4674,7 @@
 - [ryandamour/ssrfuzz](https://github.com/ryandamour/ssrfuzz) - SSRFuzz is a tool to find Server Side Request Forgery vulnerabilities, with CRLF chaining capabilities
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
-- [matiasinsaurralde/transports](https://github.com/matiasinsaurralde/transports) - A HTTP proxy that aims to support different transports.
+- [matiasinsaurralde/transports](https://github.com/matiasinsaurralde/transports) - An HTTP proxy that aims to support different transports.
 - [coyim/coyim](https://github.com/coyim/coyim) - coyim - a safe and secure chat client
 - [digitalautonomy/wahay](https://github.com/digitalautonomy/wahay) - an easy-to-use, secure and decentralized conference call application (this repository is a mirror of an internal work repository)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -4720,6 +4744,7 @@
 
 ## security-tools 
 
+- [zcyberseclab/zscan](https://github.com/zcyberseclab/zscan) - A fast, customizable service detection tool powered by a flexible fingerprint system. It helps you identify services, APIs, and network configurations across your infrastructure.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
@@ -4738,6 +4763,7 @@
 
 ## self-hosted 
 
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
@@ -4755,6 +4781,7 @@
 
 ## server 
 
+- [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [tigase/tigase-server](https://github.com/tigase/tigase-server) - (M) Highly optimized, extremely modular and very flexible XMPP/Jabber server
 - [krotik/dudeldu](https://github.com/krotik/dudeldu) - A simple SHOUTcast server.
@@ -4833,6 +4860,7 @@
 
 ## sqlite 
 
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
@@ -4916,6 +4944,7 @@
 
 ## terraform 
 
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 
