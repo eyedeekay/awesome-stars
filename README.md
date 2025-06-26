@@ -509,6 +509,7 @@
 
 ## Go 
 
+- [fclairamb/ftpserver](https://github.com/fclairamb/ftpserver) - Golang based autonomous FTP server with SFTP, S3, Dropbox, and Google Drive connectors.
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 - [itchio/smaug](https://github.com/itchio/smaug) - 🐲 separate user on windows + firejail on linux + sandbox-exec on macOS
 - [syumai/sbx](https://github.com/syumai/sbx) - an easy-to-use command-line tool for running commands with macOS sandbox-exec policies using flag-based interface
@@ -679,7 +680,7 @@
 - [jessfraz/netscan](https://github.com/jessfraz/netscan) - Scan network ips and ports.
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [genshen/wssocks](https://github.com/genshen/wssocks) - socks5 over websocket
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
@@ -1173,7 +1174,7 @@
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [bitwurx/jrpc2](https://github.com/bitwurx/jrpc2) - Golang JSON-RPC 2.0 HTTP Server
 - [ybbus/jsonrpc](https://github.com/ybbus/jsonrpc) - A simple go implementation of json rpc 2.0 client over http
-- [varyoo/mktorrent](https://github.com/varyoo/mktorrent) - Make torrent files using Go and preset profiles.
+- [adebuisson/mktorrent](https://github.com/adebuisson/mktorrent) - Make torrent files using Go and preset profiles.
 - [prodhe/gopher](https://github.com/prodhe/gopher) - Server implementation of the gopher protocol
 - [peterhellberg/gopher](https://github.com/peterhellberg/gopher) - A simple server for the Gopher protocol written in Go.
 - [libp2p/go-libp2p-quic-transport](https://github.com/libp2p/go-libp2p-quic-transport) - An implementation of a libp2p transport using QUIC
