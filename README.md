@@ -91,7 +91,7 @@
 
 ## Adblock Filter List 
 
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 
 ## Arduino 
 
@@ -129,6 +129,7 @@
 
 ## C 
 
+- [kaniini/wayback](https://github.com/kaniini/wayback) - experimental X11 compatibility layer
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
@@ -307,6 +308,7 @@
 
 ## C# # 
 
+- [EvotecIT/PSPGP](https://github.com/EvotecIT/PSPGP) - PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP.
 - [neoeinstein/purpleonion](https://github.com/neoeinstein/purpleonion) - The Purple Onion Router: a managed implementation of the Tor Onion Router
 - [krzys-h/SteamStreaming](https://github.com/krzys-h/SteamStreaming) - An attempt at a cleanroom reimplementation of the Steam In-Home Streaming protocol
 - [Crul/Rogueskiv](https://github.com/Crul/Rogueskiv) - A roguelite game, mashup of Eskiv and the countless Roguelike games
@@ -509,6 +511,7 @@
 
 ## Go 
 
+- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [fclairamb/ftpserver](https://github.com/fclairamb/ftpserver) - Golang based autonomous FTP server with SFTP, S3, Dropbox, and Google Drive connectors.
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 - [itchio/smaug](https://github.com/itchio/smaug) - 🐲 separate user on windows + firejail on linux + sandbox-exec on macOS
@@ -1174,7 +1177,7 @@
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [bitwurx/jrpc2](https://github.com/bitwurx/jrpc2) - Golang JSON-RPC 2.0 HTTP Server
 - [ybbus/jsonrpc](https://github.com/ybbus/jsonrpc) - A simple go implementation of json rpc 2.0 client over http
-- [adebuisson/mktorrent](https://github.com/adebuisson/mktorrent) - Make torrent files using Go and preset profiles.
+- [2buisson/mktorrent](https://github.com/2buisson/mktorrent) - Make torrent files using Go and preset profiles.
 - [prodhe/gopher](https://github.com/prodhe/gopher) - Server implementation of the gopher protocol
 - [peterhellberg/gopher](https://github.com/peterhellberg/gopher) - A simple server for the Gopher protocol written in Go.
 - [libp2p/go-libp2p-quic-transport](https://github.com/libp2p/go-libp2p-quic-transport) - An implementation of a libp2p transport using QUIC
@@ -1829,7 +1832,6 @@
 - [nayuki/MamIRC](https://github.com/nayuki/MamIRC) - Use at your own risk.
 - [RPTools/maptool](https://github.com/RPTools/maptool) - Virtual Tabletop for playing roleplaying games with remote players or face to face.
 - [a-pavlov/jed2k](https://github.com/a-pavlov/jed2k) - Java library for ed2k networks
-- [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [syvita/nano](https://github.com/syvita/nano) - 0 dependency, cross-platform I2P.core wrapper with a SAM interface.
 - [schollz/find3-android-scanner](https://github.com/schollz/find3-android-scanner) - An android app that scans Bluetooth and WiFi for FIND3
@@ -2188,6 +2190,7 @@
 - [truefedex/GeckoViewNativeWebApp](https://github.com/truefedex/GeckoViewNativeWebApp) - A minimal example of an embedded web application in GekView with two-way communication between the web and native parts. It may not be the best solution, but that's all I've been able to find so far.
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+- [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [dorkbox/Notify](https://github.com/dorkbox/Notify) - Linux, MacOS, or Windows (notification/growl/toast) popups for the desktop and applications for Java 8+
@@ -2421,7 +2424,7 @@
 
 ## PowerShell 
 
-- [EvotecIT/PSPGP](https://github.com/EvotecIT/PSPGP) - PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [acudovs/windows-kvm-imaging-tools](https://github.com/acudovs/windows-kvm-imaging-tools) - How to build a Windows QEMU KVM qcow2 image
 - [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
 - [nccgroup/redsnarf](https://github.com/nccgroup/redsnarf) - RedSnarf is a pen-testing / red-teaming tool for Windows environments
@@ -2818,7 +2821,6 @@
 
 - [mephistolist/hoxha](https://github.com/mephistolist/hoxha) - A userland rootkit
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [JNRowe/surfraw](https://github.com/JNRowe/surfraw) - Mirror of the upstream git repository
 - [n4ru/1vyrain](https://github.com/n4ru/1vyrain) - LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking.
 - [noob-hackers/kalimux](https://github.com/noob-hackers/kalimux) - Install And Use Kali Linux With Gui In Termux
