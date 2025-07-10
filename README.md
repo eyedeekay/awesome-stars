@@ -129,7 +129,7 @@
 
 ## C 
 
-- [kaniini/wayback](https://github.com/kaniini/wayback) - experimental X11 compatibility layer
+- [wayback-x11/wayback](https://github.com/wayback-x11/wayback) - experimental X11 compatibility layer
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
@@ -524,7 +524,6 @@
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 - [UltiRequiem/kimera](https://github.com/UltiRequiem/kimera) - 🦁 A Minimal and Secure runtime for JavaScript and TypeScript.
 - [yarlson/lnk](https://github.com/yarlson/lnk) - 🔗 Git-native dotfiles management that doesn't suck.
 - [nwtgck/handy-sshd](https://github.com/nwtgck/handy-sshd) - Portable SSH Server
@@ -840,7 +839,7 @@
 - [tockn/singo](https://github.com/tockn/singo) - Simple WebRTC Signaling Server written in Go
 - [OpenAyame/ayame](https://github.com/OpenAyame/ayame) - WebRTC Signaling Server Ayame
 - [nochso/gomd](https://github.com/nochso/gomd) - Portable Markdown editor written in Go
-- [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP client & server library written in Go
+- [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP library for Go clients and servers
 - [emersion/go-smtp-proxy](https://github.com/emersion/go-smtp-proxy) - A go-smtp-server backend that proxies messages to another SMTP server
 - [emersion/go-imap-proxy](https://github.com/emersion/go-imap-proxy) - A go-imap backend that proxies all commands and responses to another IMAP server
 - [Zamony/wmwm](https://github.com/Zamony/wmwm) - Pure Go autotiling window manager
@@ -1167,7 +1166,7 @@
 - [ikemen-engine/Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 - [henvic/httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
 - [hewiefreeman/GopherGameServer](https://github.com/hewiefreeman/GopherGameServer) - :trophy: Feature packed, easy-to-use game server API for Go back-ends and Javascript clients. Tutorials and examples included!
-- [emersion/go-imap](https://github.com/emersion/go-imap) - 📥 An IMAP library for clients and servers
+- [emersion/go-imap](https://github.com/emersion/go-imap) - 📥 An IMAP library for Go clients and servers
 - [makkes/gitlab-cli](https://github.com/makkes/gitlab-cli) - A simple command line interface to GitLab
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [nomasters/killcord](https://github.com/nomasters/killcord) - a censorship resistant deadman's switch
@@ -2968,6 +2967,7 @@
 ## TypeScript 
 
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 - [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) - Creepy device and browser fingerprinting
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
