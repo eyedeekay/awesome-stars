@@ -2191,6 +2191,7 @@
 
 ## linux 
 
+- [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [BobdaProgrammer/doWM](https://github.com/BobdaProgrammer/doWM) - A beautiful window manager for x11
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
@@ -2540,7 +2541,9 @@
 
 ## others 
 
-- [kaniini/wayback](https://github.com/kaniini/wayback) - experimental X11 compatibility layer
+- [go-i2p/common](https://github.com/go-i2p/common) - Common library for go-i2p, factored out from the router to a separate package.
+- [go-i2p/crypto](https://github.com/go-i2p/crypto) - Cryptography library for go-i2p, factored out from the router to a separate package.
+- [wayback-x11/wayback](https://github.com/wayback-x11/wayback) - experimental X11 compatibility layer
 - [itchio/smaug](https://github.com/itchio/smaug) - 🐲 separate user on windows + firejail on linux + sandbox-exec on macOS
 - [syumai/sbx](https://github.com/syumai/sbx) - an easy-to-use command-line tool for running commands with macOS sandbox-exec policies using flag-based interface
 - [tcpfailed/tcp-watch](https://github.com/tcpfailed/tcp-watch) - A real-time network monitoring and DDoS protection tool written in Go, featuring live traffic analysis, attack detection, and system resource monitoring.
@@ -4663,6 +4666,7 @@
 
 ## security 
 
+- [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
@@ -4796,6 +4800,7 @@
 
 ## server 
 
+- [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [tigase/tigase-server](https://github.com/tigase/tigase-server) - (M) Highly optimized, extremely modular and very flexible XMPP/Jabber server
@@ -4809,7 +4814,7 @@
 - [lavabit/magma](https://github.com/lavabit/magma) - The magma server daemon, is an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN,. Additional support for DMTP and DMAP is currently in active development.
 - [byte-mug/fastnntp](https://github.com/byte-mug/fastnntp) - Fast NNTP server
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
-- [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP client & server library written in Go
+- [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP library for Go clients and servers
 - [ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [schollz/kiki](https://github.com/schollz/kiki) - An experimental social network that works offline.
 - [VolticFroogo/cryptopad-server](https://github.com/VolticFroogo/cryptopad-server) - The server component of a cryptographically trustless security notepad app.
@@ -4817,7 +4822,7 @@
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [hewiefreeman/GopherGameServer](https://github.com/hewiefreeman/GopherGameServer) - :trophy: Feature packed, easy-to-use game server API for Go back-ends and Javascript clients. Tutorials and examples included!
-- [emersion/go-imap](https://github.com/emersion/go-imap) - 📥 An IMAP library for clients and servers
+- [emersion/go-imap](https://github.com/emersion/go-imap) - 📥 An IMAP library for Go clients and servers
 - [peterhellberg/gopher](https://github.com/peterhellberg/gopher) - A simple server for the Gopher protocol written in Go.
 - [gtestault/freeflix](https://github.com/gtestault/freeflix) - Freeflix is a streaming server that integrates a BitTorrent client.
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
