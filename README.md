@@ -511,6 +511,8 @@
 
 ## Go 
 
+- [go-i2p/common](https://github.com/go-i2p/common) - Common library for go-i2p, factored out from the router to a separate package.
+- [go-i2p/crypto](https://github.com/go-i2p/crypto) - Cryptography library for go-i2p, factored out from the router to a separate package.
 - [BobdaProgrammer/doWM](https://github.com/BobdaProgrammer/doWM) - A beautiful window manager for x11
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [fclairamb/ftpserver](https://github.com/fclairamb/ftpserver) - Golang based autonomous FTP server with SFTP, S3, Dropbox, and Google Drive connectors.
@@ -2966,6 +2968,7 @@
 
 ## TypeScript 
 
+- [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 - [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) - Creepy device and browser fingerprinting
