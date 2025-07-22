@@ -1825,6 +1825,7 @@
 
 ## Java 
 
+- [Vin-Nan/I2p](https://github.com/Vin-Nan/I2p) - 
 - [SaiUpadhyayula/java-sftpserver](https://github.com/SaiUpadhyayula/java-sftpserver) - A simple SFTP Server implemented using Apache Mina SSHD library using Java and Spring boot
 - [dzaima/chat](https://github.com/dzaima/chat) - A Matrix chat client
 - [subutai-attic/kurjun](https://github.com/subutai-attic/kurjun) - Kurjun is a configurable Apt Repository that can proxy, mirror and merge together several repositories. It can dynamically publish verified changes with version control, access control, encryption, ve
