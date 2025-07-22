@@ -2567,6 +2567,7 @@
 
 ## others 
 
+- [Vin-Nan/I2p](https://github.com/Vin-Nan/I2p) - 
 - [go-i2p/common](https://github.com/go-i2p/common) - Common library for go-i2p, factored out from the router to a separate package.
 - [go-i2p/crypto](https://github.com/go-i2p/crypto) - Cryptography library for go-i2p, factored out from the router to a separate package.
 - [wayback-x11/wayback](https://github.com/wayback-x11/wayback) - experimental X11 compatibility layer
