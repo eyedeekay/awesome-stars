@@ -57,7 +57,6 @@
 - [PowerShell](#powershell)
 - [Puppet](#puppet)
 - [Python](#python)
-- [QML](#qml)
 - [R](#r)
 - [Racket](#racket)
 - [Rich Text Format](#rich-text-format)
@@ -824,8 +823,6 @@
 - [gopher-os/gopher-os](https://github.com/gopher-os/gopher-os) - A proof of concept OS kernel written in Go
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [mhale/smtpd](https://github.com/mhale/smtpd) - An SMTP server package written in Go, in the style of the built-in HTTP server.
-- [katzenpost/authority](https://github.com/katzenpost/authority) - Mix Network Directory Authority/PKI library
-- [katzenpost/catshadow](https://github.com/katzenpost/catshadow) - katzenpost mix network encrypted messaging client library
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [t-900-a/gemmit](https://github.com/t-900-a/gemmit) - gemmit is a social news aggregation and web content rating website for the gemini protocol
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -2653,10 +2650,6 @@
 - [eudemonics/stagefright](https://github.com/eudemonics/stagefright) - Python script to generate a malicious MP4 file exploiting the 'stsc' vulnerability (CVE-2015-1538-1 - Google Stagefright ‘stsc’ MP4 Atom Integer Overflow Remote Code Execution), and start reverse TCP 
 - [torproject/torbrowser-launcher](https://github.com/torproject/torbrowser-launcher) - Securely and easily download, verify, install, and launch Tor Browser in Linux. This repository is a mirror of https://gitlab.torproject.org/tpo/applications/torbrowser-launcher
 
-## QML 
-
-- [katzenpost/catchat](https://github.com/katzenpost/catchat) - Traffic analysis resistant messaging with Qt based user interface
-
 ## R 
 
 - [skydome20/crawler_CIA_CREST](https://github.com/skydome20/crawler_CIA_CREST) - R-crawler for CIA website (CREST)
@@ -2735,7 +2728,6 @@
 - [resolvingarchitecture/i2p-client](https://github.com/resolvingarchitecture/i2p-client) - A SAMv3 I2P client for a local I2P instance. Can be ran within the Service Bus as a Network OS Service.
 - [agentofuser/git-remote-tor](https://github.com/agentofuser/git-remote-tor) - Seamless .onion and tor-ified git remotes
 - [sigwinch28/magic-wormhole-transit-relay-server.rs](https://github.com/sigwinch28/magic-wormhole-transit-relay-server.rs) - 
-- [katzenpost/server_plugins](https://github.com/katzenpost/server_plugins) - mix server service plugins
 - [werkshy/pickup](https://github.com/werkshy/pickup) - MPD Web Client in Go
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [iCepa/tun2tor](https://github.com/iCepa/tun2tor) - A rust library to provide a virtual utun interface to Tor
@@ -2787,7 +2779,7 @@
 - [manuels/bulletinboard-dht](https://github.com/manuels/bulletinboard-dht) - Your internet-wide general-purpose DHT to store key/value pairs
 - [manuels/wireguard-p2p](https://github.com/manuels/wireguard-p2p) - A tool for setting up WireGuard connections from peer to peer.
 - [Ragnaroek/mithril](https://github.com/Ragnaroek/mithril) - Pure Rust Monero Miner
-- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+- [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [oxy-secure/oxy](https://github.com/oxy-secure/oxy) - 
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [str4d/bls](https://github.com/str4d/bls) - Rust crate for BLS signatures
@@ -2859,7 +2851,7 @@
 - [freifunk-berlin/firmware](https://github.com/freifunk-berlin/firmware) - DEPRECATED: Build system for Berlin firmware. Please user the pinned falter-repos instead
 - [gnos-project/gnos-socksjail](https://github.com/gnos-project/gnos-socksjail) - :performing_arts: SOCKSify without leaks
 - [elsorino/Icecat-mac](https://github.com/elsorino/Icecat-mac) - Scripts and binaries for Icecat on macOS
-- [SolidHal/icecat-arm](https://github.com/SolidHal/icecat-arm) - Scripts to crosscompile GNU icecat for arm-hf systems
+- [SolidEva/icecat-arm](https://github.com/SolidEva/icecat-arm) - Scripts to crosscompile GNU icecat for arm-hf systems
 - [mkg20001/apk2flashzip](https://github.com/mkg20001/apk2flashzip) - Turns an APK file into a flashable ZIP that installs the APK as system-app
 - [dfsnc/Hackintosh-Catalina-OpenCore-Lenovo-T450s-efi](https://github.com/dfsnc/Hackintosh-Catalina-OpenCore-Lenovo-T450s-efi) - 
 - [sudo-give-me-coffee/flatpak2appdir](https://github.com/sudo-give-me-coffee/flatpak2appdir) - A proof of concept to demonstrate a viable way to turn a Flatpak into AppDir
