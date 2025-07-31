@@ -50,11 +50,13 @@
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data](#data)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
@@ -776,6 +778,10 @@
 - [RTradeLtd/Temporal](https://github.com/RTradeLtd/Temporal) - ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
 - [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 
+## data-engineering 
+
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+
 ## data-science 
 
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
@@ -809,6 +815,14 @@
 ## deno 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+
+## developer-tools 
+
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [uw-pluverse/perses](https://github.com/uw-pluverse/perses) - language-agnostic program reducer.
+- [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 
 ## development 
 
@@ -2126,7 +2140,7 @@
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [alfg/ping.js](https://github.com/alfg/ping.js) - :bell: Ping the web with Javascript.
-- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+- [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [bradoyler/xmr-miner](https://github.com/bradoyler/xmr-miner) - Web-based Cryptocurrency miner, built with Vue.js
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -2567,6 +2581,7 @@
 
 ## others 
 
+- [necrashter/frogue](https://github.com/necrashter/frogue) - 3D FPS with Boss Fights and Randomized Weapons
 - [Vin-Nan/I2p](https://github.com/Vin-Nan/I2p) - 
 - [go-i2p/common](https://github.com/go-i2p/common) - Common library for go-i2p, factored out from the router to a separate package.
 - [go-i2p/crypto](https://github.com/go-i2p/crypto) - Cryptography library for go-i2p, factored out from the router to a separate package.
@@ -2641,7 +2656,6 @@
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [Danlock/searmage](https://github.com/Danlock/searmage) - Search images locally via a CLI, powered by Tesseract
 - [yzzyx/pongo-trans](https://github.com/yzzyx/pongo-trans) - Translation tags for pongo2
-- [uw-pluverse/perses](https://github.com/uw-pluverse/perses) - language-agnostic program reducer.
 - [bonehurtingjuice/mattereddit](https://github.com/bonehurtingjuice/mattereddit) - Matterbridge API plugin for Reddit Community Chat
 - [torhve/gomirc](https://github.com/torhve/gomirc) - Matrix &lt;=&gt; IRC bridge in Go
 - [SwiftIRC/Web-IRC](https://github.com/SwiftIRC/Web-IRC) - A feature-rich Websocket IRC client in JavaScript
@@ -2873,9 +2887,6 @@
 - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [mhale/smtpd](https://github.com/mhale/smtpd) - An SMTP server package written in Go, in the style of the built-in HTTP server.
-- [katzenpost/authority](https://github.com/katzenpost/authority) - Mix Network Directory Authority/PKI library
-- [katzenpost/catchat](https://github.com/katzenpost/catchat) - Traffic analysis resistant messaging with Qt based user interface
-- [katzenpost/catshadow](https://github.com/katzenpost/catshadow) - katzenpost mix network encrypted messaging client library
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [t-900-a/gemmit](https://github.com/t-900-a/gemmit) - gemmit is a social news aggregation and web content rating website for the gemini protocol
 - [FelixMcFelix/Shallot](https://github.com/FelixMcFelix/Shallot) - Small-scale onion routing over WebRTC
@@ -3001,7 +3012,6 @@
 - [resolvingarchitecture/i2p-java](https://github.com/resolvingarchitecture/i2p-java) - Service with embedded I2P router for communicating with I2P network.
 - [andrewrk/groovebasin](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface.
 - [strfry/gotox](https://github.com/strfry/gotox) - A Tox Client For The Web[RTC]
-- [katzenpost/server_plugins](https://github.com/katzenpost/server_plugins) - mix server service plugins
 - [Gofake1/egret](https://github.com/Gofake1/egret) - Web mail client
 - [viney/go-call-java](https://github.com/viney/go-call-java) - golang call java
 - [andlabs/ui](https://github.com/andlabs/ui) - Platform-native GUI library for Go.
@@ -3083,7 +3093,7 @@
 - [brutella/dnssd](https://github.com/brutella/dnssd) - This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go.
 - [mazhigali/dlna_browser](https://github.com/mazhigali/dlna_browser) - Upnp active directory browser
 - [dmichael/go-multicast](https://github.com/dmichael/go-multicast) - Experiments in UDP Multicasting
-- [SolidHal/icecat-arm](https://github.com/SolidHal/icecat-arm) - Scripts to crosscompile GNU icecat for arm-hf systems
+- [SolidEva/icecat-arm](https://github.com/SolidEva/icecat-arm) - Scripts to crosscompile GNU icecat for arm-hf systems
 - [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
 - [siratama/Flash-To-Haxe-Converter](https://github.com/siratama/Flash-To-Haxe-Converter) - 
 - [mkg20001/apk2flashzip](https://github.com/mkg20001/apk2flashzip) - Turns an APK file into a flashable ZIP that installs the APK as system-app
@@ -3923,7 +3933,6 @@
 - [idc/ps4-payload-sdk](https://github.com/idc/ps4-payload-sdk) - Open source PS4 SDK
 - [codedust/WebTox](https://github.com/codedust/WebTox) - A web based graphical user interface for Tox - contributions welcome!
 - [yacy/yacy_expert](https://github.com/yacy/yacy_expert) - A search engine which will answer to all questions
-- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [quentinhardy/scriptsAndExploits](https://github.com/quentinhardy/scriptsAndExploits) - Some scripts and exploits
 - [oxy-secure/oxy](https://github.com/oxy-secure/oxy) - 
 - [waldheinz/ads](https://github.com/waldheinz/ads) - A Freenet clone written in Haskell
@@ -4258,6 +4267,7 @@
 - [manuels/wireguard-p2p](https://github.com/manuels/wireguard-p2p) - A tool for setting up WireGuard connections from peer to peer.
 - [YunoHost-Apps/peertube_ynh](https://github.com/YunoHost-Apps/peertube_ynh) - Federated (ActivityPub) video streaming platform using P2P for YunoHost
 - [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications.
+- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - curated list of open-source anti-censorship tools
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [PeterZander/i2p-cs](https://github.com/PeterZander/i2p-cs) - I2P router in C#
@@ -4405,6 +4415,7 @@
 - [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [elbywan/yett](https://github.com/elbywan/yett) - 🔐A small webpage library to control the execution of (third party) scripts
+- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
@@ -4665,7 +4676,7 @@
 - [mesalock-linux/mesalock-distro](https://github.com/mesalock-linux/mesalock-distro) - MesaLock Linux: a memory-safe Linux distribution.
 - [mesalock-linux/minit](https://github.com/mesalock-linux/minit) - An init utility purely written in Rust.
 - [Ragnaroek/mithril](https://github.com/Ragnaroek/mithril) - Pure Rust Monero Miner
-- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+- [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) - Automated builded images for rust-lang with rustup, "the ultimate way to install RUST"
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
@@ -5129,6 +5140,7 @@
 - [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
 - [skydome20/crawler_CIA_CREST](https://github.com/skydome20/crawler_CIA_CREST) - R-crawler for CIA website (CREST)
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+- [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [CamilleScholtz/sako](https://github.com/CamilleScholtz/sako) - A self-hosted Monero web-interface.
 
