@@ -2180,6 +2180,7 @@
 
 ## Jupyter Notebook 
 
+- [necrashter/frogue](https://github.com/necrashter/frogue) - 3D FPS with Boss Fights and Randomized Weapons
 - [marcosan93/Price-Forecaster](https://github.com/marcosan93/Price-Forecaster) - Forecasting the future prices of BTC and More using Machine and Deep Learning Models
 - [teticio/Deej-AI](https://github.com/teticio/Deej-AI) - Create automatic playlists by using Deep Learning to *listen* to the music.
 - [poppy-project/poppy-humanoid](https://github.com/poppy-project/poppy-humanoid) - Poppy Humanoid is an open-source and 3D printed humanoid robot. Optimized for research and education purposes, its modularity allows for a wide range of applications and experimentations.
