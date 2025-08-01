@@ -227,6 +227,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -2581,6 +2582,7 @@
 
 ## others 
 
+- [babycommando/torify-windows](https://github.com/babycommando/torify-windows) - Torify For The Windows Terminal - A rust wrapper to "torify" any command line tool on Windows.
 - [necrashter/frogue](https://github.com/necrashter/frogue) - 3D FPS with Boss Fights and Randomized Weapons
 - [Vin-Nan/I2p](https://github.com/Vin-Nan/I2p) - 
 - [go-i2p/common](https://github.com/go-i2p/common) - Common library for go-i2p, factored out from the router to a separate package.
@@ -2647,7 +2649,7 @@
 - [arnaucube/goCaptcha](https://github.com/arnaucube/goCaptcha) - captcha server, with own datasets
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [docker/libkv](https://github.com/docker/libkv) - Distributed key/value store abstraction library
-- [thinkski/osx-arm-linux-toolchains](https://github.com/thinkski/osx-arm-linux-toolchains) - Pre-built ARM/Linux C cross-compilers for MacOS
+- [hiszpanski/osx-arm-linux-toolchains](https://github.com/hiszpanski/osx-arm-linux-toolchains) - Pre-built ARM/Linux C cross-compilers for MacOS
 - [marcinwyszynski/popart](https://github.com/marcinwyszynski/popart) - POP3 server library for Go
 - [oxzi/xochimilco](https://github.com/oxzi/xochimilco) - X3DH, Double Ratchet and a straightforward E2E encryption library on top.
 - [bitnami/gonit](https://github.com/bitnami/gonit) - Drop-in replacement for monit written in Go, with Apache 2.0 license
@@ -5211,6 +5213,14 @@
 - [parMaster/audiofeed](https://github.com/parMaster/audiofeed) - Host a podcast XML feed from a folder with .mp3 (m4a|m4b) files. Add it to your favourite podcast app and listen to downloaded audiobooks
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
+
+## zsh 
+
+- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+- [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 
 
 ## License
