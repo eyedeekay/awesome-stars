@@ -2958,7 +2958,7 @@
 - [Yawning/onionwrap](https://github.com/Yawning/onionwrap) - Delicious Onion Service Wraps.
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [Binject/go-donut](https://github.com/Binject/go-donut) - Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut
-- [omaidf/go-malware](https://github.com/omaidf/go-malware) - Golang Virus Examples
+- [0xWizzzz/go-malware](https://github.com/0xWizzzz/go-malware) - Golang Virus Examples
 - [bonedaddy/awesome-crypto-trackers](https://github.com/bonedaddy/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards.
 - [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown
 - [geohot/qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
