@@ -1913,9 +1913,6 @@
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - fake a machine
-- [go-debos/debos-recipes](https://github.com/go-debos/debos-recipes) - Collection of debos recipes
-- [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -3984,6 +3981,9 @@
 - [chertov/camopenwrt_docker](https://github.com/chertov/camopenwrt_docker) - 
 - [maskmagazine/lrad.nyc](https://github.com/maskmagazine/lrad.nyc) - an area-of-affect website
 - [nurupo/rootkit](https://github.com/nurupo/rootkit) - Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64
+- [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - fake a machine
+- [go-debos/debos-recipes](https://github.com/go-debos/debos-recipes) - Collection of debos recipes
+- [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [yuq/linux-lima](https://github.com/yuq/linux-lima) - Deprecated, new place: https://gitlab.freedesktop.org/lima
 - [Hackplayers/4nonimizer](https://github.com/Hackplayers/4nonimizer) - A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN)
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
