@@ -925,7 +925,7 @@
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [mad-s/go-peerflix-server](https://github.com/mad-s/go-peerflix-server) - Streaming torrent client with Web UI
 - [Binject/go-donut](https://github.com/Binject/go-donut) - Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut
-- [omaidf/go-malware](https://github.com/omaidf/go-malware) - Golang Virus Examples
+- [0xWizzzz/go-malware](https://github.com/0xWizzzz/go-malware) - Golang Virus Examples
 - [coyim/otr3](https://github.com/coyim/otr3) - A Go implementation of the OTR 3 protocol, with libotr 4.1.0 feature parity
 - [ssbc/go-ssb](https://github.com/ssbc/go-ssb) - Go implementation of ssb (work in progress!)
 - [schollz/kiki](https://github.com/schollz/kiki) - An experimental social network that works offline.
@@ -2432,7 +2432,6 @@
 
 ## PowerShell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [acudovs/windows-kvm-imaging-tools](https://github.com/acudovs/windows-kvm-imaging-tools) - How to build a Windows QEMU KVM qcow2 image
 - [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
 - [nccgroup/redsnarf](https://github.com/nccgroup/redsnarf) - RedSnarf is a pen-testing / red-teaming tool for Windows environments
@@ -2973,6 +2972,7 @@
 - [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) - Creepy device and browser fingerprinting
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
