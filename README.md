@@ -925,7 +925,7 @@
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [mad-s/go-peerflix-server](https://github.com/mad-s/go-peerflix-server) - Streaming torrent client with Web UI
 - [Binject/go-donut](https://github.com/Binject/go-donut) - Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut
-- [0xWizzzz/go-malware](https://github.com/0xWizzzz/go-malware) - Golang Virus Examples
+- [omaidf/go-malware](https://github.com/omaidf/go-malware) - Golang Virus Examples
 - [coyim/otr3](https://github.com/coyim/otr3) - A Go implementation of the OTR 3 protocol, with libotr 4.1.0 feature parity
 - [ssbc/go-ssb](https://github.com/ssbc/go-ssb) - Go implementation of ssb (work in progress!)
 - [schollz/kiki](https://github.com/schollz/kiki) - An experimental social network that works offline.
@@ -1412,7 +1412,7 @@
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [ipfs/go-ipfs-example-plugin](https://github.com/ipfs/go-ipfs-example-plugin) - Demo plugin for Kubo IPFS daemon
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
-- [fragglet/ipxbox](https://github.com/fragglet/ipxbox) - Standalone DOSbox IPX-over-UDP server
+- [fragglet/ipxbox](https://github.com/fragglet/ipxbox) - DOSbox IPX-over-UDP server with TAP integration, built-in PPTP server, Quake server proxying and many other bells and whistles
 - [headzoo/surf](https://github.com/headzoo/surf) - Stateful programmatic web browsing in Go.
 - [Kycklingar/PBooru](https://github.com/Kycklingar/PBooru) - 
 - [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
