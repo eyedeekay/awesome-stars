@@ -227,7 +227,6 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -1369,6 +1368,7 @@
 - [Xe/gopreload](https://github.com/Xe/gopreload) - LD_PRELOAD for the gopher crowd
 - [mattbostock/go-ldpreload-backdoor](https://github.com/mattbostock/go-ldpreload-backdoor) - LD_PRELOAD libc hooking using Go
 - [erred/go-wg](https://github.com/erred/go-wg) - Go package for interacting with the WireGuard cli wg
+- [fragglet/ipxbox](https://github.com/fragglet/ipxbox) - DOSbox IPX-over-UDP server with TAP integration, built-in PPTP server, Quake server proxying and many other bells and whistles
 - [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection library for Go
 - [go-darwin/hdiutil](https://github.com/go-darwin/hdiutil) - Package hdiutil implements a macOS hdiutil command wrapper.
@@ -1693,6 +1693,7 @@
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [mattbostock/go-ldpreload-backdoor](https://github.com/mattbostock/go-ldpreload-backdoor) - LD_PRELOAD libc hooking using Go
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+- [fragglet/ipxbox](https://github.com/fragglet/ipxbox) - DOSbox IPX-over-UDP server with TAP integration, built-in PPTP server, Quake server proxying and many other bells and whistles
 - [james-bowman/nlp](https://github.com/james-bowman/nlp) - Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
 - [hauke96/tiny-http-proxy](https://github.com/hauke96/tiny-http-proxy) - Maybe the tiniest HTTP proxy that also has a cache
 - [jakoblorz/godpkg](https://github.com/jakoblorz/godpkg) - simple and fast, file based and GOPATH independent golang package manager
@@ -2955,7 +2956,7 @@
 - [Yawning/onionwrap](https://github.com/Yawning/onionwrap) - Delicious Onion Service Wraps.
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [Binject/go-donut](https://github.com/Binject/go-donut) - Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut
-- [0xWizzzz/go-malware](https://github.com/0xWizzzz/go-malware) - Golang Virus Examples
+- [omaidf/go-malware](https://github.com/omaidf/go-malware) - Golang Virus Examples
 - [bonedaddy/awesome-crypto-trackers](https://github.com/bonedaddy/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards.
 - [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown
 - [geohot/qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
@@ -3478,7 +3479,6 @@
 - [jameshilliard/linux-grsec](https://github.com/jameshilliard/linux-grsec) - unofficial grsecurity gpl release
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [gobuffalo/packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
-- [fragglet/ipxbox](https://github.com/fragglet/ipxbox) - Standalone DOSbox IPX-over-UDP server
 - [mattias-ohlsson/i2p-desktop](https://github.com/mattias-ohlsson/i2p-desktop) - i2p-desktop
 - [EinMByte/salti](https://github.com/EinMByte/salti) - ∫alti is a Firefox extension for I2P.
 - [khyperia/surface-nets](https://github.com/khyperia/surface-nets) - 
@@ -5213,14 +5213,6 @@
 - [parMaster/audiofeed](https://github.com/parMaster/audiofeed) - Host a podcast XML feed from a folder with .mp3 (m4a|m4b) files. Add it to your favourite podcast app and listen to downloaded audiobooks
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
-
-## zsh 
-
-- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
-- [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 
 
 ## License
