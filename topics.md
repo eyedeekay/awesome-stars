@@ -43,6 +43,7 @@
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
@@ -687,6 +688,19 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [i2p/i2psam](https://github.com/i2p/i2psam) - C++ SAMv3 library
+
+## crawler 
+
+- [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
+- [aquilax/opendirindexer](https://github.com/aquilax/opendirindexer) - Open directory indexer
+- [PuerkitoBio/gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
+- [Nhoya/gOSINT](https://github.com/Nhoya/gOSINT) - OSINT Swiss Army Knife
+- [skydome20/crawler_CIA_CREST](https://github.com/skydome20/crawler_CIA_CREST) - R-crawler for CIA website (CREST)
+- [wspl/creeper](https://github.com/wspl/creeper) - :paw_prints: Creeper - The Next Generation Crawler Framework (Go)
+- [infinilabs/crawler](https://github.com/infinilabs/crawler) - 🕷️ An easy-to-use spider written in Golang. (previous named GOPA.)
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- [hu17889/go_spider](https://github.com/hu17889/go_spider) - [爬虫框架 (golang)] An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl compone
+- [glouw/andvaranaut](https://github.com/glouw/andvaranaut) - A dungeon crawler
 
 ## cryptocurrency 
 
@@ -2965,7 +2979,6 @@
 - [ShaneSaww/sshchat](https://github.com/ShaneSaww/sshchat) - Custom made chat server that runs over SSH.
 - [zlatinb/muwire-pkg](https://github.com/zlatinb/muwire-pkg) - MuWire Packaging Project
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
-- [PuerkitoBio/gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
 - [goffee/goffee](https://github.com/goffee/goffee) - Global uptime monitoring via Tor
 - [staaldraad/ssh-git-go](https://github.com/staaldraad/ssh-git-go) - Simple SSH server that serves anonymous git repositories (read-only)
 - [meling/urs](https://github.com/meling/urs) - Unique Ring Signatures to sign messages anonymously
@@ -3848,7 +3861,6 @@
 - [ungerik/go-rss](https://github.com/ungerik/go-rss) - Simple RSS parser for Go
 - [corbinlc/gnuroot](https://github.com/corbinlc/gnuroot) - 
 - [githubnemo/GoSpider](https://github.com/githubnemo/GoSpider) - Web Spider written in Go
-- [infinilabs/crawler](https://github.com/infinilabs/crawler) - 🕷️ An easy-to-use spider written in Golang. (previous named GOPA.)
 - [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
 - [major0/shlib](https://github.com/major0/shlib) - A highly portable utility library system for the POSIX Shell language.
 - [creationix/git-browser](https://github.com/creationix/git-browser) - Browse Git Repos offline.
@@ -4088,7 +4100,6 @@
 - [openelections/openelections-data-oh](https://github.com/openelections/openelections-data-oh) - Pre-processed election results from Ohio
 - [andyburke/UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity.
 - [glouw/littlewolf](https://github.com/glouw/littlewolf) - A tiny software graphics and game engine
-- [glouw/andvaranaut](https://github.com/glouw/andvaranaut) - A dungeon crawler
 - [cleverca22/toxvpn](https://github.com/cleverca22/toxvpn) - A client / server for a Tox-based VPN. Run the server on one computer, copy the public key, and run the client (with that key) on another computer, and it should Just Work™.
 - [rockchip-linux/kernel](https://github.com/rockchip-linux/kernel) - BSP kernel source
 - [zoff99/ToxPhone](https://github.com/zoff99/ToxPhone) - The Worlds First Hardware ToxPhone with Video
