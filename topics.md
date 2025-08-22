@@ -968,7 +968,7 @@
 
 ## embedded 
 
-- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
+- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more
 - [quasilyte/go-jdk](https://github.com/quasilyte/go-jdk) - Run JVM-based code in Go efficiently
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
@@ -1150,7 +1150,6 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [agentofuser/git-remote-tor](https://github.com/agentofuser/git-remote-tor) - Seamless .onion and tor-ified git remotes
 - [nulab/go-git-http-xfer](https://github.com/nulab/go-git-http-xfer) - Implements Git HTTP Transport.
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [gruntwork-io/fetch](https://github.com/gruntwork-io/fetch) - Download files, folders, and release assets from a specific git commit, branch, or tag of public and private GitHub repos.
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [isacikgoz/gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
@@ -1974,7 +1973,7 @@
 - [lavabit/magma](https://github.com/lavabit/magma) - The magma server daemon, is an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN,. Additional support for DMTP and DMAP is currently in active development.
 - [imgk/shadow](https://github.com/imgk/shadow) - A rule-based transparent proxy for Windows, Linux, macOS
 - [WinPooh32/peerstohttp](https://github.com/WinPooh32/peerstohttp) - Simple torrent proxy to http stream controlled over REST-like api
-- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
+- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more
 - [henvic/httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
 - [anacrolix/confluence](https://github.com/anacrolix/confluence) - Torrent client as a HTTP service
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
@@ -1988,7 +1987,7 @@
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
-- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
+- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [sergeyfrolov/httpsproxy](https://github.com/sergeyfrolov/httpsproxy) - HTTPS-based Pluggable Transport for Tor
@@ -2075,7 +2074,7 @@
 - [wasmerio/wasmer-java](https://github.com/wasmerio/wasmer-java) - ☕ WebAssembly runtime for Java
 - [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
 - [dorkbox/Notify](https://github.com/dorkbox/Notify) - Linux, MacOS, or Windows (notification/growl/toast) popups for the desktop and applications for Java 8+
-- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
+- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more
 - [jupnp/jupnp](https://github.com/jupnp/jupnp) - UPnP/DLNA library for Java
 - [chaoyangnz/gava](https://github.com/chaoyangnz/gava) - 🚀 A sandboxed VM any Java developer can afford
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
