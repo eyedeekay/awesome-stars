@@ -1868,7 +1868,7 @@
 - [welterde/TeleHash](https://github.com/welterde/TeleHash) - A Kademlia-based DHT and JSON protocol for application meshing and eventing
 - [ssyyff71/i2p-s-kad](https://github.com/ssyyff71/i2p-s-kad) - 
 - [retsamknaps/Aktie](https://github.com/retsamknaps/Aktie) - Anonymous file sharing.  Distributed forums.
-- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
+- [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more
 - [jupnp/jupnp](https://github.com/jupnp/jupnp) - UPnP/DLNA library for Java
 - [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) - A modern Android IRC client. #revolutionirc on Libera.chat
 - [GENERALBYTESCOM/batm_public](https://github.com/GENERALBYTESCOM/batm_public) - BATM Public Repository
