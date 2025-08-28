@@ -98,6 +98,7 @@
 
 ## Assembly 
 
+- [adriancable/8086tiny](https://github.com/adriancable/8086tiny) - Official repository for 8086tiny: a tiny PC emulator/virtual machine
 - [mytbk/r2dumpbin](https://github.com/mytbk/r2dumpbin) - A radare2 Python script to dump a raw IA32 binary to an NASM source file
 - [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
@@ -406,7 +407,7 @@
 - [wheybags/freeablo](https://github.com/wheybags/freeablo) - [ARCHIVED] Modern reimplementation of the Diablo 1 game engine
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
-- [nonlin-lin-chaos-order-etc-etal/libi2pdhtcpp](https://github.com/nonlin-lin-chaos-order-etc-etal/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
+- [nonlin-lin-chaos-order-et-more/libi2pdhtcpp](https://github.com/nonlin-lin-chaos-order-et-more/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - Onion Monero Blockchain Explorer
@@ -417,7 +418,7 @@
 - [borned-mind/SAMSimplyLib](https://github.com/borned-mind/SAMSimplyLib) - 
 - [majestrate/i2pd](https://github.com/majestrate/i2pd) - i2p router for Linux written on C++
 - [majestrate/i2pcpp](https://github.com/majestrate/i2pcpp) - i2p c++ implementation
-- [nonlin-lin-chaos-order-etc-etal/i2pchat](https://github.com/nonlin-lin-chaos-order-etc-etal/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [nonlin-lin-chaos-order-et-more/i2pchat](https://github.com/nonlin-lin-chaos-order-et-more/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [monero-project/kovri](https://github.com/monero-project/kovri) - The Kovri I2P Router Project
 - [PurpleI2P/i2pd-tools](https://github.com/PurpleI2P/i2pd-tools) - Some useful tools for I2P
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -510,6 +511,8 @@
 
 ## Go 
 
+- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
+- [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [elastic/go-seccomp-bpf](https://github.com/elastic/go-seccomp-bpf) - Go library for installing a seccomp BPF system call filter.
@@ -758,7 +761,7 @@
 - [talesluna-zz/floyd-player-golang](https://github.com/talesluna-zz/floyd-player-golang) - Learning GO - Simple M3U List player with mplayer
 - [ssetin/PenguinCast](https://github.com/ssetin/PenguinCast) - Icecast compatible streaming audio server
 - [patdhlk/go-player](https://github.com/patdhlk/go-player) - a web-based HTML5 music player created created with GO, HTML5, CSS and JS
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
 - [boomlinde/ipfs-gopher](https://github.com/boomlinde/ipfs-gopher) - Gopher over IPFS!
 - [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail) - InterPlanetary Mail - Decentralized Email alternative using IPFS
 - [DecenterApps/Cryptage](https://github.com/DecenterApps/Cryptage) - A completely decentralized strategic game based on Ethereum & IPFS
@@ -2525,7 +2528,7 @@
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [VideoForensics/motionHistoryForensics](https://github.com/VideoForensics/motionHistoryForensics) - 
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [lgandx/Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
 - [Oros42/IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
 - [ptresearch/IntelTXE-PoC](https://github.com/ptresearch/IntelTXE-PoC) - Intel Management Engine JTAG Proof of Concept
