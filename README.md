@@ -1779,7 +1779,6 @@
 - [stooged/PS4-Server](https://github.com/stooged/PS4-Server) - 
 - [Monero-Monitor/monero-monitor](https://github.com/Monero-Monitor/monero-monitor) - A Chrome extension for monitoring the Monero network
 - [xiaoyanguoke/CIAHackingTools](https://github.com/xiaoyanguoke/CIAHackingTools) - WikiLeaks Vault 7 CIA Hacking Tools
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [maskmagazine/lrad.nyc](https://github.com/maskmagazine/lrad.nyc) - an area-of-affect website
 - [davist11/jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav) - Smooth scrolling and smart navigation when user scrolls on one-page sites.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
@@ -2789,6 +2788,7 @@
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [str4d/bls](https://github.com/str4d/bls) - Rust crate for BLS signatures
 - [mikalv/bls](https://github.com/mikalv/bls) - Rust crate for BLS signatures
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [Smithay/wayland-rs](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
 - [mackwic/systemd-linter](https://github.com/mackwic/systemd-linter) - Lint Systemd unit files
