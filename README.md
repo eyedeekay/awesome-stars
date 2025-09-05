@@ -2155,7 +2155,7 @@
 - [staltz/easy-ssb-pub](https://github.com/staltz/easy-ssb-pub) - An easy-to-host server that runs an SSB "Pub"
 - [jlmart88/vuvuzela-web-client](https://github.com/jlmart88/vuvuzela-web-client) - An Ember.js web client for Vuvuzela messaging system
 - [calzoneman/sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [ssbc/ssb-db](https://github.com/ssbc/ssb-db) - A database of unforgeable append-only feeds, optimized for efficient replication for peer to peer protocols
 - [firstlookmedia/whistleblower](https://github.com/firstlookmedia/whistleblower) - Headless browser testing utils via Jest and Puppeteer
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
