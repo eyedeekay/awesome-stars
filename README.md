@@ -602,7 +602,7 @@
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) - :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make
-- [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
+- [checkmake/checkmake](https://github.com/checkmake/checkmake) - Linter/analyzer for Makefiles
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [TwiN/go-color](https://github.com/TwiN/go-color) - A lightweight, simple and cross-platform package to colorize text in terminals
@@ -2014,7 +2014,7 @@
 - [oelin/fingerprint](https://github.com/oelin/fingerprint) - Create canvas fingerprints for your browser ☝.
 - [vtwireless/webtop](https://github.com/vtwireless/webtop) - Javascript, HTML5, CSS to make a simple desktop in a browser page
 - [mikalv/donate.i2p.io](https://github.com/mikalv/donate.i2p.io) - 
-- [subins2000/p2pt](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server. Use WebTorrent trackers for any kind of WebRTC app ! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
+- [subins2000/p2pt](https://github.com/subins2000/p2pt) - Use free public WebTorrent trackers as signalling servers for WebRTC apps! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
 - [idena-network/idena-desktop](https://github.com/idena-network/idena-desktop) - Idena Desktop client for Windows, Mac, and Linux
 - [AnnalisaDB/family-tree](https://github.com/AnnalisaDB/family-tree) - The "family-tree" project is a web page which allows user to create, manage, upload and download family trees in JSON, SVG or PNG formats.
 - [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
@@ -2571,7 +2571,7 @@
 - [HelloZeroNet/ZeroNet-kivy](https://github.com/HelloZeroNet/ZeroNet-kivy) - Android client for ZeroNet
 - [meejah/txtorcon](https://github.com/meejah/txtorcon) - Twisted-based asynchronous Tor control protocol implementation. Includes unit-tests, examples, state-tracking code and configuration abstraction.
 - [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
