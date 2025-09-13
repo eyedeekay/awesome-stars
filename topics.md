@@ -1114,6 +1114,7 @@
 
 ## game-engine 
 
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.4
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [TalesMUD/talesmud](https://github.com/TalesMUD/talesmud) - MUD development framework/platform written in Golang
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
@@ -1466,11 +1467,13 @@
 
 ## godot 
 
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.4
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## golang 
 
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.4
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -3074,7 +3077,7 @@
 - [tevador/equix](https://github.com/tevador/equix) - A CPU-friendly client puzzle with instant verification
 - [tevador/hashx](https://github.com/tevador/hashx) - A family of pseudorandomly generated hash functions for proof-of-work and client puzzles
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
-- [bigbluebutton/docker](https://github.com/bigbluebutton/docker) - Docker files for BigBlueButton
+- [bigbluebutton/docker](https://github.com/bigbluebutton/docker) - Docker files for BigBlueButton (community maintained)
 - [rainbyte/webview](https://github.com/rainbyte/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [freifunk-berlin/firmware](https://github.com/freifunk-berlin/firmware) - DEPRECATED: Build system for Berlin firmware. Please user the pinned falter-repos instead
 - [gnos-project/gnos-socksjail](https://github.com/gnos-project/gnos-socksjail) - :performing_arts: SOCKSify without leaks
@@ -4008,7 +4011,7 @@
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
 - [zenhotels/astranet](https://github.com/zenhotels/astranet) - A Go (golang) library for managing highly concurrent independent network streams.
-- [nonlin-lin-chaos-order-et-more/libi2pdhtcpp](https://github.com/nonlin-lin-chaos-order-et-more/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
+- [SOMEGOSPODINPJ/libi2pdhtcpp](https://github.com/SOMEGOSPODINPJ/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
 - [ptresearch/mmdetect](https://github.com/ptresearch/mmdetect) - Intel ME Manufacturing Mode Detection Tools
 - [Netflix/signal-wrapper](https://github.com/Netflix/signal-wrapper) - 
 - [chertov/camopenwrt_docker](https://github.com/chertov/camopenwrt_docker) - 
@@ -4454,7 +4457,7 @@
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [str4d/ire](https://github.com/str4d/ire) - I2P router implementation in Rust
-- [nonlin-lin-chaos-order-et-more/i2pchat](https://github.com/nonlin-lin-chaos-order-et-more/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [SOMEGOSPODINPJ/i2pchat](https://github.com/SOMEGOSPODINPJ/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communicati
@@ -4824,7 +4827,7 @@
 - [1N3/PRISM-AP](https://github.com/1N3/PRISM-AP) - An automated Wireless RogueAP MITM attack framework.
 - [Kicksecure/tb-starter](https://github.com/Kicksecure/tb-starter) - Tor Browser Starter. Open Link Confirmation; Qubes integration; Command line --new-tab, --new-window; start menu entry; This package is produced independently of, and carries no guarantee from, The To
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
-- [nonlin-lin-chaos-order-et-more/i2pchat](https://github.com/nonlin-lin-chaos-order-et-more/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [SOMEGOSPODINPJ/i2pchat](https://github.com/SOMEGOSPODINPJ/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [kevinburke/nacl](https://github.com/kevinburke/nacl) - Pure Go implementation of the NaCL set of API's
