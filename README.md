@@ -407,7 +407,7 @@
 - [wheybags/freeablo](https://github.com/wheybags/freeablo) - [ARCHIVED] Modern reimplementation of the Diablo 1 game engine
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
-- [nonlin-lin-chaos-order-et-more/libi2pdhtcpp](https://github.com/nonlin-lin-chaos-order-et-more/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
+- [SOMEGOSPODINPJ/libi2pdhtcpp](https://github.com/SOMEGOSPODINPJ/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - Onion Monero Blockchain Explorer
@@ -418,7 +418,7 @@
 - [borned-mind/SAMSimplyLib](https://github.com/borned-mind/SAMSimplyLib) - 
 - [majestrate/i2pd](https://github.com/majestrate/i2pd) - i2p router for Linux written on C++
 - [majestrate/i2pcpp](https://github.com/majestrate/i2pcpp) - i2p c++ implementation
-- [nonlin-lin-chaos-order-et-more/i2pchat](https://github.com/nonlin-lin-chaos-order-et-more/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [SOMEGOSPODINPJ/i2pchat](https://github.com/SOMEGOSPODINPJ/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [monero-project/kovri](https://github.com/monero-project/kovri) - The Kovri I2P Router Project
 - [PurpleI2P/i2pd-tools](https://github.com/PurpleI2P/i2pd-tools) - Some useful tools for I2P
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -511,6 +511,7 @@
 
 ## Go 
 
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.4
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1772,7 +1773,6 @@
 - [propublica/facebook-political-ads](https://github.com/propublica/facebook-political-ads) - Monitoring Facebook Political Ads
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [Danladi/HttpPwnly](https://github.com/Danladi/HttpPwnly) - "Repeater" style XSS post-exploitation tool for mass browser control. Primarily a PoC to show why HttpOnly flag isn't a complete protection against session hijacking via XSS
-- [AOSC-Dev/aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 - [prisonstrike/prisonstrike.github.io](https://github.com/prisonstrike/prisonstrike.github.io) - 
 - [davidapple/davemail](https://github.com/davidapple/davemail) - Decentralised, encrypted, anonymous, offline messaging platform for git.
 - [SkyLined/LocalNetworkScanner](https://github.com/SkyLined/LocalNetworkScanner) - PoC Javascript that scans your local network when you open a webpage
@@ -2669,6 +2669,7 @@
 ## Roff 
 
 - [mist64/cbmsrc](https://github.com/mist64/cbmsrc) - Original source code of various Commodore computers and peripherals.
+- [AOSC-Dev/aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 
 ## Ruby 
 
@@ -2851,7 +2852,7 @@
 - [alecmuffett/dohot](https://github.com/alecmuffett/dohot) - DoHoT: making practical use of DNS over HTTPS over Tor
 - [zlatinb/muwire-pkg](https://github.com/zlatinb/muwire-pkg) - MuWire Packaging Project
 - [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
-- [bigbluebutton/docker](https://github.com/bigbluebutton/docker) - Docker files for BigBlueButton
+- [bigbluebutton/docker](https://github.com/bigbluebutton/docker) - Docker files for BigBlueButton (community maintained)
 - [freifunk-berlin/firmware](https://github.com/freifunk-berlin/firmware) - DEPRECATED: Build system for Berlin firmware. Please user the pinned falter-repos instead
 - [gnos-project/gnos-socksjail](https://github.com/gnos-project/gnos-socksjail) - :performing_arts: SOCKSify without leaks
 - [elsorino/Icecat-mac](https://github.com/elsorino/Icecat-mac) - Scripts and binaries for Icecat on macOS
