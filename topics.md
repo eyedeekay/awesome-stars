@@ -671,6 +671,7 @@
 
 ## computer-vision 
 
+- [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Open source image background removal model
 - [VideoForensics/motionHistoryForensics](https://github.com/VideoForensics/motionHistoryForensics) - 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
@@ -1070,7 +1071,7 @@
 ## game 
 
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [arianne/stendhal](https://github.com/arianne/stendhal) - Stendhal is a fun friendly and free multiplayer online adventure game with an old school feel.
@@ -1105,7 +1106,7 @@
 
 ## game-development 
 
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [TalesMUD/talesmud](https://github.com/TalesMUD/talesmud) - MUD development framework/platform written in Golang
 - [steelx/go-rpg-cgm](https://github.com/steelx/go-rpg-cgm) - GoLang 2D RPG Game - hobby project
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
@@ -1115,7 +1116,7 @@
 ## game-engine 
 
 - [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.4
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [TalesMUD/talesmud](https://github.com/TalesMUD/talesmud) - MUD development framework/platform written in Golang
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [ikemen-engine/Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
@@ -1130,7 +1131,7 @@
 
 ## gamedev 
 
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [ikemen-engine/Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -1139,7 +1140,7 @@
 
 ## games 
 
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [ericoporto/fgmk](https://github.com/ericoporto/fgmk) - Retro RPG Game Maker
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [dreamer/boxtron](https://github.com/dreamer/boxtron) - Steam Play compatibility tool to run DOS games using native Linux DOSBox
