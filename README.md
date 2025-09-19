@@ -232,7 +232,7 @@
 - [orignal/shxd-i2p](https://github.com/orignal/shxd-i2p) - Clone of the hotline server SynHXD patched for I2P
 - [troglobit/merecat](https://github.com/troglobit/merecat) - Small and made-easy HTTP/HTTPS server based on Jef Poskanzer's thttpd
 - [yarrick/pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets
-- [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux. Cookies included
+- [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
 - [troglobit/uredir](https://github.com/troglobit/uredir) - A UDP port redirector for UNIX
 - [Solo5/solo5](https://github.com/Solo5/solo5) - A sandboxed execution environment for unikernels
 - [devicenull/supermicro_ipmi_firmware](https://github.com/devicenull/supermicro_ipmi_firmware) - SuperMicro IPMI Firmware source code
@@ -511,7 +511,7 @@
 
 ## Go 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.4
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -982,7 +982,6 @@
 - [celrenheit/sandflake](https://github.com/celrenheit/sandflake) - Decentralized, sequential, lexicographically sortable unique id
 - [txthinking/nami](https://github.com/txthinking/nami) - A clean and tidy decentralized package manager.
 - [xiam/shooter-server](https://github.com/xiam/shooter-server) - shooter.io is a network based multiplayer space shooter game.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [anaseto/harmonist](https://github.com/anaseto/harmonist) - Harmonist: Dayoriah Clan Infiltration is a stealth roguelike game.
 - [anaseto/boohu](https://github.com/anaseto/boohu) - Break Out Of Hareka's Underground, a roguelike game.
 - [RookieGameDevs/surviveler](https://github.com/RookieGameDevs/surviveler) - RPG survival game in which ordinary developers struggle for they lives in most idiotic ways.
@@ -1083,7 +1082,7 @@
 - [rakoo/goax](https://github.com/rakoo/goax) - A pure-go implementation of the Axolotl Ratchet, extracted from pond
 - [isislovecruft/xocolatl](https://github.com/isislovecruft/xocolatl) - ♥ ♥ ♥ Trevor's & Moxie's Axolotl Ratchet + AGL's xmpp-client ♥ ♥ ♥
 - [diamondburned/gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [deepsecurity-pe/GoGhost](https://github.com/deepsecurity-pe/GoGhost) - High Performance, lightweight, portable Open Source tool for mass SMBGhost Scan
 - [google/safehtml](https://github.com/google/safehtml) - Safe HTML for Go
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang)
@@ -2475,7 +2474,7 @@
 - [mozilla-services/sign-xpi](https://github.com/mozilla-services/sign-xpi) - INACTIVE - An AWS Lambda to sign an XPI
 - [nmaier/xpisign.py](https://github.com/nmaier/xpisign.py) - XP-Install (xpi) code signing.
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
-- [machine1337/zipcrack](https://github.com/machine1337/zipcrack) - An Advanced Tool to Crack Any Password Protected ZIP File With different Techniques. A very Beginner Friendly Script For Newbies.
+- [root4031/zipcrack](https://github.com/root4031/zipcrack) - An Advanced Tool to Crack Any Password Protected ZIP File With different Techniques. A very Beginner Friendly Script For Newbies.
 - [mozilla/addons-server](https://github.com/mozilla/addons-server) - 🕶 addons.mozilla.org Django app and API 🎉
 - [csilvers/i18nize_templates](https://github.com/csilvers/i18nize_templates) - A tool to automatically add i18n markup to jinja2 and handlebars templates.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -2984,6 +2983,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
