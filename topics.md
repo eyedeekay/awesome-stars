@@ -254,6 +254,7 @@
 
 ## android 
 
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -535,7 +536,7 @@
 - [miniupnp/miniupnp](https://github.com/miniupnp/miniupnp) - UPnP IGD implementation
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux. Cookies included
+- [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
 - [avivbeeri/abc](https://github.com/avivbeeri/abc) - Single header libraries
 - [Interrupt/systemshock](https://github.com/Interrupt/systemshock) - Shockolate - A minimalist and cross platform System Shock source port.
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
@@ -657,7 +658,7 @@
 
 - [go2hx/go2hx](https://github.com/go2hx/go2hx) - Import Go libraries in your Haxe projects Go -&gt; Haxe source-to-source compiler
 - [udhos/basgo](https://github.com/udhos/basgo) - basgo compiles BASIC-lang to Golang. Then 'go build' can translate code to native executable binary.
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [owenthereal/godzilla](https://github.com/owenthereal/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
@@ -1115,7 +1116,7 @@
 
 ## game-engine 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.4
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [TalesMUD/talesmud](https://github.com/TalesMUD/talesmud) - MUD development framework/platform written in Golang
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
@@ -1334,7 +1335,7 @@
 - [kokizzu/goproc](https://github.com/kokizzu/goproc) - simple process manager helper library
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang)
 - [anacrolix/dms](https://github.com/anacrolix/dms) - A UPnP DLNA Digital Media Server that includes basic video transcoding. Tested on a Panasonic Viera television, several Android UPnP apps, and Chromecast.
 - [pion/rtp](https://github.com/pion/rtp) - A Go implementation of RTP
@@ -1468,13 +1469,13 @@
 
 ## godot 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.4
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## golang 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.4
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -1636,7 +1637,7 @@
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [zxh0/jvm.go](https://github.com/zxh0/jvm.go) - A toy JVM written in Go
 - [diamondburned/gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang)
 - [criyle/go-sandbox](https://github.com/criyle/go-sandbox) - Sandbox implemented in GO with container / ptrace / seccomp
 - [status-im/doubleratchet](https://github.com/status-im/doubleratchet) - The Double Ratchet Algorithm implementation in Go
@@ -1834,7 +1835,7 @@
 - [3xploitGuy/lazyaircrack](https://github.com/3xploitGuy/lazyaircrack) - Automated tool for WiFi hacking.
 - [C-Sto/BananaPhone](https://github.com/C-Sto/BananaPhone) - It's a go variant of Hells gate! (directly calling windows kernel functions, but from Go!)
 - [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
-- [machine1337/zipcrack](https://github.com/machine1337/zipcrack) - An Advanced Tool to Crack Any Password Protected ZIP File With different Techniques. A very Beginner Friendly Script For Newbies.
+- [root4031/zipcrack](https://github.com/root4031/zipcrack) - An Advanced Tool to Crack Any Password Protected ZIP File With different Techniques. A very Beginner Friendly Script For Newbies.
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -2027,6 +2028,7 @@
 
 ## ios 
 
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -2335,7 +2337,7 @@
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [mesalock-linux/mesalock-distro](https://github.com/mesalock-linux/mesalock-distro) - MesaLock Linux: a memory-safe Linux distribution.
-- [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux. Cookies included
+- [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
 - [firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
@@ -4761,7 +4763,7 @@
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [stevenaldinger/decker](https://github.com/stevenaldinger/decker) - Declarative penetration testing orchestration framework
 - [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
-- [machine1337/zipcrack](https://github.com/machine1337/zipcrack) - An Advanced Tool to Crack Any Password Protected ZIP File With different Techniques. A very Beginner Friendly Script For Newbies.
+- [root4031/zipcrack](https://github.com/root4031/zipcrack) - An Advanced Tool to Crack Any Password Protected ZIP File With different Techniques. A very Beginner Friendly Script For Newbies.
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
 - [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
 - [cryptag/cryptag](https://github.com/cryptag/cryptag) - Encrypted, taggable, searchable cloud storage. Unveiled at DEF CON 23
