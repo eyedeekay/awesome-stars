@@ -407,7 +407,7 @@
 - [wheybags/freeablo](https://github.com/wheybags/freeablo) - [ARCHIVED] Modern reimplementation of the Diablo 1 game engine
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
-- [SOMEGOSPODINPJ/libi2pdhtcpp](https://github.com/SOMEGOSPODINPJ/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
+- [EvgeniyGrigoryevitchPhilippov/libi2pdhtcpp](https://github.com/EvgeniyGrigoryevitchPhilippov/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - Onion Monero Blockchain Explorer
@@ -418,7 +418,7 @@
 - [borned-mind/SAMSimplyLib](https://github.com/borned-mind/SAMSimplyLib) - 
 - [majestrate/i2pd](https://github.com/majestrate/i2pd) - i2p router for Linux written on C++
 - [majestrate/i2pcpp](https://github.com/majestrate/i2pcpp) - i2p c++ implementation
-- [SOMEGOSPODINPJ/i2pchat](https://github.com/SOMEGOSPODINPJ/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [EvgeniyGrigoryevitchPhilippov/i2pchat](https://github.com/EvgeniyGrigoryevitchPhilippov/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [monero-project/kovri](https://github.com/monero-project/kovri) - The Kovri I2P Router Project
 - [PurpleI2P/i2pd-tools](https://github.com/PurpleI2P/i2pd-tools) - Some useful tools for I2P
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -657,7 +657,6 @@
 - [DanielKrawisz/bmd](https://github.com/DanielKrawisz/bmd) - bmd is a Bitmessage full node written in go.
 - [ekoby/mqziti](https://github.com/ekoby/mqziti) - 
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
-- [unikiosk/go-firefox](https://github.com/unikiosk/go-firefox) - go-firefox bindings
 - [bfix/gnunet-go](https://github.com/bfix/gnunet-go) - GNUnet in Go
 - [flynn/noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework
 - [balacode/one-file-pdf](https://github.com/balacode/one-file-pdf) - A minimalist Go PDF writer in 1982 lines. Draws text, images and shapes. Helps understand the PDF format. Used in production for reports.
