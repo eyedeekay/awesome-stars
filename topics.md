@@ -36,6 +36,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
 - [compiler](#compiler)
@@ -167,6 +168,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -231,6 +233,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -645,6 +648,15 @@
 - [dbohdan/initool](https://github.com/dbohdan/initool) - Manipulate INI files from the command line
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [mempodippy/vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
+
+## cloud 
+
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [i2pfs/i2pfsd](https://github.com/i2pfs/i2pfsd) - I2P-based high available shared filesystem server (doesn't work, yet)
+- [Lunik/tcloud](https://github.com/Lunik/tcloud) - File sharing and torrent downloading
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## cms 
 
@@ -2766,7 +2778,6 @@
 - [kindelia/Kindelia](https://github.com/kindelia/Kindelia) - An efficient, secure cryptocomputer
 - [ekoby/mqziti](https://github.com/ekoby/mqziti) - 
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
-- [unikiosk/go-firefox](https://github.com/unikiosk/go-firefox) - go-firefox bindings
 - [jewang/gender-neutral-text-converter](https://github.com/jewang/gender-neutral-text-converter) - Converts text to be gender neutral.
 - [foolo/windows-jre-laucher](https://github.com/foolo/windows-jre-laucher) - Create a Windows executable for launching a Java application with a bundled JRE
 - [bfix/gnunet-go](https://github.com/bfix/gnunet-go) - GNUnet in Go
@@ -3697,7 +3708,6 @@
 - [multiformats/go-multiaddr-net](https://github.com/multiformats/go-multiaddr-net) - DEPRECATED: Please use the "net" subpackage in https://github.com/multiformats/go-multiaddr.
 - [edfan/dreddit](https://github.com/edfan/dreddit) - 
 - [RTradeLtd/eep](https://github.com/RTradeLtd/eep) - Tools used by RTrade for managing our I2P Temporal Setup
-- [i2pfs/i2pfsd](https://github.com/i2pfs/i2pfsd) - I2P-based high available shared filesystem server (doesn't work, yet)
 - [i2pfs/mount.i2pfs](https://github.com/i2pfs/mount.i2pfs) - I2P-based high available shared filesystem client (doesn't work, yet)
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [ipfs/team-mgmt](https://github.com/ipfs/team-mgmt) - IPFS Team Planning, Management & Coordination threads
@@ -3742,7 +3752,6 @@
 - [allwinner-zh/linux-3.4-sunxi](https://github.com/allwinner-zh/linux-3.4-sunxi) - kernel 3.4 for sunxi platforms
 - [savoirfairelinux/opendht](https://github.com/savoirfairelinux/opendht) - OpenDHT: a C++17 Distributed Hash Table implementation
 - [aarond10/https_dns_proxy](https://github.com/aarond10/https_dns_proxy) - A lightweight DNS-over-HTTPS proxy.
-- [Lunik/tcloud](https://github.com/Lunik/tcloud) - File sharing and torrent downloading
 - [earthquake/chw00t](https://github.com/earthquake/chw00t) - chw00t - Unices chroot breaking tool
 - [jech/dht](https://github.com/jech/dht) - BitTorrent DHT library
 - [miguelfreitas/twister-core](https://github.com/miguelfreitas/twister-core) - twister core / daemon
@@ -3867,7 +3876,6 @@
 - [jpillora/sshd-lite](https://github.com/jpillora/sshd-lite) - A feature-light sshd(8) for Windows, Mac, and Linux written in Go
 - [TheCreeper/minissh](https://github.com/TheCreeper/minissh) - A small and portable SSH server written in Go.
 - [Matir/sshdog](https://github.com/Matir/sshdog) - Small portable SSH server in Go.
-- [mna/agora](https://github.com/mna/agora) - a dynamically typed, garbage collected, embeddable programming language built with Go
 - [mm304321141/zzz_lib](https://github.com/mm304321141/zzz_lib) - zzz's c++ lib
 - [CheckPointSW/InviZzzible](https://github.com/CheckPointSW/InviZzzible) - InviZzzible is a tool for assessment of your virtual environments in an easy and reliable way. It contains the most recent and up to date detection and evasion techniques as well as fixes for them.
 - [defaultnamehere/zzzzz](https://github.com/defaultnamehere/zzzzz) - Roleplay as the NSA by making creepy graphs of your friends
@@ -4014,7 +4022,7 @@
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
 - [zenhotels/astranet](https://github.com/zenhotels/astranet) - A Go (golang) library for managing highly concurrent independent network streams.
-- [SOMEGOSPODINPJ/libi2pdhtcpp](https://github.com/SOMEGOSPODINPJ/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
+- [egphilippov1/libi2pdhtcpp](https://github.com/egphilippov1/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
 - [ptresearch/mmdetect](https://github.com/ptresearch/mmdetect) - Intel ME Manufacturing Mode Detection Tools
 - [Netflix/signal-wrapper](https://github.com/Netflix/signal-wrapper) - 
 - [chertov/camopenwrt_docker](https://github.com/chertov/camopenwrt_docker) - 
@@ -4460,7 +4468,7 @@
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [str4d/ire](https://github.com/str4d/ire) - I2P router implementation in Rust
-- [SOMEGOSPODINPJ/i2pchat](https://github.com/SOMEGOSPODINPJ/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [egphilippov1/i2pchat](https://github.com/egphilippov1/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communicati
@@ -4478,6 +4486,17 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+## programming-language 
+
+- [mattn/anko](https://github.com/mattn/anko) - Scriptable interpreter written in golang
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+- [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
+- [madlambda/nash](https://github.com/madlambda/nash) - Nash stands for Nash shell.
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
+- [golang/go](https://github.com/golang/go) - The Go programming language
+- [mna/agora](https://github.com/mna/agora) - a dynamically typed, garbage collected, embeddable programming language built with Go
+- [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go
 
 ## project-management 
 
@@ -4830,7 +4849,7 @@
 - [1N3/PRISM-AP](https://github.com/1N3/PRISM-AP) - An automated Wireless RogueAP MITM attack framework.
 - [Kicksecure/tb-starter](https://github.com/Kicksecure/tb-starter) - Tor Browser Starter. Open Link Confirmation; Qubes integration; Command line --new-tab, --new-window; start menu entry; This package is produced independently of, and carries no guarantee from, The To
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
-- [SOMEGOSPODINPJ/i2pchat](https://github.com/SOMEGOSPODINPJ/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [egphilippov1/i2pchat](https://github.com/egphilippov1/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [kevinburke/nacl](https://github.com/kevinburke/nacl) - Pure Go implementation of the NaCL set of API's
@@ -5251,6 +5270,14 @@
 - [parMaster/audiofeed](https://github.com/parMaster/audiofeed) - Host a podcast XML feed from a folder with .mp3 (m4a|m4b) files. Add it to your favourite podcast app and listen to downloaded audiobooks
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
+
+## zsh 
+
+- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+- [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 
 
 ## License
