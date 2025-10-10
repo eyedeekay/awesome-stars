@@ -538,7 +538,7 @@
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
 - [mwarning/KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
 - [miniupnp/miniupnp](https://github.com/miniupnp/miniupnp) - UPnP IGD implementation
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [finit-project/finit](https://github.com/finit-project/finit) - Fast init for Linux. Cookies included
 - [avivbeeri/abc](https://github.com/avivbeeri/abc) - Single header libraries
@@ -578,6 +578,7 @@
 
 - [meetkool/FREE-GPT-4](https://github.com/meetkool/FREE-GPT-4) - FREEGPT4 is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI.
 - [promptslab/openai-detector](https://github.com/promptslab/openai-detector) - AI classifier for indicating AI-written text
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 
 ## chatgpt-api 
 
@@ -1441,7 +1442,7 @@
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [cretz/bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [envsh/go-toxcore](https://github.com/envsh/go-toxcore) - The go-toxcore-c raw binding's extended  wrappers for easy use.  WIP partly mintox core in pure golang. Experimental toxcore internals.
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -1524,7 +1525,6 @@
 - [fyne-io/fyne-cross](https://github.com/fyne-io/fyne-cross) - Cross compiler tool for Fyne apps
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server
 - [balacode/one-file-pdf](https://github.com/balacode/one-file-pdf) - A minimalist Go PDF writer in 1982 lines. Draws text, images and shapes. Helps understand the PDF format. Used in production for reports.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [pojntfx/liwasc](https://github.com/pojntfx/liwasc) - List, wake and scan nodes in a network.
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
@@ -1755,7 +1755,7 @@
 - [marco-lancini/goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
-- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
+- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers.
 - [bradleyjkemp/monkey](https://github.com/bradleyjkemp/monkey) - Tampering with unexported fields made easy
 - [RTradeLtd/Lens](https://github.com/RTradeLtd/Lens) - 🔍 Lens is an opt-in search engine and data collection tool to aid content discovery of the distributed web
 - [SaturnsVoid/GoBot2](https://github.com/SaturnsVoid/GoBot2) - Second Version of The GoBot Botnet, But more advanced.
@@ -1777,7 +1777,7 @@
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [mmcloughlin/pearl](https://github.com/mmcloughlin/pearl) - Tor relay implementation in Golang
 - [deranjer/goTorrent](https://github.com/deranjer/goTorrent) - goTorrent is a torrenting server built with Go (Golang) with websocket API that comes with a React web frontend.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [envsh/go-toxcore](https://github.com/envsh/go-toxcore) - The go-toxcore-c raw binding's extended  wrappers for easy use.  WIP partly mintox core in pure golang. Experimental toxcore internals.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -2443,7 +2443,6 @@
 
 ## mastodon 
 
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [bclindner/ivory](https://github.com/bclindner/ivory) - A Mastodon automoderator.
 - [McKael/madon](https://github.com/McKael/madon) - Golang Mastodon API library
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
@@ -2596,9 +2595,9 @@
 - [aerth/rpg](https://github.com/aerth/rpg) - OpenGL cross platform topdown 2d magic action rpg game single player arpg
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [QB64Team/qb64](https://github.com/QB64Team/qb64) - BASIC for the modern era.
-- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
+- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers.
 - [EngoEngine/engo](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
 - [Interrupt/systemshock](https://github.com/Interrupt/systemshock) - Shockolate - A minimalist and cross platform System Shock source port.
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
@@ -2756,7 +2755,6 @@
 - [benbjohnson/css](https://github.com/benbjohnson/css) - W3C-compliant CSS3 parser and scanner
 - [eyedeekay/Onion-in-Container-Browsing-Mode-Firefox](https://github.com/eyedeekay/Onion-in-Container-Browsing-Mode-Firefox) - UNOFFICIAL! NOT ENDORSED BY THE TOR PROJECT! USE TOR BROWSER. WebExtension for browsing .onion sites directly in Firefox using a container tab.
 - [shanman190/go-update-alternatives](https://github.com/shanman190/go-update-alternatives) - 
-- [superseriousbusiness/exif-terminator](https://github.com/superseriousbusiness/exif-terminator) - READ ONLY - Migrated to Codeberg
 - [tjnull/TJ-OSINT-Notebook](https://github.com/tjnull/TJ-OSINT-Notebook) - This OSINT Notebook provides an overview of the tools, techniques, and resources that I use for a variety of situations when it comes to performing reconaissance and OSINT operations.  This Notebook h
 - [chainguard-dev/darkfiles](https://github.com/chainguard-dev/darkfiles) - Darkfiles finds orphaned files in container images and makes them to bad deeds
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) - Fast Application Layer Scanner
@@ -4546,7 +4544,7 @@
 - [nccgroup/redsnarf](https://github.com/nccgroup/redsnarf) - RedSnarf is a pen-testing / red-teaming tool for Windows environments
 - [HelloZeroNet/ZeroNet-kivy](https://github.com/HelloZeroNet/ZeroNet-kivy) - Android client for ZeroNet
 - [meejah/txtorcon](https://github.com/meejah/txtorcon) - Twisted-based asynchronous Tor control protocol implementation. Includes unit-tests, examples, state-tracking code and configuration abstraction.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [pirate/mesh-networking](https://github.com/pirate/mesh-networking) - :globe_with_meridians: LEGO blocks for networking, a Python library to help create and test flexible network topologies across real and simulated physical links.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
@@ -5048,9 +5046,9 @@
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [p-e-w/hegemon](https://github.com/p-e-w/hegemon) - A modular system monitor written in Rust
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
+- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers.
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [simonecorsi/termly.js](https://github.com/simonecorsi/termly.js) - Simple, Extensible, Hackable and Lightweight Javascript Browser Terminal Simulator!
 - [majestrate/wterm](https://github.com/majestrate/wterm) - st fork for wayland
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
