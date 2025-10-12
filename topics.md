@@ -234,6 +234,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## 3d 
@@ -3155,7 +3156,6 @@
 - [mildred/go-nursery](https://github.com/mildred/go-nursery) - https://linuxfr.org/users/glandos/journaux/la-programmation-concurrente-en-mode-goto
 - [JamesOwenHall/nursery](https://github.com/JamesOwenHall/nursery) - Control flow mechanism for managing goroutines.
 - [maidsafe-archive/crust](https://github.com/maidsafe-archive/crust) - Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects
-- [nestyme/Subtitles-generator](https://github.com/nestyme/Subtitles-generator) - generates transcript for video from link
 - [vfleaking/uoj](https://github.com/vfleaking/uoj) - Universal Online Judge
 - [subgraph/oz](https://github.com/subgraph/oz) - OZ: a sandboxing system targeting everyday workstation applications
 - [brocaar/lorawan](https://github.com/brocaar/lorawan) - Package lorawan provides structures and tools to read and write LoraWAN messages from and to a slice of bytes.
@@ -5271,6 +5271,15 @@
 - [parMaster/audiofeed](https://github.com/parMaster/audiofeed) - Host a podcast XML feed from a folder with .mp3 (m4a|m4b) files. Add it to your favourite podcast app and listen to downloaded audiobooks
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
+
+## youtube 
+
+- [mxpv/podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
+- [nestyme/Subtitles-generator](https://github.com/nestyme/Subtitles-generator) - generates transcript for video from link
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+- [lamthuyvo/social-media-data-scripts](https://github.com/lamthuyvo/social-media-data-scripts) - 
+- [ScriptSmith/socialreaper](https://github.com/ScriptSmith/socialreaper) - Social media scraping / data collection library for Facebook, Twitter, Reddit, YouTube, Pinterest, and Tumblr APIs
+- [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 
 ## zsh 
 
