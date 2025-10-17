@@ -599,7 +599,7 @@
 - [yzzyx/pongo-trans](https://github.com/yzzyx/pongo-trans) - Translation tags for pongo2
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [torhve/gomirc](https://github.com/torhve/gomirc) - Matrix &lt;=&gt; IRC bridge in Go
-- [J-Siu/go-png2ico](https://github.com/J-Siu/go-png2ico) - PNG to ICO in GoLang. ICO store use PNG format.
+- [J-Siu/go-png2ico](https://github.com/J-Siu/go-png2ico) - module and command line for PNG to ICO. ICO use PNG format for storage.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) - :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make
@@ -2346,7 +2346,7 @@
 - [denji/golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples
 - [chokepoint/crunchpwn](https://github.com/chokepoint/crunchpwn) - #Pwn Linux (CrunchPwn) is a penetration testing repository/addition for CrunchBang Linux.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
-- [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
+- [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [agl/ed25519](https://github.com/agl/ed25519) - ed25519 for Go
 - [jnny/fundingopensource](https://github.com/jnny/fundingopensource) - Resources for sustaining open source projects
 - [bfuzzy/auditd-attack](https://github.com/bfuzzy/auditd-attack) - A Linux Auditd rule set mapped to MITRE's Attack Framework
@@ -2447,6 +2447,7 @@
 
 ## Python 
 
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Open source image background removal model
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 - [ctrlsam/rigour](https://github.com/ctrlsam/rigour) - A rigorous IoT scanner based on Shodan.io
