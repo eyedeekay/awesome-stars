@@ -259,7 +259,7 @@
 
 ## android 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5.1
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -1131,7 +1131,7 @@
 
 ## game-engine 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5.1
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [TalesMUD/talesmud](https://github.com/TalesMUD/talesmud) - MUD development framework/platform written in Golang
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
@@ -1484,13 +1484,13 @@
 
 ## godot 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5.1
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## golang 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5.1
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -2042,7 +2042,7 @@
 
 ## ios 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5.1
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -2185,7 +2185,7 @@
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
 - [alfg/ping.js](https://github.com/alfg/ping.js) - :bell: Ping the web with Javascript.
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
@@ -2634,6 +2634,7 @@
 
 ## others 
 
+- [KilianSen/go-wsb](https://github.com/KilianSen/go-wsb) - Windows Sandbox Configuration Wrapper in GoLang
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [adriancable/8086tiny](https://github.com/adriancable/8086tiny) - Official repository for 8086tiny: a tiny PC emulator/virtual machine
 - [babycommando/torify-windows](https://github.com/babycommando/torify-windows) - Torify For The Windows Terminal - A rust wrapper to "torify" any command line tool on Windows.
@@ -4622,7 +4623,7 @@
 - [deranjer/goTorrent](https://github.com/deranjer/goTorrent) - goTorrent is a torrenting server built with Go (Golang) with websocket API that comes with a React web frontend.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [speks7/nazar](https://github.com/speks7/nazar) - Electronic component detection, identification and recognition system in realtime from camera image using react-native and tensorflow for classification along with Clarifai API with option to search t
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
 ## react-native 
