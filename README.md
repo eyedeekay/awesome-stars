@@ -530,7 +530,7 @@
 - [zcyberseclab/zscan](https://github.com/zcyberseclab/zscan) - A fast, customizable service detection tool powered by a flexible fingerprint system. It helps you identify services, APIs, and network configurations across your infrastructure.
 - [tcpfailed/tcp-watch](https://github.com/tcpfailed/tcp-watch) - A real-time network monitoring and DDoS protection tool written in Go, featuring live traffic analysis, attack detection, and system resource monitoring.
 - [happy-bubbles/presence](https://github.com/happy-bubbles/presence) - Presence detection server for Happy Bubbles Bluetooth beacon-based presence detection system.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -1084,7 +1084,7 @@
 - [deepsecurity-pe/GoGhost](https://github.com/deepsecurity-pe/GoGhost) - High Performance, lightweight, portable Open Source tool for mass SMBGhost Scan
 - [google/safehtml](https://github.com/google/safehtml) - Safe HTML for Go
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang)
-- [criyle/go-sandbox](https://github.com/criyle/go-sandbox) - Sandbox implemented in GO with container / ptrace / seccomp
+- [criyle/go-sandbox](https://github.com/criyle/go-sandbox) - Sandbox implemented in GO including containers (namespace, cgroup), ptrace, seccomp
 - [scytem/i2p-ingress-controller](https://github.com/scytem/i2p-ingress-controller) - 
 - [brutella/dnssd](https://github.com/brutella/dnssd) - This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go.
 - [anacrolix/dms](https://github.com/anacrolix/dms) - A UPnP DLNA Digital Media Server that includes basic video transcoding. Tested on a Panasonic Viera television, several Android UPnP apps, and Chromecast.
@@ -1116,6 +1116,7 @@
 - [grumpyhome/grumpy](https://github.com/grumpyhome/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [etiennecossart/P2P_NTRU_OG](https://github.com/etiennecossart/P2P_NTRU_OG) - This code is sourced from Perlin Noise, https://github.com/perlin-network/noise, all credit to Perlin for the code.
 - [perlin-network/life](https://github.com/perlin-network/life) - A secure WebAssembly VM catered for decentralized applications.
+- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [tulir/mauview](https://github.com/tulir/mauview) - A Go TUI library based on tcell.
 - [trustbloc/edv](https://github.com/trustbloc/edv) - Encrypted data vault implementation in Golang - https://identity.foundation/edv-spec/
@@ -2640,7 +2641,7 @@
 - [gtracy/phonefree-twilio](https://github.com/gtracy/phonefree-twilio) - A browser-based phone using the Twilio Client that can be deployed to Google App Engine
 - [matlink/gplaycli](https://github.com/matlink/gplaycli) - Google Play Downloader via Command line
 - [SkyzohKey/SkyWiki](https://github.com/SkyzohKey/SkyWiki) - SkyWiki is a simple flat-page wiki based on Django. Pages are written in Markdown and then compiled in HTML via Python. This permit to finally enjoy writting wiki pages like never before.
-- [AonCyberLabs/Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) - This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploit
+- [strozfriedberg/Windows-Exploit-Suggester](https://github.com/strozfriedberg/Windows-Exploit-Suggester) - This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploit
 - [dfreelon/fb_scrape_public](https://github.com/dfreelon/fb_scrape_public) - Scrapes posts and comments from public Facebook pages.
 - [Torlus/mosquitto-twister](https://github.com/Torlus/mosquitto-twister) - Proof-of-concept of a fully distributed MQTT broker for the IoT. Uses Twister platform, Bitcoin and Bittorrent protocols.
 - [asonawalla/FBEraser](https://github.com/asonawalla/FBEraser) - Programatically delete your Facebook posts
@@ -2990,7 +2991,6 @@
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
 - [CzarSimon/webca](https://github.com/CzarSimon/webca) - Webapp to generate, and manage your own SSL certificates, root and intermediate certificate authorities.
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
-- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [paritytech/banana_split](https://github.com/paritytech/banana_split) - Shamir's Secret Sharing for people with friends
