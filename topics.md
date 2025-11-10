@@ -929,7 +929,7 @@
 - [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [yassine/soxy-driver](https://github.com/yassine/soxy-driver) - A docker networking driver that transparently tunnels docker containers TCP traffic through a proxy
 - [ipdr/ipdr](https://github.com/ipdr/ipdr) - 🐋 IPFS-backed Docker Registry. By @miguelmota
@@ -1432,7 +1432,7 @@
 - [SaturnsVoid/GoBot2](https://github.com/SaturnsVoid/GoBot2) - Second Version of The GoBot Botnet, But more advanced.
 - [spacemeshos/go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
-- [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
+- [edoardogerosa/dnsmorph](https://github.com/edoardogerosa/dnsmorph) - Domain name permutation engine written in Go
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [brimstone/go-shellcode](https://github.com/brimstone/go-shellcode) - Load shellcode into a new process
 - [libp2p/go-libp2p-webrtc-direct](https://github.com/libp2p/go-libp2p-webrtc-direct) - A libp2p transport that enables browser-to-server, and server-to-server, direct communication over WebRTC without requiring signalling servers
@@ -1697,7 +1697,7 @@
 - [danfragoso/thdwb](https://github.com/danfragoso/thdwb) - 🌭 The hotdog web browser and browser engine 🌭
 - [hknutzen/Netspoc](https://github.com/hknutzen/Netspoc) - A network security policy compiler. Netspoc is targeted at environments with a large number of firewalls and admins. Firewall rules are derived from a single rule set. Supported are Cisco IOS, NX-OS, 
 - [isacikgoz/gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [cloverstd/tcping](https://github.com/cloverstd/tcping) - ping over a tcp connection
 - [tellytv/telly](https://github.com/tellytv/telly) - An IPTV proxy
 - [Joker/hpp](https://github.com/Joker/hpp) - HTML Pretty Print for Go (golang)
@@ -1765,7 +1765,7 @@
 - [perlin-network/noise](https://github.com/perlin-network/noise) - A decentralized P2P networking stack written in Go.
 - [joanbono/Gurp](https://github.com/joanbono/Gurp) - Burp Commander written in Go
 - [dennwc/dom](https://github.com/dennwc/dom) - DOM library for Go and WASM
-- [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
+- [edoardogerosa/dnsmorph](https://github.com/edoardogerosa/dnsmorph) - Domain name permutation engine written in Go
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [pion/dcnet](https://github.com/pion/dcnet) - net interfaces over DataChannels
 - [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
@@ -2031,7 +2031,7 @@
 
 ## image-processing 
 
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
 ## information-gathering 
@@ -2285,6 +2285,7 @@
 
 ## linux 
 
+- [kn0sys/i2nix](https://github.com/kn0sys/i2nix) - i2nix is a security-focused Linux operating system designed to route all network connections through the I2P anonymity network. It follows the isolation principles of Whonix®
 - [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [BobdaProgrammer/doWM](https://github.com/BobdaProgrammer/doWM) - A beautiful window manager for x11
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -4339,7 +4340,7 @@
 - [M4cs/BabySploit](https://github.com/M4cs/BabySploit) - :baby: BabySploit Beginner Pentesting Toolkit/Framework Written in Python :snake:
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
-- [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
+- [edoardogerosa/dnsmorph](https://github.com/edoardogerosa/dnsmorph) - Domain name permutation engine written in Go
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [jordanpotti/AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets
@@ -4404,6 +4405,7 @@
 
 ## privacy 
 
+- [kn0sys/i2nix](https://github.com/kn0sys/i2nix) - i2nix is a security-focused Linux operating system designed to route all network connections through the I2P anonymity network. It follows the isolation principles of Whonix®
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [kn0sys/j4-i2p-rs](https://github.com/kn0sys/j4-i2p-rs) - Java for I2P Rust wrapper
 - [creating2morrow/neveko](https://github.com/creating2morrow/neveko) - full-stack privacy application with enciphered messaging, monero multisig and built-in i2p marketplace
@@ -4762,10 +4764,11 @@
 
 ## security 
 
+- [kn0sys/i2nix](https://github.com/kn0sys/i2nix) - i2nix is a security-focused Linux operating system designed to route all network connections through the I2P anonymity network. It follows the isolation principles of Whonix®
 - [grantseltzer/karn](https://github.com/grantseltzer/karn) - Simplifying Seccomp enforcement in containerized or non-containerized apps
 - [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
-- [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework
+- [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework, IoM-server/client
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) - A Go library for the Linux Landlock sandboxing feature
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
