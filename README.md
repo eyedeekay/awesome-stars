@@ -543,7 +543,7 @@
 - [trzsz/tsshd](https://github.com/trzsz/tsshd) - The tsshd works like mosh-server, while the "tssh --udp" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
 - [wzshiming/sshd](https://github.com/wzshiming/sshd) - SSH Server
 - [minetest-mapserver/mapserver](https://github.com/minetest-mapserver/mapserver) - Minetest realtime mapserver, written in go
-- [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework
+- [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework, IoM-server/client
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - bare metal Go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -1229,7 +1229,7 @@
 - [hknutzen/Netspoc](https://github.com/hknutzen/Netspoc) - A network security policy compiler. Netspoc is targeted at environments with a large number of firewalls and admins. Firewall rules are derived from a single rule set. Supported are Cisco IOS, NX-OS, 
 - [stephanos/go-reactjs](https://github.com/stephanos/go-reactjs) - React.js server-side rendering with Go
 - [isacikgoz/gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [RSenApps/nchainz](https://github.com/RSenApps/nchainz) - A High Performance, Decentralized Cryptocurrency Exchange
 - [ProofSuite/amp-dex](https://github.com/ProofSuite/amp-dex) - AMP: Official repository for the Proof decentralized exchange
 - [ProofSuite/amp-matching-engine](https://github.com/ProofSuite/amp-matching-engine) - Official proof decentralized exchange matching engine
@@ -1498,7 +1498,7 @@
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [joanbono/Gurp](https://github.com/joanbono/Gurp) - Burp Commander written in Go
 - [dennwc/dom](https://github.com/dennwc/dom) - DOM library for Go and WASM
-- [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
+- [edoardogerosa/dnsmorph](https://github.com/edoardogerosa/dnsmorph) - Domain name permutation engine written in Go
 - [writeas/Read.as](https://github.com/writeas/Read.as) - Long-form ActivityPub-enabled reader.
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [gpestana/redonion](https://github.com/gpestana/redonion) - :globe_with_meridians: deep web scanning done right
@@ -2826,6 +2826,7 @@
 
 ## Shell 
 
+- [kn0sys/i2nix](https://github.com/kn0sys/i2nix) - i2nix is a security-focused Linux operating system designed to route all network connections through the I2P anonymity network. It follows the isolation principles of Whonix®
 - [mephistolist/hoxha](https://github.com/mephistolist/hoxha) - A userland rootkit
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [JNRowe/surfraw](https://github.com/JNRowe/surfraw) - Mirror of the upstream git repository
