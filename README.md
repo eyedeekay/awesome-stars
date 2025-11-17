@@ -1092,7 +1092,6 @@
 - [dmichael/go-multicast](https://github.com/dmichael/go-multicast) - Experiments in UDP Multicasting
 - [status-im/doubleratchet](https://github.com/status-im/doubleratchet) - The Double Ratchet Algorithm implementation in Go
 - [status-im/staples](https://github.com/status-im/staples) - Replicated chunks made out of robust zinc-stained steel in an ordered log.
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) - Simple Golang scp client
@@ -1564,7 +1563,6 @@
 - [sycamoreone/orc](https://github.com/sycamoreone/orc) - orc - Onion router control protocol library.
 - [Yawning/bulb](https://github.com/Yawning/bulb) - bulb is not stem
 - [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [gen2brain/crtaci](https://github.com/gen2brain/crtaci) - "Crtaći" searches YouTube, DailyMotion and Vimeo for good old cartoons
 - [envsh/go-toxcore](https://github.com/envsh/go-toxcore) - The go-toxcore-c raw binding's extended  wrappers for easy use.  WIP partly mintox core in pure golang. Experimental toxcore internals.
 - [mirrorx/tox](https://github.com/mirrorx/tox) - Go Bindings to libtoxcore
@@ -2021,6 +2019,7 @@
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [siratama/Flash-To-Haxe-Converter](https://github.com/siratama/Flash-To-Haxe-Converter) - 
 - [xuset/planktos](https://github.com/xuset/planktos) - Serving websites over bittorrent
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [vfleaking/uoj](https://github.com/vfleaking/uoj) - Universal Online Judge
 - [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [renatodex/grider](https://github.com/renatodex/grider) - A Block Editor designed to create Tabletop Dungeon Maps
@@ -2571,6 +2570,7 @@
 - [HelloZeroNet/ZeroNet-kivy](https://github.com/HelloZeroNet/ZeroNet-kivy) - Android client for ZeroNet
 - [meejah/txtorcon](https://github.com/meejah/txtorcon) - Twisted-based asynchronous Tor control protocol implementation. Includes unit-tests, examples, state-tracking code and configuration abstraction.
 - [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
