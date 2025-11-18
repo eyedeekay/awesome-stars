@@ -593,7 +593,7 @@
 - [marcinwyszynski/popart](https://github.com/marcinwyszynski/popart) - POP3 server library for Go
 - [oxzi/xochimilco](https://github.com/oxzi/xochimilco) - X3DH, Double Ratchet and a straightforward E2E encryption library on top.
 - [bitnami/gonit](https://github.com/bitnami/gonit) - Drop-in replacement for monit written in Go, with Apache 2.0 license
-- [namecoin/sockstrace](https://github.com/namecoin/sockstrace) - Go port of Heteronculous (ptrace-based proxy leak detector).  Outreachy project. Currently undergoing a rewrite!
+- [namecoin/sockstrace](https://github.com/namecoin/sockstrace) - Seccomp-based proxy leak detector and proxifier.
 - [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [Danlock/searmage](https://github.com/Danlock/searmage) - Search images locally via a CLI, powered by Tesseract
@@ -2453,6 +2453,7 @@
 - [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Open source image background removal model
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 - [ctrlsam/rigour](https://github.com/ctrlsam/rigour) - A rigorous IoT scanner based on Shodan.io
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - [being rewritten] Cross-platform iMessage POC
 - [bonehurtingjuice/mattereddit](https://github.com/bonehurtingjuice/mattereddit) - Matterbridge API plugin for Reddit Community Chat
@@ -2976,7 +2977,6 @@
 - [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) - Creepy device and browser fingerprinting
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
