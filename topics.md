@@ -306,7 +306,7 @@
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - A command-line F-Droid desktop client
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
-- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
+- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, ChromeOS, and Windows
 - [Antox/Antox](https://github.com/Antox/Antox) - Android client for Project Tox - Secure Peer to Peer Messaging
 
 ## angular 
@@ -446,7 +446,7 @@
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [T-vK/GPU-pass-through-compatibility-check](https://github.com/T-vK/GPU-pass-through-compatibility-check) - Automatically set up a Linux system for PCI pass-through and check if it is compatible
 - [farfalleflickan/Myflix](https://github.com/farfalleflickan/Myflix) - Myflix, a Netflix clone!
-- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
+- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, ChromeOS, and Windows
 - [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 
 ## beginner-project 
@@ -680,7 +680,7 @@
 
 ## computer-vision 
 
-- [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Open source image background removal model
+- [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removel Toolkit - Open Source and API Models
 - [VideoForensics/motionHistoryForensics](https://github.com/VideoForensics/motionHistoryForensics) - 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
@@ -801,7 +801,7 @@
 
 ## dart 
 
-- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
+- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, ChromeOS, and Windows
 
 ## data 
 
@@ -2023,6 +2023,7 @@
 
 ## image-processing 
 
+- [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removel Toolkit - Open Source and API Models
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
@@ -2363,7 +2364,7 @@
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [GrapheneOS/linux-hardened](https://github.com/GrapheneOS/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [mempodippy/vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
-- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
+- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, ChromeOS, and Windows
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
 - [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 
@@ -2386,7 +2387,7 @@
 
 ## mac 
 
-- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
+- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, ChromeOS, and Windows
 
 ## machine-learning 
 
@@ -2425,7 +2426,7 @@
 - [chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [miximka/I2PMonitor](https://github.com/miximka/I2PMonitor) - I2P monitor and control application for Mac OS X
-- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
+- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, ChromeOS, and Windows
 
 ## markdown 
 
@@ -4654,7 +4655,7 @@
 
 ## reverse-engineering 
 
-- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - [being rewritten] Cross-platform iMessage POC
+- [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
 - [asamy/ksm](https://github.com/asamy/ksm) - A fast, hackable and simple x64 VT-x hypervisor for Windows and Linux.  Builtin userspace sandbox and introspection engine.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [mytbk/r2dumpbin](https://github.com/mytbk/r2dumpbin) - A radare2 Python script to dump a raw IA32 binary to an NASM source file
