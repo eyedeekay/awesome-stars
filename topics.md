@@ -430,7 +430,7 @@
 
 ## bash 
 
-- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
+- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 32K await, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform attacks such as WPA/WPA2 cracking and MITM attacks.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [xarinatan/Firebox](https://github.com/xarinatan/Firebox) - A script that allows you to create a portable Firefox profile that you can sync anywhere, e.g with Seafile or Owncloud or Dropbox or some app alike, allowing you to remote kill other instances to prev
@@ -604,7 +604,7 @@
 ## cli 
 
 - [nwtgck/handy-sshd](https://github.com/nwtgck/handy-sshd) - Portable SSH Server
-- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
+- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 32K await, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
@@ -861,7 +861,7 @@
 
 ## devops 
 
-- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
+- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 32K await, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
@@ -1218,7 +1218,7 @@
 - [fclairamb/ftpserver](https://github.com/fclairamb/ftpserver) - Golang based autonomous FTP server with SFTP, S3, Dropbox, and Google Drive connectors.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
-- [UltiRequiem/kimera](https://github.com/UltiRequiem/kimera) - 🦁 A Minimal and Secure runtime for JavaScript and TypeScript.
+- [UltiRequiem/kimera](https://github.com/UltiRequiem/kimera) - 🦁 A Minimal and Secure runtime for JavaScript and TypeScript written in Go.
 - [mikesmitty/curse](https://github.com/mikesmitty/curse) - CURSE is an SSH certificate signing server, built as an alternative to Netflix's BLESS tool, but without a dependency on AWS.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [pinpox/gitea-matrix-bot](https://github.com/pinpox/gitea-matrix-bot) - A bot to post gitea events to a matrix channel
@@ -2133,7 +2133,7 @@
 
 ## javascript 
 
-- [UltiRequiem/kimera](https://github.com/UltiRequiem/kimera) - 🦁 A Minimal and Secure runtime for JavaScript and TypeScript.
+- [UltiRequiem/kimera](https://github.com/UltiRequiem/kimera) - 🦁 A Minimal and Secure runtime for JavaScript and TypeScript written in Go.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [nayuki/MamIRC](https://github.com/nayuki/MamIRC) - Use at your own risk.
 - [eyedeekay/aluminumoxynitride](https://github.com/eyedeekay/aluminumoxynitride) - Configures any Chrome browser to use I2P. Named after transparent aluminum.
@@ -5286,7 +5286,7 @@
 
 ## zsh 
 
-- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
+- [slavaGanzin/await](https://github.com/slavaGanzin/await) - 32K await, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
