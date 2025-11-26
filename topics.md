@@ -98,6 +98,7 @@
 - [google](#google)
 - [gradle](#gradle)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -228,6 +229,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
+- [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -1832,6 +1834,22 @@
 
 - [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
 - [TGNThump/Pantheon](https://github.com/TGNThump/Pantheon) - A federated platform for building communities.
+
+## gui 
+
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot 4.5.1
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+- [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
+- [neurlang/wayland](https://github.com/neurlang/wayland) - Golang Wayland - Go Multiplatform UI library
+- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+- [aarzilli/nucular](https://github.com/aarzilli/nucular) - GUI toolkit for go
+- [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- [Equanox/gotron](https://github.com/Equanox/gotron) - Go Api for Electron
+- [kitech/qt.go](https://github.com/kitech/qt.go) - Qt binding for Go (Golang) aims get Go's compile speed again.
+- [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
+- [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
+- [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 
 ## hacking 
 
@@ -5205,6 +5223,12 @@
 ## web-components 
 
 - [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
+
+## web3 
+
+- [stateless-minds/cyber-witness](https://github.com/stateless-minds/cyber-witness) - Decentralized media simulator based on the reporter and witnesses concept. It aims to be an alternative to mass media, surveillance, censorship, fact checkers and centralized control of news.
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
+- [w3f/polkadot-wiki-old](https://github.com/w3f/polkadot-wiki-old) - The Polkadot wiki.
 
 ## webapp 
 
