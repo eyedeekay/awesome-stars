@@ -38,6 +38,7 @@
 - [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -663,6 +664,28 @@
 ## code-quality 
 
 - [posener/goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Now available as a Github action!
+
+## command-line 
+
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
+- [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
+- [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free little text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compil
+- [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+- [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
+- [michaelmacinnis/oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
+- [BharatKalluri/spotifydl](https://github.com/BharatKalluri/spotifydl) - Download music from Spotify with complete album art and metadata
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 
 ## compiler 
 
@@ -3322,7 +3345,6 @@
 - [kirushik/polkadot-wiki](https://github.com/kirushik/polkadot-wiki) - The Polkadot wiki.
 - [kirushik/kusama.network](https://github.com/kirushik/kusama.network) - Kusama website
 - [RangerMauve/multi-hyperdrive](https://github.com/RangerMauve/multi-hyperdrive) - Take a bunch of hyperdrives, and read from them as if they were one.
-- [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [hakluke/weaponised-XSS-payloads](https://github.com/hakluke/weaponised-XSS-payloads) - XSS payloads designed to turn alert(1) into P1
 - [elmundio87/pgp-email-relay](https://github.com/elmundio87/pgp-email-relay) - Relay emails, encrypting them with the recipient's public PGP key.
 - [wrouesnel/emailcli](https://github.com/wrouesnel/emailcli) - Command line email sending client written in Go.
