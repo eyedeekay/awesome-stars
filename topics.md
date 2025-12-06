@@ -180,6 +180,7 @@
 - [pytorch](#pytorch)
 - [qt](#qt)
 - [r](#r)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -2699,7 +2700,6 @@
 - [happy-bubbles/presence](https://github.com/happy-bubbles/presence) - Presence detection server for Happy Bubbles Bluetooth beacon-based presence detection system.
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [mmalmi/gun-rs-wasm](https://github.com/mmalmi/gun-rs-wasm) - Gun port in rust & wasm
-- [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 - [marcosan93/Price-Forecaster](https://github.com/marcosan93/Price-Forecaster) - Forecasting the future prices of BTC and More using Machine and Deep Learning Models
 - [PretendoNetwork/website](https://github.com/PretendoNetwork/website) - Website for Pretendo Network
 - [mephistolist/hoxha](https://github.com/mephistolist/hoxha) - A userland rootkit
@@ -4642,6 +4642,10 @@
 
 - [skydome20/crawler_CIA_CREST](https://github.com/skydome20/crawler_CIA_CREST) - R-crawler for CIA website (CREST)
 - [CenterForAssessment/West_Virginia](https://github.com/CenterForAssessment/West_Virginia) - SGP analysis source code & documentation
+
+## rag 
+
+- [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 
 ## raspberry-pi 
 
