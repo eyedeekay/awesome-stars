@@ -2116,7 +2116,7 @@
 
 - [stateless-minds/cyber-witness](https://github.com/stateless-minds/cyber-witness) - Decentralized media simulator based on the reporter and witnesses concept. It aims to be an alternative to mass media, surveillance, censorship, fact checkers and centralized control of news.
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
-- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://codeberg.org/mrus/superhighway84)
 - [berty/go-libp2p-tor-transport](https://github.com/berty/go-libp2p-tor-transport) - 🚧 WIP: tor transport for libp2p
 - [Geo25rey/ipmail](https://github.com/Geo25rey/ipmail) - InterPlanetary Mail - Decentralized Email alternative using IPFS
 - [inet256/inet256](https://github.com/inet256/inet256) - Identity Based Network API with 256-Bit Addresses
@@ -4306,7 +4306,7 @@
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [marek22k/p2p-chat](https://github.com/marek22k/p2p-chat) - A simple peer-to-peer chat that uses the PeerMessage plugin for communication and the CryptMessage plugin and Ecies for encryption.
-- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://codeberg.org/mrus/superhighway84)
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [zapek/Xeres](https://github.com/zapek/Xeres) - A Friend-to-Friend, decentralized and secure application for communication and sharing
@@ -5268,7 +5268,7 @@
 ## web3 
 
 - [stateless-minds/cyber-witness](https://github.com/stateless-minds/cyber-witness) - Decentralized media simulator based on the reporter and witnesses concept. It aims to be an alternative to mass media, surveillance, censorship, fact checkers and centralized control of news.
-- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://codeberg.org/mrus/superhighway84)
 - [w3f/polkadot-wiki-old](https://github.com/w3f/polkadot-wiki-old) - The Polkadot wiki.
 
 ## webapp 
