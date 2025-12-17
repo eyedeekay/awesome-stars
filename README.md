@@ -285,7 +285,7 @@
 - [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [pranomostro/ratox](https://github.com/pranomostro/ratox) - [wip] fifo based tox client
-- [GrapheneOS/linux-hardened](https://github.com/GrapheneOS/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
+- [GrapheneOS-Archive/linux-hardened](https://github.com/GrapheneOS-Archive/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games
 - [way-cooler/way-cooler](https://github.com/way-cooler/way-cooler) - Wayland compositor for AwesomeWM
 - [zamaudio/intelmetool](https://github.com/zamaudio/intelmetool) - My tool for working with Intel Management Engine - RETIRED REPO (see coreboot for new upstream)
@@ -2458,7 +2458,6 @@
 - [bonehurtingjuice/mattereddit](https://github.com/bonehurtingjuice/mattereddit) - Matterbridge API plugin for Reddit Community Chat
 - [SverreNystad/gpt-dungeon-master](https://github.com/SverreNystad/gpt-dungeon-master) - Welcome to the GPT Dungeon Master repository! This project harnesses the power of GPT models to create a dynamic and responsive Dungeon Master (DM) for tabletop role-playing games (RPGs). Whether you'
 - [riffusion/riffusion-hobby](https://github.com/riffusion/riffusion-hobby) - Stable diffusion for real-time music generation
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [promptslab/openai-detector](https://github.com/promptslab/openai-detector) - AI classifier for indicating AI-written text
 - [stolencatkarma/CataclysmLD](https://github.com/stolencatkarma/CataclysmLD) - Cataclysm: Looming Darkness
@@ -2561,7 +2560,7 @@
 - [milo2012/osintstalker](https://github.com/milo2012/osintstalker) - osintstalker
 - [IWriteThings/pyalienfx](https://github.com/IWriteThings/pyalienfx) - a slightly updated fork of https://code.google.com/p/pyalienfx
 - [l-n-s/QuickShare](https://github.com/l-n-s/QuickShare) - Share files quickly and anonymously over the I2P network.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [vs49688/wikileaks-email-downloader](https://github.com/vs49688/wikileaks-email-downloader) - Wikileaks Email Downloader
 - [sethsec/celerystalk](https://github.com/sethsec/celerystalk) - An asynchronous enumeration & vulnerability scanner. Run all the tools on all the hosts.
 - [seekintoo/Chimay-Red](https://github.com/seekintoo/Chimay-Red) - Mikrotik RouterOS (6.x &lt; 6.38.5) exploit kit. Reverse engineered from the "Vault 7" WikiLeaks publication.
