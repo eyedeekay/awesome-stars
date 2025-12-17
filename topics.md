@@ -454,7 +454,7 @@
 - [zMarch/Orc](https://github.com/zMarch/Orc) - Orc is a post-exploitation framework for Linux written in Bash
 - [bkuhlmann/bashsmith](https://github.com/bkuhlmann/bashsmith) - A template for smithing Bash scripts.
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [simonecorsi/termly.js](https://github.com/simonecorsi/termly.js) - Simple, Extensible, Hackable and Lightweight Javascript Browser Terminal Simulator!
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [T-vK/GPU-pass-through-compatibility-check](https://github.com/T-vK/GPU-pass-through-compatibility-check) - Automatically set up a Linux system for PCI pass-through and check if it is compatible
@@ -591,7 +591,7 @@
 
 - [meetkool/FREE-GPT-4](https://github.com/meetkool/FREE-GPT-4) - FREEGPT4 is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI.
 - [promptslab/openai-detector](https://github.com/promptslab/openai-detector) - AI classifier for indicating AI-written text
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 
 ## chatgpt-api 
 
@@ -656,7 +656,7 @@
 - [bavadim/telegramutils](https://github.com/bavadim/telegramutils) - Use a telegram messenger in the console!
 - [RTradeLtd/cmd](https://github.com/RTradeLtd/cmd) - 🐢 package cmd provides a microframework for building CLI tools integrated with Temporal configuration
 - [BharatKalluri/spotifydl](https://github.com/BharatKalluri/spotifydl) - Download music from Spotify with complete album art and metadata
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - A command-line F-Droid desktop client
@@ -699,7 +699,7 @@
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [michaelmacinnis/oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [BharatKalluri/spotifydl](https://github.com/BharatKalluri/spotifydl) - Download music from Spotify with complete album art and metadata
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 
@@ -852,7 +852,7 @@
 
 ## data-engineering 
 
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 
 ## data-science 
 
@@ -910,7 +910,7 @@
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [vespene-io/_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -2418,7 +2418,7 @@
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - Onion Monero Blockchain Explorer
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
-- [GrapheneOS/linux-hardened](https://github.com/GrapheneOS/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
+- [GrapheneOS-Archive/linux-hardened](https://github.com/GrapheneOS-Archive/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [mempodippy/vlany](https://github.com/mempodippy/vlany) - Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
 - [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, ChromeOS, and Windows
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
@@ -2476,7 +2476,7 @@
 - [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
@@ -2773,7 +2773,6 @@
 - [truefedex/GeckoViewNativeWebApp](https://github.com/truefedex/GeckoViewNativeWebApp) - A minimal example of an embedded web application in GekView with two-way communication between the web and native parts. It may not be the best solution, but that's all I've been able to find so far.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [dominic-codespoti/ascii-gen](https://github.com/dominic-codespoti/ascii-gen) - A CLI tool that converts images to ASCII art.
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [x0th/Local-PGP](https://github.com/x0th/Local-PGP) - In-browser PGP encryption and decryption.
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make
 - [i2p/i2p.graphics](https://github.com/i2p/i2p.graphics) - I2P Graphics (Git mirror of mtn://mtn.i2p-projekt.de?i2p.graphics)
@@ -4522,7 +4521,7 @@
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communicati
-- [GrapheneOS/linux-hardened](https://github.com/GrapheneOS/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
+- [GrapheneOS-Archive/linux-hardened](https://github.com/GrapheneOS-Archive/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -4592,7 +4591,7 @@
 - [akamai-threat-research/mqtt-pwn](https://github.com/akamai-threat-research/mqtt-pwn) - MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations.
 - [lamthuyvo/social-media-data-scripts](https://github.com/lamthuyvo/social-media-data-scripts) - 
 - [ScriptSmith/socialreaper](https://github.com/ScriptSmith/socialreaper) - Social media scraping / data collection library for Facebook, Twitter, Reddit, YouTube, Pinterest, and Tumblr APIs
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos) - Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is
 - [nccgroup/redsnarf](https://github.com/nccgroup/redsnarf) - RedSnarf is a pen-testing / red-teaming tool for Windows environments
 - [HelloZeroNet/ZeroNet-kivy](https://github.com/HelloZeroNet/ZeroNet-kivy) - Android client for ZeroNet
@@ -4653,7 +4652,7 @@
 - [LinCast-Team/LinCast](https://github.com/LinCast-Team/LinCast) - The server of Your Open Source and 100% Free podcast player. *Work in progress*
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [necro-nemesis/LabyrinthAP](https://github.com/necro-nemesis/LabyrinthAP) - Gain access to Lokinet and the internet connecting via an SBC based access point.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [ArchStrike/ArchStrike](https://github.com/ArchStrike/ArchStrike) - An Arch Linux repository for security professionals and enthusiasts. Done the Arch Way and optimized for i686, x86_64, ARMv6, ARMv7 and ARMv8.
 
@@ -4910,7 +4909,7 @@
 - [kevinburke/nacl](https://github.com/kevinburke/nacl) - Pure Go implementation of the NaCL set of API's
 - [google/safebrowsing](https://github.com/google/safebrowsing) - Safe Browsing API Go Client
 - [linuxboot/linuxboot](https://github.com/linuxboot/linuxboot) - The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.
-- [GrapheneOS/linux-hardened](https://github.com/GrapheneOS/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
+- [GrapheneOS-Archive/linux-hardened](https://github.com/GrapheneOS-Archive/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 
 ## security-tools 
@@ -5008,7 +5007,7 @@
 - [michaelmacinnis/oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [madlambda/nash](https://github.com/madlambda/nash) - Nash stands for Nash shell.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [simonecorsi/termly.js](https://github.com/simonecorsi/termly.js) - Simple, Extensible, Hackable and Lightweight Javascript Browser Terminal Simulator!
 - [mesalock-linux/mesabox](https://github.com/mesalock-linux/mesabox) - A collection of core system utilities written in Rust for Unix-like systems (and now Windows)
 
@@ -5354,7 +5353,7 @@
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) - 40K, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 
 
