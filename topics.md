@@ -137,6 +137,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
+- [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [monero](#monero)
@@ -1498,7 +1499,7 @@
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [NullHypothesis/sybilhunter](https://github.com/NullHypothesis/sybilhunter) - Hunting for Sybils and anomalies in archived Tor network data.
 - [NullHypothesis/censorbib](https://github.com/NullHypothesis/censorbib) - The Internet censorship bibliography.
-- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
+- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Kafka-style message streaming in Go. Built on NATS. Single binary,  no JVM, no ZooKeeper.
 - [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
 - [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
 - [kevinburke/travis](https://github.com/kevinburke/travis) - Command line client for interacting with Travis CI
@@ -1834,7 +1835,7 @@
 - [kanocz/lcvpn](https://github.com/kanocz/lcvpn) - Decentralized VPN in golang
 - [src-d/go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
-- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
+- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Kafka-style message streaming in Go. Built on NATS. Single binary,  no JVM, no ZooKeeper.
 - [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
 - [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
 - [kevinburke/travis](https://github.com/kevinburke/travis) - Command line client for interacting with Travis CI
@@ -2502,6 +2503,11 @@
 - [McKael/madon](https://github.com/McKael/madon) - Golang Mastodon API library
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [McKael/madonctl](https://github.com/McKael/madonctl) - CLI client for the Mastodon social network API
+
+## microservices 
+
+- [yanpozka/checkers](https://github.com/yanpozka/checkers) - High Aviability checker game
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 
 ## minecraft 
 
