@@ -1650,7 +1650,7 @@
 - [NullHypothesis/sybilhunter](https://github.com/NullHypothesis/sybilhunter) - Hunting for Sybils and anomalies in archived Tor network data.
 - [rsc/2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
 - [laher/wget-go](https://github.com/laher/wget-go) - wget, partially re-implemented in go
-- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
+- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Kafka-style message streaming in Go. Built on NATS. Single binary,  no JVM, no ZooKeeper.
 - [tsuru/planb](https://github.com/tsuru/planb) - a distributed HTTP and websocket proxy inspired by Hipache
 - [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
