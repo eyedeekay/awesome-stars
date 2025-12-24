@@ -1721,7 +1721,7 @@
 - [go-tango/wego](https://github.com/go-tango/wego) - Moved https://gitea.com/tango/wego
 - [pavlo-v-chernykh/keystore-go](https://github.com/pavlo-v-chernykh/keystore-go) - A Go (golang) implementation of Java KeyStore encoder/decoder
 - [owenthereal/godzilla](https://github.com/owenthereal/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
-- [felixangell/merlyn-browser](https://github.com/felixangell/merlyn-browser) - toy web browser
+- [felixangell/merlyn-browser](https://github.com/felixangell/merlyn-browser) - toy web browser written in Go
 - [FurqanSoftware/papyrus](https://github.com/FurqanSoftware/papyrus) - A real-time collaborative Markdown editor and document repository with simple organization and project-based management
 - [deroproject/derosuite](https://github.com/deroproject/derosuite) - DERO: Secure, Anonymous Blockchain with Smart Contracts.  Subscribe to Dero announcements by sending mail to lists@dero.io with subject: subscribe announcements
 - [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
@@ -2692,6 +2692,7 @@
 
 ## others 
 
+- [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 - [KilianSen/go-wsb](https://github.com/KilianSen/go-wsb) - Windows Sandbox Configuration Wrapper in GoLang
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [adriancable/8086tiny](https://github.com/adriancable/8086tiny) - Official repository for 8086tiny: a tiny PC emulator/virtual machine
