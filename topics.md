@@ -4992,6 +4992,7 @@
 
 ## serverless 
 
+- [zapek/Xeres](https://github.com/zapek/Xeres) - A Friend-to-Friend, decentralized and secure application for communication and sharing
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 
 ## shell 
