@@ -1338,7 +1338,7 @@
 - [sadbox/sadbot](https://github.com/sadbox/sadbot) - Bot for grabbing irc logs (written in go)
 - [SimonWaldherr/ircLogger.go](https://github.com/SimonWaldherr/ircLogger.go) - 
 - [tam7t/xmpp](https://github.com/tam7t/xmpp) - Go XMPP server library
-- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure Reliable-UDP Library for golang with FEC
+- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure Reliable-UDP library for Golang with FEC support.
 - [pion/sctp](https://github.com/pion/sctp) - A Go implementation of SCTP
 - [writeas/go-writeas](https://github.com/writeas/go-writeas) - Go client for the Write.as API
 - [writeas/writeas-cli](https://github.com/writeas/writeas-cli) - Command line client for Write.as / WriteFreely
@@ -2954,7 +2954,7 @@
 - [moebiuseye/skf](https://github.com/moebiuseye/skf) - Plugin-based static website generator inspired by Suckless Web Framework
 - [bfritz/freedos-custom-iso](https://github.com/bfritz/freedos-custom-iso) - Shell scripts to create custom FreeDOS ISO image based on http://www.tummy.com/blogs/2008/09/21/using-freedos-cd-for-bios-updates/ .
 - [gentoo/netifrc](https://github.com/gentoo/netifrc) - [MIRROR] netifrc network configuration tools from OpenRC
-- [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
+- [armbian/build](https://github.com/armbian/build) - The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configur
 
 ## Standard ML 
 
@@ -3012,7 +3012,7 @@
 - [streamr-dev/streamr-client-javascript](https://github.com/streamr-dev/streamr-client-javascript) - JS library for interacting with Streamr APIs: publishing and subscribing to data, creating streams, etc.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 
