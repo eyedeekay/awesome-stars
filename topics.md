@@ -3049,7 +3049,7 @@
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [sabhiram/go-wol](https://github.com/sabhiram/go-wol) - Simple wake on LAN magic packet generator for golang
 - [nosequeldeebee/blockchain-tutorial](https://github.com/nosequeldeebee/blockchain-tutorial) - Write and publish your own blockchain in less than 200 lines of Go
-- [zleman1593/Aktie](https://github.com/zleman1593/Aktie) - A DDP-based Peer-to-Peer File Sharing System
+- [zackleman/Aktie](https://github.com/zackleman/Aktie) - A DDP-based Peer-to-Peer File Sharing System
 - [guifibages/speedtest](https://github.com/guifibages/speedtest) - Guifibages speedtest tool
 - [blang/speedtest](https://github.com/blang/speedtest) - Simple TCP Speedtest written in golang
 - [jenkinsci/firefox-extension-buildmonitor](https://github.com/jenkinsci/firefox-extension-buildmonitor) - Jenkins Firefox Add-on BuildMonitor
