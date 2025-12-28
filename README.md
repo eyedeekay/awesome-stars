@@ -1999,7 +1999,7 @@
 - [EffectiveAF/effective](https://github.com/EffectiveAF/effective) - Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [
 - [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
 - [eyedeekay/I2P-in-Private-Browsing-Mode-Firefox](https://github.com/eyedeekay/I2P-in-Private-Browsing-Mode-Firefox) - I2P in Private Browsing mode for Firefox, built using Webextensions and Contextual Identities
-- [zleman1593/Aktie](https://github.com/zleman1593/Aktie) - A DDP-based Peer-to-Peer File Sharing System
+- [zackleman/Aktie](https://github.com/zackleman/Aktie) - A DDP-based Peer-to-Peer File Sharing System
 - [jenkinsci/firefox-extension-buildmonitor](https://github.com/jenkinsci/firefox-extension-buildmonitor) - Jenkins Firefox Add-on BuildMonitor
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [jpillora/xdomain](https://github.com/jpillora/xdomain) - A pure JavaScript CORS alternative
