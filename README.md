@@ -2255,6 +2255,7 @@
 
 ## Others 
 
+- [go-i2p/go-i2p-ccc-presentation-2025](https://github.com/go-i2p/go-i2p-ccc-presentation-2025) - CCC Workshop Intro Slides
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
