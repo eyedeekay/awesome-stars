@@ -2692,6 +2692,7 @@
 
 ## others 
 
+- [go-i2p/go-i2p-ccc-presentation-2025](https://github.com/go-i2p/go-i2p-ccc-presentation-2025) - CCC Workshop Intro Slides
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 - [KilianSen/go-wsb](https://github.com/KilianSen/go-wsb) - Windows Sandbox Configuration Wrapper in GoLang
@@ -5274,7 +5275,6 @@
 - [JNRowe/surfraw](https://github.com/JNRowe/surfraw) - Mirror of the upstream git repository
 - [gngrOrg/gngr](https://github.com/gngrOrg/gngr) - a cross-platform browser focussed on privacy.
 - [craciuncezar/browser-cryptominer](https://github.com/craciuncezar/browser-cryptominer) - 🪙 Web crypto miner client implemented using wasm and web workers. Use the CPU of the website visitors to mine monero.
-- [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
