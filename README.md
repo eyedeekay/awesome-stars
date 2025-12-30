@@ -129,6 +129,7 @@
 
 ## C 
 
+- [swfans/syndwarsfx](https://github.com/swfans/syndwarsfx) - Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game
 - [wayback-x11/wayback](https://github.com/wayback-x11/wayback) - experimental X11 compatibility layer
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
@@ -576,7 +577,7 @@
 - [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [go-i2p/go-rst](https://github.com/go-i2p/go-rst) - A Go library for parsing and rendering reStructuredText (RST) documents with translation support. Supports only a subset of restructuredText for now, but relatively easy to expand compared to other at
-- [go-i2p/go-i2p](https://github.com/go-i2p/go-i2p) - Go implementation of the I2P Router protocol(WIP)
+- [go-i2p/go-i2p](https://github.com/go-i2p/go-i2p) - Go implementation of the I2P Router protocol. Usable with NTCP2, I2CP, and I2PControl
 - [matrix-org/go-neb](https://github.com/matrix-org/go-neb) - Extensible matrix bot written in Go
 - [Jorropo/go-libp2p-i2p-transport](https://github.com/Jorropo/go-libp2p-i2p-transport) - Experimental I2P transport for libp2p.
 - [spearson78/gitnostr](https://github.com/spearson78/gitnostr) - Git integration for Nostr that supports creation and cloning of repositories and managing permissions of to access the repositorie
@@ -1562,6 +1563,7 @@
 - [sycamoreone/orc](https://github.com/sycamoreone/orc) - orc - Onion router control protocol library.
 - [Yawning/bulb](https://github.com/Yawning/bulb) - bulb is not stem
 - [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [gen2brain/crtaci](https://github.com/gen2brain/crtaci) - "Crtaći" searches YouTube, DailyMotion and Vimeo for good old cartoons
 - [envsh/go-toxcore](https://github.com/envsh/go-toxcore) - The go-toxcore-c raw binding's extended  wrappers for easy use.  WIP partly mintox core in pure golang. Experimental toxcore internals.
 - [mirrorx/tox](https://github.com/mirrorx/tox) - Go Bindings to libtoxcore
@@ -2571,7 +2573,6 @@
 - [HelloZeroNet/ZeroNet-kivy](https://github.com/HelloZeroNet/ZeroNet-kivy) - Android client for ZeroNet
 - [meejah/txtorcon](https://github.com/meejah/txtorcon) - Twisted-based asynchronous Tor control protocol implementation. Includes unit-tests, examples, state-tracking code and configuration abstraction.
 - [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
@@ -2692,6 +2693,8 @@
 
 ## Rust 
 
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
+- [DocJade/fluster_rs](https://github.com/DocJade/fluster_rs) - A futuristic filesystem that's stuck in the past.
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 - [babycommando/torify-windows](https://github.com/babycommando/torify-windows) - Torify For The Windows Terminal - A rust wrapper to "torify" any command line tool on Windows.
 - [mmalmi/gun-rs-wasm](https://github.com/mmalmi/gun-rs-wasm) - Gun port in rust & wasm
