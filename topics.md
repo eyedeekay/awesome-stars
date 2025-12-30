@@ -1121,6 +1121,7 @@
 
 ## game 
 
+- [swfans/syndwarsfx](https://github.com/swfans/syndwarsfx) - Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
@@ -2665,6 +2666,7 @@
 
 ## operating-system 
 
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [Alex313031/ThoriumOS](https://github.com/Alex313031/ThoriumOS) - ChromiumOS fork with Thorium Browser, x264/x265 codecs, Widevine, Kernel 5.15, Linux firmware/modules support, Nouveau, Intel microcode, and extra packages.
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
@@ -2755,7 +2757,7 @@
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [go-i2p/go-rst](https://github.com/go-i2p/go-rst) - A Go library for parsing and rendering reStructuredText (RST) documents with translation support. Supports only a subset of restructuredText for now, but relatively easy to expand compared to other at
 - [CodingTrain/Oregon-Trail](https://github.com/CodingTrain/Oregon-Trail) - A p5.js version of the Apple ][ Oregon Trail Game
-- [go-i2p/go-i2p](https://github.com/go-i2p/go-i2p) - Go implementation of the I2P Router protocol(WIP)
+- [go-i2p/go-i2p](https://github.com/go-i2p/go-i2p) - Go implementation of the I2P Router protocol. Usable with NTCP2, I2CP, and I2PControl
 - [linuxserver/emulatorjs](https://github.com/linuxserver/emulatorjs) - Self hosted web based retro emulation front end with rom and art management.
 - [matrix-org/go-neb](https://github.com/matrix-org/go-neb) - Extensible matrix bot written in Go
 - [Jorropo/go-libp2p-i2p-transport](https://github.com/Jorropo/go-libp2p-i2p-transport) - Experimental I2P transport for libp2p.
@@ -4744,6 +4746,8 @@
 
 ## rust 
 
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
+- [DocJade/fluster_rs](https://github.com/DocJade/fluster_rs) - A futuristic filesystem that's stuck in the past.
 - [altonen/emissary](https://github.com/altonen/emissary) - Rust implementation of the I2P protocol stack
 - [altonen/yosemite](https://github.com/altonen/yosemite) - Asynchronous SAMv3 library
 - [kn0sys/j4-i2p-rs](https://github.com/kn0sys/j4-i2p-rs) - Java for I2P Rust wrapper
