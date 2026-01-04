@@ -137,6 +137,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -2505,6 +2506,10 @@
 - [McKael/madon](https://github.com/McKael/madon) - Golang Mastodon API library
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [McKael/madonctl](https://github.com/McKael/madonctl) - CLI client for the Mastodon social network API
+
+## mcp 
+
+- [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 
 ## microservices 
 
