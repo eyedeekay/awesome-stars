@@ -1930,7 +1930,7 @@
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [TeamWizardry/Wizardry](https://github.com/TeamWizardry/Wizardry) - Delve into spell creation and become a wizard
 - [Angry-Pixel/The-Betweenlands](https://github.com/Angry-Pixel/The-Betweenlands) - A dark, hostile environment...
-- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/16/generate_metadata.py for the server metadata generation tool.
+- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/16-qpr2/generate-metadata for the server metadata generation tool.
 - [harikris/android-forensics](https://github.com/harikris/android-forensics) - Open source Android Forensics app and framework
 - [sokratis12GR/ArmorPlus](https://github.com/sokratis12GR/ArmorPlus) - ArmorPlus is a mod based on exploration, killing, building, getting geared up, fight the bosses and explore the depths of your worlds.
 - [TechReborn/TechReborn](https://github.com/TechReborn/TechReborn) - Tech Reborn is a completely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod. https://www.curseforge.com/minecraft/mc-mods/techrebo
