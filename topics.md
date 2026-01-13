@@ -231,6 +231,7 @@
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [userscript](#userscript)
+- [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
 - [vpn](#vpn)
@@ -399,7 +400,7 @@
 - [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
-- [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
+- [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [Escapingbug/awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
@@ -418,7 +419,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [PayDevs/awesome-oss-monetization](https://github.com/PayDevs/awesome-oss-monetization) - 🏆 A curated list of monetization approaches for open-source software. Feedback welcome!
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
-- [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
+- [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
@@ -2479,7 +2480,7 @@
 - [writeas/writeas-cli](https://github.com/writeas/writeas-cli) - Command line client for Write.as / WriteFreely
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [go-darwin/hdiutil](https://github.com/go-darwin/hdiutil) - Package hdiutil implements a macOS hdiutil command wrapper.
-- [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
+- [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
@@ -3787,7 +3788,6 @@
 - [milo2012/osintstalker](https://github.com/milo2012/osintstalker) - osintstalker
 - [IWriteThings/pyalienfx](https://github.com/IWriteThings/pyalienfx) - a slightly updated fork of https://code.google.com/p/pyalienfx
 - [mariusor/brutalinks](https://github.com/mariusor/brutalinks) - Link aggregator inspired by (old)reddit using ActivityPub federation. (mirror repository)
-- [djwackey/dorsvr](https://github.com/djwackey/dorsvr) - Go RTSP Streaming Server
 - [s-rah/onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [libp2p/go-tcp-transport](https://github.com/libp2p/go-tcp-transport) - An implementation of a libp2p transport using tcp
 - [uradotdesign/works](https://github.com/uradotdesign/works) - The repo containing the assets for every project designed by Ura
@@ -4698,7 +4698,7 @@
 - [deranjer/goTorrent](https://github.com/deranjer/goTorrent) - goTorrent is a torrenting server built with Go (Golang) with websocket API that comes with a React web frontend.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [speks7/nazar](https://github.com/speks7/nazar) - Electronic component detection, identification and recognition system in realtime from camera image using react-native and tensorflow for classification along with Clarifai API with option to search t
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
 ## react-native 
@@ -5235,6 +5235,23 @@
 ## userscript 
 
 - [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff) - Firefox info, addons, extensions, themes, customisation and stuff
+
+## video 
+
+- [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralize, Self-host Cloud Gaming/Application
+- [emad-elsaid/inbox](https://github.com/emad-elsaid/inbox) - 📮 WebRTC fast signaling HTTP server
+- [WinPooh32/peerstohttp](https://github.com/WinPooh32/peerstohttp) - Simple torrent proxy to http stream controlled over REST-like api
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+- [pion/rtp](https://github.com/pion/rtp) - A Go implementation of RTP
+- [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+- [djwackey/dorsvr](https://github.com/djwackey/dorsvr) - Go RTSP Streaming Server
+- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
+- [YunoHost-Apps/peertube_ynh](https://github.com/YunoHost-Apps/peertube_ynh) - Federated (ActivityPub) video streaming platform using P2P for YunoHost
+- [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+- [voc/voctoweb](https://github.com/voc/voctoweb) - voctoweb – the frontend and backend software behind media.ccc.de
 
 ## vim 
 
