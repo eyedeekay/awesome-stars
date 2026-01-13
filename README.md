@@ -2328,7 +2328,7 @@
 - [jm496d/wifi_drivebys](https://github.com/jm496d/wifi_drivebys) - Flagging potential drivebys from McDonalds and Walmart wifi sessions
 - [WebOfTrustInfo/verifiable-news](https://github.com/WebOfTrustInfo/verifiable-news) - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
-- [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
+- [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [nelsonic/learn-cookies](https://github.com/nelsonic/learn-cookies) - Learn the Why, What & How of Cookies in web apps/sites.
 - [LV-Crew/Hidden-Service-Notes](https://github.com/LV-Crew/Hidden-Service-Notes) - Some Hidden Service Notes
@@ -3021,7 +3021,7 @@
 - [streamr-dev/streamr-client-javascript](https://github.com/streamr-dev/streamr-client-javascript) - JS library for interacting with Streamr APIs: publishing and subscribing to data, creating streams, etc.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 
