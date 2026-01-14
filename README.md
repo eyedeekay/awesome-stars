@@ -982,6 +982,7 @@
 - [celrenheit/sandflake](https://github.com/celrenheit/sandflake) - Decentralized, sequential, lexicographically sortable unique id
 - [txthinking/nami](https://github.com/txthinking/nami) - A clean and tidy decentralized package manager.
 - [xiam/shooter-server](https://github.com/xiam/shooter-server) - shooter.io is a network based multiplayer space shooter game.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [anaseto/harmonist](https://github.com/anaseto/harmonist) - Harmonist: Dayoriah Clan Infiltration is a stealth roguelike game.
 - [anaseto/boohu](https://github.com/anaseto/boohu) - Break Out Of Hareka's Underground, a roguelike game.
 - [RookieGameDevs/surviveler](https://github.com/RookieGameDevs/surviveler) - RPG survival game in which ordinary developers struggle for they lives in most idiotic ways.
@@ -2993,7 +2994,6 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [OutlineFoundation/outline-server](https://github.com/OutlineFoundation/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
