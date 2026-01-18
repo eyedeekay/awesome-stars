@@ -2329,7 +2329,7 @@
 - [jm496d/wifi_drivebys](https://github.com/jm496d/wifi_drivebys) - Flagging potential drivebys from McDonalds and Walmart wifi sessions
 - [WebOfTrustInfo/verifiable-news](https://github.com/WebOfTrustInfo/verifiable-news) - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
-- [learn-anything/macos-apps](https://github.com/learn-anything/macos-apps) - Awesome macOS apps
+- [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [nelsonic/learn-cookies](https://github.com/nelsonic/learn-cookies) - Learn the Why, What & How of Cookies in web apps/sites.
 - [LV-Crew/Hidden-Service-Notes](https://github.com/LV-Crew/Hidden-Service-Notes) - Some Hidden Service Notes
@@ -2539,7 +2539,6 @@
 - [zielmicha/fc00.org](https://github.com/zielmicha/fc00.org) - Hyperboria (CJDNS network) map
 - [cujanovic/Content-Bruteforcing-Wordlist](https://github.com/cujanovic/Content-Bruteforcing-Wordlist) - Wordlist for content(directory) bruteforce discovering with Burp or dirsearch
 - [carnal0wnage/python_lnk_maker](https://github.com/carnal0wnage/python_lnk_maker) - Make Windows LNK file with python (pylnk)
-- [vespene-io/_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
 - [mandiant/PwnAuth](https://github.com/mandiant/PwnAuth) - 
 - [welchbj/bscan](https://github.com/welchbj/bscan) - an asynchronous target enumeration tool
 - [D4Vinci/PasteJacker](https://github.com/D4Vinci/PasteJacker) - Hacking systems with the automation of PasteJacking attacks.
@@ -3021,7 +3020,7 @@
 - [streamr-dev/streamr-client-javascript](https://github.com/streamr-dev/streamr-client-javascript) - JS library for interacting with Streamr APIs: publishing and subscribing to data, creating streams, etc.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 
