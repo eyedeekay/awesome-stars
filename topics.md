@@ -2967,7 +2967,6 @@
 - [kasworld/goguelike](https://github.com/kasworld/goguelike) - MMO roguelike game
 - [mfnbc/dgl-nethack](https://github.com/mfnbc/dgl-nethack) - Nethack Server for classic 3.4 and most recent 3.6 using DGameLaunch
 - [Ombarus/SolarRogue](https://github.com/Ombarus/SolarRogue) - Nethack in Space
-- [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 - [hyphanet/website](https://github.com/hyphanet/website) - Hyphanet static website generator
 - [yuva670/ipfs-go-client](https://github.com/yuva670/ipfs-go-client) - This is a simple client for IPFS - add and receive files to/from ipfs
 - [oshow/go-sample-qr-server](https://github.com/oshow/go-sample-qr-server) - go sample program: a server that translates from string to QR code
@@ -4085,7 +4084,7 @@
 - [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
 - [zenhotels/astranet](https://github.com/zenhotels/astranet) - A Go (golang) library for managing highly concurrent independent network streams.
 - [egphilippov1/libi2pdhtcpp](https://github.com/egphilippov1/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
 - [ptresearch/mmdetect](https://github.com/ptresearch/mmdetect) - Intel ME Manufacturing Mode Detection Tools
 - [Netflix/signal-wrapper](https://github.com/Netflix/signal-wrapper) - 
 - [chertov/camopenwrt_docker](https://github.com/chertov/camopenwrt_docker) - 
