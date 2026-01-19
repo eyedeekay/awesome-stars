@@ -2476,7 +2476,6 @@
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [mozilla-services/sign-xpi](https://github.com/mozilla-services/sign-xpi) - INACTIVE - An AWS Lambda to sign an XPI
 - [nmaier/xpisign.py](https://github.com/nmaier/xpisign.py) - XP-Install (xpi) code signing.
-- [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 - [root4031/zipcrack](https://github.com/root4031/zipcrack) - An Advanced Tool to Crack Any Password Protected ZIP File With different Techniques. A very Beginner Friendly Script For Newbies.
 - [mozilla/addons-server](https://github.com/mozilla/addons-server) - 🕶 addons.mozilla.org Django app and API 🎉
 - [csilvers/i18nize_templates](https://github.com/csilvers/i18nize_templates) - A tool to automatically add i18n markup to jinja2 and handlebars templates.
@@ -3020,7 +3019,7 @@
 - [streamr-dev/streamr-client-javascript](https://github.com/streamr-dev/streamr-client-javascript) - JS library for interacting with Streamr APIs: publishing and subscribing to data, creating streams, etc.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 
