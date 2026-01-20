@@ -1055,7 +1055,7 @@
 - [noamdb/modernboard](https://github.com/noamdb/modernboard) - Modern Image Board
 - [robdelacruz/newsboard](https://github.com/robdelacruz/newsboard) - newsboard - a bulletin board and bookmark sharing site (inspired by HackerNews)
 - [limetext/lime-html](https://github.com/limetext/lime-html) - 
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [gravitational/wormhole](https://github.com/gravitational/wormhole) - Wireguard based overlay network CNI plugin for kubernetes
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
