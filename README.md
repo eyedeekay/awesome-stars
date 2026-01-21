@@ -2739,7 +2739,7 @@
 - [werkshy/pickup](https://github.com/werkshy/pickup) - MPD Web Client in Go
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [iCepa/tun2tor](https://github.com/iCepa/tun2tor) - A rust library to provide a virtual utun interface to Tor
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [maidsafe-archive/crust](https://github.com/maidsafe-archive/crust) - Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects
 - [tdryer/hangups-rs](https://github.com/tdryer/hangups-rs) - Google Hangouts client library for any language (prototype)
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
