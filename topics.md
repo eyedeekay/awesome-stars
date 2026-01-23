@@ -459,7 +459,6 @@
 - [zMarch/Orc](https://github.com/zMarch/Orc) - Orc is a post-exploitation framework for Linux written in Bash
 - [bkuhlmann/bashsmith](https://github.com/bkuhlmann/bashsmith) - A template for smithing Bash scripts.
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [simonecorsi/termly.js](https://github.com/simonecorsi/termly.js) - Simple, Extensible, Hackable and Lightweight Javascript Browser Terminal Simulator!
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [T-vK/GPU-pass-through-compatibility-check](https://github.com/T-vK/GPU-pass-through-compatibility-check) - Automatically set up a Linux system for PCI pass-through and check if it is compatible
@@ -661,7 +660,6 @@
 - [bavadim/telegramutils](https://github.com/bavadim/telegramutils) - Use a telegram messenger in the console!
 - [RTradeLtd/cmd](https://github.com/RTradeLtd/cmd) - 🐢 package cmd provides a microframework for building CLI tools integrated with Temporal configuration
 - [BharatKalluri/spotifydl](https://github.com/BharatKalluri/spotifydl) - Download music from Spotify with complete album art and metadata
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [Hoverth/fdroidcl](https://github.com/Hoverth/fdroidcl) - A command-line F-Droid desktop client
@@ -704,7 +702,6 @@
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [michaelmacinnis/oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [BharatKalluri/spotifydl](https://github.com/BharatKalluri/spotifydl) - Download music from Spotify with complete album art and metadata
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 
@@ -2479,7 +2476,6 @@
 - [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
@@ -4608,7 +4604,6 @@
 - [akamai-threat-research/mqtt-pwn](https://github.com/akamai-threat-research/mqtt-pwn) - MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations.
 - [lamthuyvo/social-media-data-scripts](https://github.com/lamthuyvo/social-media-data-scripts) - 
 - [ScriptSmith/socialreaper](https://github.com/ScriptSmith/socialreaper) - Social media scraping / data collection library for Facebook, Twitter, Reddit, YouTube, Pinterest, and Tumblr APIs
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos) - Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is
 - [nccgroup/redsnarf](https://github.com/nccgroup/redsnarf) - RedSnarf is a pen-testing / red-teaming tool for Windows environments
 - [HelloZeroNet/ZeroNet-kivy](https://github.com/HelloZeroNet/ZeroNet-kivy) - Android client for ZeroNet
@@ -5026,7 +5021,6 @@
 - [michaelmacinnis/oh](https://github.com/michaelmacinnis/oh) - A new Unix shell.
 - [madlambda/nash](https://github.com/madlambda/nash) - Nash stands for Nash shell.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [simonecorsi/termly.js](https://github.com/simonecorsi/termly.js) - Simple, Extensible, Hackable and Lightweight Javascript Browser Terminal Simulator!
 - [mesalock-linux/mesabox](https://github.com/mesalock-linux/mesabox) - A collection of core system utilities written in Rust for Unix-like systems (and now Windows)
 
@@ -5409,7 +5403,6 @@
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) - 40K, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 
 
