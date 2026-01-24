@@ -2328,7 +2328,7 @@
 - [EinMByte/salti](https://github.com/EinMByte/salti) - ∫alti is a Firefox extension for I2P.
 - [jm496d/wifi_drivebys](https://github.com/jm496d/wifi_drivebys) - Flagging potential drivebys from McDonalds and Walmart wifi sessions
 - [WebOfTrustInfo/verifiable-news](https://github.com/WebOfTrustInfo/verifiable-news) - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
-- [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
+- [jqlang/awesome-jq](https://github.com/jqlang/awesome-jq) - A curated list of awesome jq tools and resources.
 - [linsa-io/macos-apps](https://github.com/linsa-io/macos-apps) - Awesome macOS apps
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [nelsonic/learn-cookies](https://github.com/nelsonic/learn-cookies) - Learn the Why, What & How of Cookies in web apps/sites.
