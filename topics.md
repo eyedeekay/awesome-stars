@@ -135,6 +135,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [mcp](#mcp)
@@ -2483,6 +2484,23 @@
 - [miximka/I2PMonitor](https://github.com/miximka/I2PMonitor) - I2P monitor and control application for Mac OS X
 - [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, ChromeOS, and Windows
 
+## malware 
+
+- [redcode-labs/neurax](https://github.com/redcode-labs/neurax) - A framework for constructing self-spreading binaries
+- [redcode-labs/Coldfire](https://github.com/redcode-labs/Coldfire) - Golang malware development library
+- [omaidf/go-malware](https://github.com/omaidf/go-malware) - Golang Virus Examples
+- [saferwall/saferwall](https://github.com/saferwall/saferwall) - :cloud: Collaborative Malware Analysis Platform at Scale
+- [SaturnsVoid/GoBot2](https://github.com/SaturnsVoid/GoBot2) - Second Version of The GoBot Botnet, But more advanced.
+- [petercunha/GoAT](https://github.com/petercunha/GoAT) - :goat: GoAT (Golang Advanced Trojan) is a trojan that uses Twitter as a C&C server
+- [soufianetahiri/Vault-8-Hive](https://github.com/soufianetahiri/Vault-8-Hive) - Hive solves a critical problem for the malware operators at the CIA.
+- [maestron/botnets](https://github.com/maestron/botnets) - This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
+- [CheckPointSW/InviZzzible](https://github.com/CheckPointSW/InviZzzible) - InviZzzible is a tool for assessment of your virtual environments in an easy and reliable way. It contains the most recent and up to date detection and evasion techniques as well as fixes for them.
+- [Cr4sh/SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor) - First open source and publicly available System Management Mode backdoor for UEFI based platforms. Good as general purpose playground for various SMM experiments.
+- [Cr4sh/PeiBackdoor](https://github.com/Cr4sh/PeiBackdoor) - PEI stage backdoor for UEFI compatible firmware
+- [nopn0p/rkorova](https://github.com/nopn0p/rkorova) - ld_preload userland rootkit
+- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
+- [google/safebrowsing](https://github.com/google/safebrowsing) - Safe Browsing API Go Client
+
 ## markdown 
 
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
@@ -3070,7 +3088,6 @@
 - [Yawning/onionwrap](https://github.com/Yawning/onionwrap) - Delicious Onion Service Wraps.
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [Binject/go-donut](https://github.com/Binject/go-donut) - Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut
-- [omaidf/go-malware](https://github.com/omaidf/go-malware) - Golang Virus Examples
 - [bonedaddy/awesome-crypto-trackers](https://github.com/bonedaddy/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards.
 - [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown
 - [geohot/qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
@@ -3802,7 +3819,6 @@
 - [G1itchZero/ZeroGo](https://github.com/G1itchZero/ZeroGo) - ZeroNet go implementation
 - [remi/teamocil](https://github.com/remi/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
 - [sethsec/celerystalk](https://github.com/sethsec/celerystalk) - An asynchronous enumeration & vulnerability scanner. Run all the tools on all the hosts.
-- [soufianetahiri/Vault-8-Hive](https://github.com/soufianetahiri/Vault-8-Hive) - Hive solves a critical problem for the malware operators at the CIA.
 - [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
 - [stealth/qdns](https://github.com/stealth/qdns) - QUANTUM-DNS server
 - [stealth/dropsview](https://github.com/stealth/dropsview) - Fancy ncurses frontend for opmsg + drops
@@ -3934,7 +3950,6 @@
 - [TheCreeper/minissh](https://github.com/TheCreeper/minissh) - A small and portable SSH server written in Go.
 - [Matir/sshdog](https://github.com/Matir/sshdog) - Small portable SSH server in Go.
 - [mm304321141/zzz_lib](https://github.com/mm304321141/zzz_lib) - zzz's c++ lib
-- [CheckPointSW/InviZzzible](https://github.com/CheckPointSW/InviZzzible) - InviZzzible is a tool for assessment of your virtual environments in an easy and reliable way. It contains the most recent and up to date detection and evasion techniques as well as fixes for them.
 - [defaultnamehere/zzzzz](https://github.com/defaultnamehere/zzzzz) - Roleplay as the NSA by making creepy graphs of your friends
 - [TheGoddessInari/hamsket](https://github.com/TheGoddessInari/hamsket) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
@@ -3960,8 +3975,6 @@
 - [pentestmonkey/timing-attack-checker](https://github.com/pentestmonkey/timing-attack-checker) - Tool to help identify timing attacks
 - [katzenpost/mixnet_uprising](https://github.com/katzenpost/mixnet_uprising) - repository for tracking open tasks
 - [Cr4sh/ThinkPwn](https://github.com/Cr4sh/ThinkPwn) - Started as arbitrary System Management Mode code execution exploit for Lenovo ThinkPad model line, ended as exploit for industry-wide 0day vulnerability in machines of many vendors
-- [Cr4sh/SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor) - First open source and publicly available System Management Mode backdoor for UEFI based platforms. Good as general purpose playground for various SMM experiments.
-- [Cr4sh/PeiBackdoor](https://github.com/Cr4sh/PeiBackdoor) - PEI stage backdoor for UEFI compatible firmware
 - [leapcode/leap_mx](https://github.com/leapcode/leap_mx) - The LEAP encrypting remailer
 - [nmathewson/mixminion](https://github.com/nmathewson/mixminion) - mixminion is the main implementation of the Type III ("Mixminion") remailer protocol.
 - [bitexploder/timmy](https://github.com/bitexploder/timmy) - Tiny evIl Man in the Middle - Timmy
