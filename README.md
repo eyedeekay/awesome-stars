@@ -408,7 +408,7 @@
 - [wheybags/freeablo](https://github.com/wheybags/freeablo) - [ARCHIVED] Modern reimplementation of the Diablo 1 game engine
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
-- [egphilippov1/libi2pdhtcpp](https://github.com/egphilippov1/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
+- [hypnosis-i2p/libi2pdhtcpp](https://github.com/hypnosis-i2p/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - Onion Monero Blockchain Explorer
@@ -419,7 +419,7 @@
 - [borned-mind/SAMSimplyLib](https://github.com/borned-mind/SAMSimplyLib) - 
 - [majestrate/i2pd](https://github.com/majestrate/i2pd) - i2p router for Linux written on C++
 - [majestrate/i2pcpp](https://github.com/majestrate/i2pcpp) - i2p c++ implementation
-- [egphilippov1/i2pchat](https://github.com/egphilippov1/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [hypnosis-i2p/i2pchat](https://github.com/hypnosis-i2p/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [monero-project/kovri](https://github.com/monero-project/kovri) - The Kovri I2P Router Project
 - [PurpleI2P/i2pd-tools](https://github.com/PurpleI2P/i2pd-tools) - Some useful tools for I2P
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
