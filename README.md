@@ -1085,7 +1085,7 @@
 - [isislovecruft/xocolatl](https://github.com/isislovecruft/xocolatl) - ♥ ♥ ♥ Trevor's & Moxie's Axolotl Ratchet + AGL's xmpp-client ♥ ♥ ♥
 - [diamondburned/gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
-- [deepsecurity-pe/GoGhost](https://github.com/deepsecurity-pe/GoGhost) - High Performance, lightweight, portable Open Source tool for mass SMBGhost Scan
+- [DeepSecurity-Pe/GoGhost](https://github.com/DeepSecurity-Pe/GoGhost) - High Performance, lightweight, portable Open Source tool for mass SMBGhost Scan
 - [google/safehtml](https://github.com/google/safehtml) - Safe HTML for Go
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang)
 - [criyle/go-sandbox](https://github.com/criyle/go-sandbox) - Sandbox implemented in GO including containers (namespace, cgroup), ptrace, seccomp
