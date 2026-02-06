@@ -3212,7 +3212,7 @@
 - [majestrate/waveguide](https://github.com/majestrate/waveguide) - federated youtube alt using webtorrent and acitvitypub
 - [rakoo/goax](https://github.com/rakoo/goax) - A pure-go implementation of the Axolotl Ratchet, extracted from pond
 - [isislovecruft/xocolatl](https://github.com/isislovecruft/xocolatl) - ♥ ♥ ♥ Trevor's & Moxie's Axolotl Ratchet + AGL's xmpp-client ♥ ♥ ♥
-- [deepsecurity-pe/GoGhost](https://github.com/deepsecurity-pe/GoGhost) - High Performance, lightweight, portable Open Source tool for mass SMBGhost Scan
+- [DeepSecurity-Pe/GoGhost](https://github.com/DeepSecurity-Pe/GoGhost) - High Performance, lightweight, portable Open Source tool for mass SMBGhost Scan
 - [quartzjer/TeleHash](https://github.com/quartzjer/TeleHash) - Old v1 repo, please see http://github.org/telehash now.
 - [welterde/TeleHash](https://github.com/welterde/TeleHash) - A Kademlia-based DHT and JSON protocol for application meshing and eventing
 - [google/safehtml](https://github.com/google/safehtml) - Safe HTML for Go
