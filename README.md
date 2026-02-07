@@ -71,7 +71,6 @@
 - [Standard ML](#standard-ml)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -1155,7 +1154,6 @@
 - [wybiral/tshare](https://github.com/wybiral/tshare) - Golang implementation of (2,3) XOR threshold secret sharing.
 - [nobonobo/gomdslides](https://github.com/nobonobo/gomdslides) - presantation tool write in go
 - [libp2p/go-libp2p-kbucket](https://github.com/libp2p/go-libp2p-kbucket) - A kbucket implementation for use as a routing table
-- [saferwall/saferwall](https://github.com/saferwall/saferwall) - :cloud: Collaborative Malware Analysis Platform at Scale
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [xeals/signal-back](https://github.com/xeals/signal-back) - Decrypt Signal encrypted backups outside the app
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees
@@ -2616,6 +2614,7 @@
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
 - [whoozle/kesha-was-bird](https://github.com/whoozle/kesha-was-bird) - Kesha Was Bird ­— surreal CHIP8 saga about Kesha and his uneasy relationship with outer world
+- [skydrome/random](https://github.com/skydrome/random) - just a bunch of random shit
 - [majestrate/i2p.socket](https://github.com/majestrate/i2p.socket) - drop in python socket module that uses i2p
 - [str4d/txi2p](https://github.com/str4d/txi2p) - I2P bindings for Twisted.
 - [torbjo/i2p-reseeder](https://github.com/torbjo/i2p-reseeder) - I2P Reseeder written in Python (WSGI)
@@ -2973,10 +2972,6 @@
 ## Swift 
 
 - [shrtlist/MCSessionP2P](https://github.com/shrtlist/MCSessionP2P) - Ad-hoc peer-to-peer networking with MCSession
-
-## Tcl 
-
-- [skydrome/random](https://github.com/skydrome/random) - just a bunch of random shit
 
 ## TeX 
 
