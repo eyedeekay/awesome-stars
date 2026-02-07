@@ -2489,7 +2489,6 @@
 - [redcode-labs/neurax](https://github.com/redcode-labs/neurax) - A framework for constructing self-spreading binaries
 - [redcode-labs/Coldfire](https://github.com/redcode-labs/Coldfire) - Golang malware development library
 - [omaidf/go-malware](https://github.com/omaidf/go-malware) - Golang Virus Examples
-- [saferwall/saferwall](https://github.com/saferwall/saferwall) - :cloud: Collaborative Malware Analysis Platform at Scale
 - [SaturnsVoid/GoBot2](https://github.com/SaturnsVoid/GoBot2) - Second Version of The GoBot Botnet, But more advanced.
 - [petercunha/GoAT](https://github.com/petercunha/GoAT) - :goat: GoAT (Golang Advanced Trojan) is a trojan that uses Twitter as a C&C server
 - [soufianetahiri/Vault-8-Hive](https://github.com/soufianetahiri/Vault-8-Hive) - Hive solves a critical problem for the malware operators at the CIA.
@@ -4949,7 +4948,6 @@
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code
 - [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [saferwall/saferwall](https://github.com/saferwall/saferwall) - :cloud: Collaborative Malware Analysis Platform at Scale
 - [HouariZegai/SpyGen](https://github.com/HouariZegai/SpyGen) - Trojan :snake: (keylogger, take screenshots, open your webcam) :unlock:
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
