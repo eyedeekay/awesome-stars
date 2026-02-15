@@ -782,7 +782,7 @@
 
 ## cryptography 
 
-- [altonen/emissary](https://github.com/altonen/emissary) - Rust implementation of the I2P protocol stack
+- [eepnet/emissary](https://github.com/eepnet/emissary) - Rust implementation of the I2P protocol stack
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [Peergos/Peergos](https://github.com/Peergos/Peergos) - A p2p, secure file storage, social network and application protocol
 - [depado/goploader](https://github.com/depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant
@@ -4762,8 +4762,8 @@
 
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
 - [DocJade/fluster_rs](https://github.com/DocJade/fluster_rs) - A futuristic filesystem that's stuck in the past.
-- [altonen/emissary](https://github.com/altonen/emissary) - Rust implementation of the I2P protocol stack
-- [altonen/yosemite](https://github.com/altonen/yosemite) - Asynchronous SAMv3 library
+- [eepnet/emissary](https://github.com/eepnet/emissary) - Rust implementation of the I2P protocol stack
+- [eepnet/yosemite](https://github.com/eepnet/yosemite) - Asynchronous SAMv3 library
 - [kn0sys/j4-i2p-rs](https://github.com/kn0sys/j4-i2p-rs) - Java for I2P Rust wrapper
 - [creating2morrow/neveko](https://github.com/creating2morrow/neveko) - full-stack privacy application with enciphered messaging, monero multisig and built-in i2p marketplace
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
