@@ -1567,7 +1567,6 @@
 - [sycamoreone/orc](https://github.com/sycamoreone/orc) - orc - Onion router control protocol library.
 - [Yawning/bulb](https://github.com/Yawning/bulb) - bulb is not stem
 - [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [gen2brain/crtaci](https://github.com/gen2brain/crtaci) - "Crtaći" searches YouTube, DailyMotion and Vimeo for good old cartoons
 - [envsh/go-toxcore](https://github.com/envsh/go-toxcore) - The go-toxcore-c raw binding's extended  wrappers for easy use.  WIP partly mintox core in pure golang. Experimental toxcore internals.
 - [mirrorx/tox](https://github.com/mirrorx/tox) - Go Bindings to libtoxcore
@@ -2573,6 +2572,7 @@
 - [HelloZeroNet/ZeroNet-kivy](https://github.com/HelloZeroNet/ZeroNet-kivy) - Android client for ZeroNet
 - [meejah/txtorcon](https://github.com/meejah/txtorcon) - Twisted-based asynchronous Tor control protocol implementation. Includes unit-tests, examples, state-tracking code and configuration abstraction.
 - [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
@@ -2698,9 +2698,9 @@
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 - [babycommando/torify-windows](https://github.com/babycommando/torify-windows) - Torify For The Windows Terminal - A rust wrapper to "torify" any command line tool on Windows.
 - [mmalmi/gun-rs-wasm](https://github.com/mmalmi/gun-rs-wasm) - Gun port in rust & wasm
-- [altonen/emissary](https://github.com/altonen/emissary) - Rust implementation of the I2P protocol stack
+- [eepnet/emissary](https://github.com/eepnet/emissary) - Rust implementation of the I2P protocol stack
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
-- [altonen/yosemite](https://github.com/altonen/yosemite) - Asynchronous SAMv3 library
+- [eepnet/yosemite](https://github.com/eepnet/yosemite) - Asynchronous SAMv3 library
 - [albe-rosado/i2pd-sys](https://github.com/albe-rosado/i2pd-sys) - Rust bindings for i2pd
 - [bddap/i2pcat](https://github.com/bddap/i2pcat) - send or receive a byte stream over i2p
 - [mikalv/rust-i2p](https://github.com/mikalv/rust-i2p) - Rust implementation of i2p protocol.
