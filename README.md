@@ -263,7 +263,7 @@
 - [TokTok/cyclone](https://github.com/TokTok/cyclone) - Cyclone is a safe dialect of C.
 - [valentinbreiz/PS4-Linux-Loader](https://github.com/valentinbreiz/PS4-Linux-Loader) - PS4 Linux Loader: A simple payload that let you run Linux on your 4.05 / 4.55 / 5.01 / 5.05 PS4
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
-- [owntone/owntone-server](https://github.com/owntone/owntone-server) - Linux/FreeBSD DAAP (iTunes) and MPD audio server with support for AirPlay 1 and 2 speakers (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+- [owntone/owntone-server](https://github.com/owntone/owntone-server) - Audio server that can play to AirPlay 1+2 speakers (multiroom), Chromecast and locally. Supports Spotify, internet radio and many file formats. Also MPD server, iTunes DAAP, smart playlists, Apple Rem
 - [nurupo/rootkit](https://github.com/nurupo/rootkit) - Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64
 - [yuq/linux-lima](https://github.com/yuq/linux-lima) - Deprecated, new place: https://gitlab.freedesktop.org/lima
 - [benwaffle/android_kernel_amazon_ford](https://github.com/benwaffle/android_kernel_amazon_ford) - Kindle Fire 5th gen
