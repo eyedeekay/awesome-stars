@@ -2518,6 +2518,7 @@
 - [simon987/od-database](https://github.com/simon987/od-database) - Distributed crawler, database and web frontend for public directories indexing
 - [justaboredkid/sacred-tui](https://github.com/justaboredkid/sacred-tui) - ASCII art and terminal graphics made simple.
 - [paulrouget/servoshell](https://github.com/paulrouget/servoshell) - A work-in-progress user interface for Servo, built in Rust.
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [jimywork/stretcher](https://github.com/jimywork/stretcher) - Tool designed to help identify open Elasticsearch servers that are exposing sensitive information
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [omergunal/hackerbot](https://github.com/omergunal/hackerbot) - Chat with hacker assistant
@@ -2892,7 +2893,6 @@
 - [avleen/bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
 - [hfutxqd/T1700-Hackintosh](https://github.com/hfutxqd/T1700-Hackintosh) - Hackintosh(10.13.4) for Dell T1700
 - [the-raspberry-pi-guy/game_stream](https://github.com/the-raspberry-pi-guy/game_stream) - This repository contains all of the code and installation files for Moonlight - a piece of software that allows you to stream fully-fledged PC games to a Raspberry Pi using Nvidia's Geforce Experience
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [zamaudio/cross-apple](https://github.com/zamaudio/cross-apple) - Scripts to automate installation of cross-compiling Apple toolchain under Debian.
 - [ogra1/mac-spoofer-snap](https://github.com/ogra1/mac-spoofer-snap) - 
 - [multiformats/multihash](https://github.com/multiformats/multihash) - Self describing hashes - for future proofing
