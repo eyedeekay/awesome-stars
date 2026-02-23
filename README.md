@@ -22,7 +22,6 @@
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
-- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
@@ -467,10 +466,6 @@
 ## Crystal 
 
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
-
-## Dart 
-
-- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, ChromeOS, and Windows
 
 ## Dockerfile 
 
@@ -2447,6 +2442,7 @@
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [DanMcInerney/icebreaker](https://github.com/DanMcInerney/icebreaker) - Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment
+- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, ChromeOS, and Windows
 
 ## Puppet 
 
@@ -2518,7 +2514,7 @@
 - [simon987/od-database](https://github.com/simon987/od-database) - Distributed crawler, database and web frontend for public directories indexing
 - [justaboredkid/sacred-tui](https://github.com/justaboredkid/sacred-tui) - ASCII art and terminal graphics made simple.
 - [paulrouget/servoshell](https://github.com/paulrouget/servoshell) - A work-in-progress user interface for Servo, built in Rust.
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
+- [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com) - Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy supp
 - [jimywork/stretcher](https://github.com/jimywork/stretcher) - Tool designed to help identify open Elasticsearch servers that are exposing sensitive information
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [omergunal/hackerbot](https://github.com/omergunal/hackerbot) - Chat with hacker assistant
