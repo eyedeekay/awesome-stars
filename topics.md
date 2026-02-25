@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -272,6 +273,10 @@
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 
+## ai-agents 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
 ## analytics 
 
 - [streamr-dev/core-api](https://github.com/streamr-dev/core-api) - Old Corea-milestone centralized backend now obsolete as everything is decentralized.
@@ -279,7 +284,7 @@
 
 ## android 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go 1.26 + Godot 4.6
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -693,7 +698,6 @@
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free little text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compil
 - [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
@@ -1164,7 +1168,7 @@
 
 ## game-engine 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go 1.26 + Godot 4.6
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [TalesMUD/talesmud](https://github.com/TalesMUD/talesmud) - MUD development framework/platform written in Golang
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
@@ -1517,13 +1521,13 @@
 
 ## godot 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go 1.26 + Godot 4.6
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot
 - [0xFA11/MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) - A curated list of Multiplayer Game Network Programming Resources
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## golang 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go 1.26 + Godot 4.6
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -1631,7 +1635,6 @@
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [xiaonanln/goworld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping in Golang
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [ooclab/otunnel](https://github.com/ooclab/otunnel) - peer-to-peer tunnel tool
@@ -1876,7 +1879,7 @@
 
 ## gui 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go 1.26 + Godot 4.6
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
 - [neurlang/wayland](https://github.com/neurlang/wayland) - Golang Wayland - Go Multiplatform UI library
@@ -2091,7 +2094,7 @@
 
 ## ios 
 
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go 1.26 + Godot 4.6
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [hahwul/MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
