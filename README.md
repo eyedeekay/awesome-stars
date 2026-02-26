@@ -2742,7 +2742,7 @@
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [bnewbold/geniza](https://github.com/bnewbold/geniza) - hobby implementation of dat in rust
-- [4meta5/monetary-futarchy](https://github.com/4meta5/monetary-futarchy) - a series of runtime upgrade proposals for Polkadot's monetary policy
+- [amarsinghcodes/monetary-futarchy](https://github.com/amarsinghcodes/monetary-futarchy) - a series of runtime upgrade proposals for Polkadot's monetary policy
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
 - [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, the Mozilla Firefox implementation of QUIC in Rust
