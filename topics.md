@@ -3382,7 +3382,7 @@
 - [sammacbeth/dat-fox](https://github.com/sammacbeth/dat-fox) - dat:// protocol as a Firefox webextension
 - [mwarning/dat-c](https://github.com/mwarning/dat-c) - A hobby implementation of the dat protocol in C
 - [matrix-org/libp2p-proxy](https://github.com/matrix-org/libp2p-proxy) - A p2p transport shim for p2p matrix.
-- [4meta5/monetary-futarchy](https://github.com/4meta5/monetary-futarchy) - a series of runtime upgrade proposals for Polkadot's monetary policy
+- [amarsinghcodes/monetary-futarchy](https://github.com/amarsinghcodes/monetary-futarchy) - a series of runtime upgrade proposals for Polkadot's monetary policy
 - [gokyle/sshcrypt](https://github.com/gokyle/sshcrypt) - Encrypt files using Cryptobox and SSH keys.
 - [kirushik/full-banana](https://github.com/kirushik/full-banana) - Banana Split counterpart without any Shamir scheme
 - [kirushik/polkadot-wiki](https://github.com/kirushik/polkadot-wiki) - The Polkadot wiki.
