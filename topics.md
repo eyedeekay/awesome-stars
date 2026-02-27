@@ -2713,6 +2713,7 @@
 
 ## others 
 
+- [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
 - [SulfurNitride/Fluorine-Manager](https://github.com/SulfurNitride/Fluorine-Manager) - An attempt at recreating all MO2 functions in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [go-i2p/go-i2p-ccc-presentation-2025](https://github.com/go-i2p/go-i2p-ccc-presentation-2025) - CCC Workshop Intro Slides
@@ -3253,7 +3254,7 @@
 - [GENERALBYTESCOM/batm_public](https://github.com/GENERALBYTESCOM/batm_public) - BATM Public Repository
 - [mozilla-services/hawk-go](https://github.com/mozilla-services/hawk-go) - DEPRECATED - Hawk authentication implementation in Go
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
-- [mozilla-services/tokenserver](https://github.com/mozilla-services/tokenserver) - The Mozilla Token Server
+- [mozilla-services/tokenserver](https://github.com/mozilla-services/tokenserver) - INACTIVE - The Mozilla Token Server
 - [krzys-h/SteamStreaming](https://github.com/krzys-h/SteamStreaming) - An attempt at a cleanroom reimplementation of the Steam In-Home Streaming protocol
 - [etiennecossart/P2P_NTRU_OG](https://github.com/etiennecossart/P2P_NTRU_OG) - This code is sourced from Perlin Noise, https://github.com/perlin-network/noise, all credit to Perlin for the code.
 - [perlin-network/life](https://github.com/perlin-network/life) - A secure WebAssembly VM catered for decentralized applications.
