@@ -506,6 +506,7 @@
 
 ## Go 
 
+- [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [KilianSen/go-wsb](https://github.com/KilianSen/go-wsb) - Windows Sandbox Configuration Wrapper in GoLang
 - [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot
@@ -2487,7 +2488,7 @@
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [nestyme/Subtitles-generator](https://github.com/nestyme/Subtitles-generator) - generates transcript for video from link
 - [tdryer/hangups](https://github.com/tdryer/hangups) - the first third-party instant messaging client for Google Hangouts
-- [mozilla-services/tokenserver](https://github.com/mozilla-services/tokenserver) - The Mozilla Token Server
+- [mozilla-services/tokenserver](https://github.com/mozilla-services/tokenserver) - INACTIVE - The Mozilla Token Server
 - [bkong999/COVNet](https://github.com/bkong999/COVNet) - Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT
 - [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
 - [salt-die/terminal_dungeon](https://github.com/salt-die/terminal_dungeon) - A raycasting library for your terminal!
