@@ -407,7 +407,7 @@
 - [wheybags/freeablo](https://github.com/wheybags/freeablo) - [ARCHIVED] Modern reimplementation of the Diablo 1 game engine
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 - [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
-- [hypnosis-i2p/libi2pdhtcpp](https://github.com/hypnosis-i2p/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
+- [tattwamasii2p/libi2pdhtcpp](https://github.com/tattwamasii2p/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) - Onion Monero Blockchain Explorer
@@ -418,7 +418,7 @@
 - [borned-mind/SAMSimplyLib](https://github.com/borned-mind/SAMSimplyLib) - 
 - [majestrate/i2pd](https://github.com/majestrate/i2pd) - i2p router for Linux written on C++
 - [majestrate/i2pcpp](https://github.com/majestrate/i2pcpp) - i2p c++ implementation
-- [hypnosis-i2p/i2pchat](https://github.com/hypnosis-i2p/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [tattwamasii2p/i2pchat](https://github.com/tattwamasii2p/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [monero-project/kovri](https://github.com/monero-project/kovri) - The Kovri I2P Router Project
 - [PurpleI2P/i2pd-tools](https://github.com/PurpleI2P/i2pd-tools) - Some useful tools for I2P
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -599,7 +599,7 @@
 - [yzzyx/pongo-trans](https://github.com/yzzyx/pongo-trans) - Translation tags for pongo2
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [torhve/gomirc](https://github.com/torhve/gomirc) - Matrix &lt;=&gt; IRC bridge in Go
-- [J-Siu/go-png2ico](https://github.com/J-Siu/go-png2ico) - module and command line for PNG to ICO. ICO use PNG format for storage.
+- [J-Siu/go-png2ico](https://github.com/J-Siu/go-png2ico) - go module and command line for PNG to ICO. ICO use PNG format for storage.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) - :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make
