@@ -1277,7 +1277,7 @@
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 - [yorkie-team/yorkie](https://github.com/yorkie-team/yorkie) - Yorkie is a document store for collaborative applications.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [J-Siu/go-png2ico](https://github.com/J-Siu/go-png2ico) - module and command line for PNG to ICO. ICO use PNG format for storage.
+- [J-Siu/go-png2ico](https://github.com/J-Siu/go-png2ico) - go module and command line for PNG to ICO. ICO use PNG format for storage.
 - [TwiN/go-color](https://github.com/TwiN/go-color) - A lightweight, simple and cross-platform package to colorize text in terminals
 - [pkg/sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -4096,7 +4096,7 @@
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
 - [zenhotels/astranet](https://github.com/zenhotels/astranet) - A Go (golang) library for managing highly concurrent independent network streams.
-- [hypnosis-i2p/libi2pdhtcpp](https://github.com/hypnosis-i2p/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
+- [tattwamasii2p/libi2pdhtcpp](https://github.com/tattwamasii2p/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
 - [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
 - [ptresearch/mmdetect](https://github.com/ptresearch/mmdetect) - Intel ME Manufacturing Mode Detection Tools
 - [Netflix/signal-wrapper](https://github.com/Netflix/signal-wrapper) - 
@@ -4544,7 +4544,7 @@
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [str4d/ire](https://github.com/str4d/ire) - I2P router implementation in Rust
-- [hypnosis-i2p/i2pchat](https://github.com/hypnosis-i2p/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [tattwamasii2p/i2pchat](https://github.com/tattwamasii2p/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [mikalv/awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communicati
@@ -4934,7 +4934,7 @@
 - [1N3/PRISM-AP](https://github.com/1N3/PRISM-AP) - An automated Wireless RogueAP MITM attack framework.
 - [Kicksecure/tb-starter](https://github.com/Kicksecure/tb-starter) - Tor Browser Starter. Open Link Confirmation; Qubes integration; Command line --new-tab, --new-window; start menu entry; This package is produced independently of, and carries no guarantee from, The To
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
-- [hypnosis-i2p/i2pchat](https://github.com/hypnosis-i2p/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
+- [tattwamasii2p/i2pchat](https://github.com/tattwamasii2p/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [kevinburke/nacl](https://github.com/kevinburke/nacl) - Pure Go implementation of the NaCL set of API's
