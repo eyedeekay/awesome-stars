@@ -2473,7 +2473,7 @@
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [mozilla-services/sign-xpi](https://github.com/mozilla-services/sign-xpi) - INACTIVE - An AWS Lambda to sign an XPI
 - [nmaier/xpisign.py](https://github.com/nmaier/xpisign.py) - XP-Install (xpi) code signing.
-- [root4031/zipcrack](https://github.com/root4031/zipcrack) - An Advanced Tool to Crack Any Password Protected ZIP File With different Techniques. A very Beginner Friendly Script For Newbies.
+- [machine1337/zipcrack](https://github.com/machine1337/zipcrack) - An Advanced Tool to Crack Any Password Protected ZIP File With different Techniques. A very Beginner Friendly Script For Newbies.
 - [mozilla/addons-server](https://github.com/mozilla/addons-server) - 🕶 addons.mozilla.org Django app and API 🎉
 - [csilvers/i18nize_templates](https://github.com/csilvers/i18nize_templates) - A tool to automatically add i18n markup to jinja2 and handlebars templates.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
