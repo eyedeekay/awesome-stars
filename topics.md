@@ -2714,7 +2714,7 @@
 ## others 
 
 - [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
-- [SulfurNitride/Fluorine-Manager](https://github.com/SulfurNitride/Fluorine-Manager) - An attempt at recreating all MO2 functions in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done.
+- [SulfurNitride/Fluorine-Manager](https://github.com/SulfurNitride/Fluorine-Manager) - A port of MO2 in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [go-i2p/go-i2p-ccc-presentation-2025](https://github.com/go-i2p/go-i2p-ccc-presentation-2025) - CCC Workshop Intro Slides
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
