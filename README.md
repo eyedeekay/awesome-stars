@@ -334,7 +334,7 @@
 
 ## C++ 
 
-- [SulfurNitride/Fluorine-Manager](https://github.com/SulfurNitride/Fluorine-Manager) - An attempt at recreating all MO2 functions in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done.
+- [SulfurNitride/Fluorine-Manager](https://github.com/SulfurNitride/Fluorine-Manager) - A port of MO2 in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done.
 - [ddnet/ddnet](https://github.com/ddnet/ddnet) - DDraceNetwork, a free cooperative platformer game
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [SChernykh/p2pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining
@@ -506,6 +506,7 @@
 
 ## Go 
 
+- [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
 - [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [KilianSen/go-wsb](https://github.com/KilianSen/go-wsb) - Windows Sandbox Configuration Wrapper in GoLang
