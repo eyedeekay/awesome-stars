@@ -618,7 +618,7 @@
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [pojntfx/ram-dl](https://github.com/pojntfx/ram-dl) - A tool to download more RAM (yes, seriously!)
 - [no-src/gofs](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box based on Golang
-- [AthanorLabs/atomic-swap](https://github.com/AthanorLabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
+- [athanorlabs/atomic-swap](https://github.com/athanorlabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
 - [jackowitz/rnd](https://github.com/jackowitz/rnd) - Unbiasable Distributed Randomness Protocols
 - [bonedaddy/speedy](https://github.com/bonedaddy/speedy) - Sybil-resistant DHT
 - [wzheng/speedy](https://github.com/wzheng/speedy) - Sybil-resistant DHT
