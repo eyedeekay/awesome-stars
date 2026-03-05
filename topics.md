@@ -497,7 +497,7 @@
 
 ## blockchain 
 
-- [AthanorLabs/atomic-swap](https://github.com/AthanorLabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
+- [athanorlabs/atomic-swap](https://github.com/athanorlabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
 - [SChernykh/p2pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining
 - [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
 - [redwood/redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
@@ -1050,7 +1050,7 @@
 
 ## ethereum 
 
-- [AthanorLabs/atomic-swap](https://github.com/AthanorLabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
+- [athanorlabs/atomic-swap](https://github.com/athanorlabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
 - [ProofSuite/amp-dex](https://github.com/ProofSuite/amp-dex) - AMP: Official repository for the Proof decentralized exchange
 - [ProofSuite/amp-matching-engine](https://github.com/ProofSuite/amp-matching-engine) - Official proof decentralized exchange matching engine
 - [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
@@ -2552,7 +2552,7 @@
 - [creating2morrow/neveko](https://github.com/creating2morrow/neveko) - full-stack privacy application with enciphered messaging, monero multisig and built-in i2p marketplace
 - [PowPool/xmrpool](https://github.com/PowPool/xmrpool) - Improved mining pool for Monero
 - [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
-- [AthanorLabs/atomic-swap](https://github.com/AthanorLabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
+- [athanorlabs/atomic-swap](https://github.com/athanorlabs/atomic-swap) - 💫 ETH-XMR atomic swap implementation
 - [SChernykh/p2pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining
 - [minexmr2/minexmr2](https://github.com/minexmr2/minexmr2) - First open-source Monero mining pool using decentralized p2pool as a hashrate-liquidity provider for frequent payouts (approx. 2.1 times/hour)
 - [woodser/monero-java](https://github.com/woodser/monero-java) - Java library for using Monero
