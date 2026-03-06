@@ -670,7 +670,7 @@
 - [krotik/dudeldu](https://github.com/krotik/dudeldu) - A simple SHOUTcast server.
 - [pojntfx/liwasc](https://github.com/pojntfx/liwasc) - List, wake and scan nodes in a network.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
-- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
+- [windtf/wireproxy](https://github.com/windtf/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 - [mdlayher/wifi](https://github.com/mdlayher/wifi) - Package wifi provides access to IEEE 802.11 WiFi device actions and statistics.  MIT Licensed.
 - [caiguanhao/certutils](https://github.com/caiguanhao/certutils) - Wildcard certificates tools: Obtain certbot's (Let's Encrypt) wildcard certificates by updating DNS TXT records and answering stupid certbot questions for you.
 - [bhearsum/gothmog](https://github.com/bhearsum/gothmog) - minimal implementation of the firefox update server in go
