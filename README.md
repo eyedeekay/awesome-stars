@@ -150,7 +150,6 @@
 - [WireGuard/wintun](https://github.com/WireGuard/wintun) - Mirror only. Official repository is at https://git.zx2c4.com/wintun
 - [Arlet/Freecut](https://github.com/Arlet/Freecut) - Free cutting firmware replacement for cricut hardware
 - [basil00/WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
-- [vvb2060/Magica](https://github.com/vvb2060/Magica) - 
 - [geohot/qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser
 - [CTurt/FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) - PlayStation 2 DVD Player Exploit
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
@@ -349,6 +348,7 @@
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [matiasinsaurralde/go-dotnet](https://github.com/matiasinsaurralde/go-dotnet) - Go wrapper for the .NET Core Runtime.
+- [vvb2060/Magica](https://github.com/vvb2060/Magica) - 
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [TurningWheel/Barony](https://github.com/TurningWheel/Barony) - Barony Open Source Release
 - [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
@@ -1328,7 +1328,7 @@
 - [TokTok/go-toxcore-c](https://github.com/TokTok/go-toxcore-c) - The golang bindings for libtoxcore (Project Tox).
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [erjiang/tuntuntun](https://github.com/erjiang/tuntuntun) - channel-bonding load-balancing proxy
 - [wofanli/tcp-tunnel](https://github.com/wofanli/tcp-tunnel) - a tcp-tunnel implemented by golang
 - [meowpub/meow](https://github.com/meowpub/meow) - A cuter ActivityPub server
