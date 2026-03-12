@@ -3596,7 +3596,7 @@
 - [deoxxa/don](https://github.com/deoxxa/don) - Less than half of mastodon.
 - [liilac/loki-network-go](https://github.com/liilac/loki-network-go) - Implementation of LLARP in Go
 - [driusan/gob](https://github.com/driusan/gob) - Gob: An Experimental Pure Go Web Browser
-- [hfutxqd/T1700-Hackintosh](https://github.com/hfutxqd/T1700-Hackintosh) - Hackintosh(10.13.4) for Dell T1700
+- [fishand73/T1700-Hackintosh](https://github.com/fishand73/T1700-Hackintosh) - Hackintosh(10.13.4) for Dell T1700
 - [chunying/gaminganywhere](https://github.com/chunying/gaminganywhere) - GamingAnywhere: An Open Cloud Gaming System
 - [tedchain/gamechain](https://github.com/tedchain/gamechain) - GameChain (included gamechaind, gamechain-cli and gamechain-util) is a platform for private blockchain, which offers a rich set of features including extensive configurability, rapid deployment, permi
 - [the-raspberry-pi-guy/game_stream](https://github.com/the-raspberry-pi-guy/game_stream) - This repository contains all of the code and installation files for Moonlight - a piece of software that allows you to stream fully-fledged PC games to a Raspberry Pi using Nvidia's Geforce Experience
