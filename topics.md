@@ -1878,7 +1878,7 @@
 ## graphql 
 
 - [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
-- [TGNThump/Pantheon](https://github.com/TGNThump/Pantheon) - A federated platform for building communities.
+- [benjamin-pilgrim/Pantheon](https://github.com/benjamin-pilgrim/Pantheon) - A federated platform for building communities.
 
 ## gui 
 
@@ -2716,6 +2716,7 @@
 
 ## others 
 
+- [latedeployment/oci2bin](https://github.com/latedeployment/oci2bin) - Convert OCI images into polyglot ELF+tar executables that run without Docker
 - [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
 - [SulfurNitride/Fluorine-Manager](https://github.com/SulfurNitride/Fluorine-Manager) - A port of MO2 in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -2745,7 +2746,7 @@
 - [ctrlsam/rigour](https://github.com/ctrlsam/rigour) - A rigorous IoT scanner based on Shodan.io
 - [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
 - [function61/function22](https://github.com/function61/function22) - A memory-safe SSH server, focused on listening only on VPN networks such as Tailscale
-- [trzsz/tsshd](https://github.com/trzsz/tsshd) - tsshd: the trzsz-ssh(tssh) udp server that supports connection migration for roaming, keeping ssh sesseion alive even if the network is disconnected for a long time.
+- [trzsz/tsshd](https://github.com/trzsz/tsshd) - tsshd is a UDP-based SSH server built for unreliable networks. It supports seamless roaming across networks and IP changes, and works well on high-latency links such as cellular connections and unstab
 - [wzshiming/sshd](https://github.com/wzshiming/sshd) - SSH Server
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [Ubuntu-Sway/Ubuntu-Sway-Remix](https://github.com/Ubuntu-Sway/Ubuntu-Sway-Remix) - Ubuntu with Sway wayland compositor
