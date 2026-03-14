@@ -128,6 +128,7 @@
 
 ## C 
 
+- [latedeployment/oci2bin](https://github.com/latedeployment/oci2bin) - Convert OCI images into polyglot ELF+tar executables that run without Docker
 - [swfans/syndwarsfx](https://github.com/swfans/syndwarsfx) - Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game
 - [wayback-x11/wayback](https://github.com/wayback-x11/wayback) - experimental X11 compatibility layer
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
@@ -540,7 +541,7 @@
 - [mikesmitty/curse](https://github.com/mikesmitty/curse) - CURSE is an SSH certificate signing server, built as an alternative to Netflix's BLESS tool, but without a dependency on AWS.
 - [engity-com/bifroest](https://github.com/engity-com/bifroest) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session.
 - [function61/function22](https://github.com/function61/function22) - A memory-safe SSH server, focused on listening only on VPN networks such as Tailscale
-- [trzsz/tsshd](https://github.com/trzsz/tsshd) - tsshd: the trzsz-ssh(tssh) udp server that supports connection migration for roaming, keeping ssh sesseion alive even if the network is disconnected for a long time.
+- [trzsz/tsshd](https://github.com/trzsz/tsshd) - tsshd is a UDP-based SSH server built for unreliable networks. It supports seamless roaming across networks and IP changes, and works well on high-latency links such as cellular connections and unstab
 - [wzshiming/sshd](https://github.com/wzshiming/sshd) - SSH Server
 - [minetest-mapserver/mapserver](https://github.com/minetest-mapserver/mapserver) - Minetest realtime mapserver, written in go
 - [chainreactors/malice-network](https://github.com/chainreactors/malice-network) - Next Generation C2 Framework, IoM-server/client
@@ -1873,7 +1874,7 @@
 - [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) - A modern Android IRC client. #revolutionirc on Libera.chat
 - [GENERALBYTESCOM/batm_public](https://github.com/GENERALBYTESCOM/batm_public) - BATM Public Repository
 - [xwiki-contrib/application-activitypub](https://github.com/xwiki-contrib/application-activitypub) - ActivityPub implementation for XWiki
-- [TGNThump/Pantheon](https://github.com/TGNThump/Pantheon) - A federated platform for building communities.
+- [benjamin-pilgrim/Pantheon](https://github.com/benjamin-pilgrim/Pantheon) - A federated platform for building communities.
 - [dideler/chess-park](https://github.com/dideler/chess-park) - Networked multiplayer chess in your browser
 - [pircbotx/pircbotx](https://github.com/pircbotx/pircbotx) - Modern Java IRC Library
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
