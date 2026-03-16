@@ -2716,7 +2716,7 @@
 
 ## others 
 
-- [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.
+- [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - [latedeployment/oci2bin](https://github.com/latedeployment/oci2bin) - Convert OCI images into polyglot ELF+tar executables that run without Docker
 - [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
 - [SulfurNitride/Fluorine-Manager](https://github.com/SulfurNitride/Fluorine-Manager) - A port of MO2 in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done.
