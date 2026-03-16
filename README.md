@@ -1962,7 +1962,7 @@
 
 ## JavaScript 
 
-- [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from 26 data sources and pings you when something changes.
+- [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [eyedeekay/Actually-Work-Offline](https://github.com/eyedeekay/Actually-Work-Offline) - WebExtension to replaces Mozilla's aggressively useless Work Offline implementation. Requires a wrapper, works by installing an extension into a profile which uninstalls itself.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
