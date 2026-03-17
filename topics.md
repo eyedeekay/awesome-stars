@@ -2716,6 +2716,7 @@
 
 ## others 
 
+- [pluto-org-co/bluge](https://github.com/pluto-org-co/bluge) - indexing library for Go
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - [latedeployment/oci2bin](https://github.com/latedeployment/oci2bin) - Convert OCI images into polyglot ELF+tar executables that run without Docker
 - [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
