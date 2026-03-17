@@ -507,6 +507,7 @@
 
 ## Go 
 
+- [pluto-org-co/bluge](https://github.com/pluto-org-co/bluge) - indexing library for Go
 - [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
 - [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
