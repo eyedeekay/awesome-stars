@@ -1006,7 +1006,7 @@
 - [saiajaym/gorrent](https://github.com/saiajaym/gorrent) - Implemetation of peer to peer file sharing based on paper "Incentives Build Robustness in BitTorrent"
 - [cruzbit/cruzbit](https://github.com/cruzbit/cruzbit) - A simple decentralized peer-to-peer ledger implementation
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [huin/goupnp](https://github.com/huin/goupnp) - UPnP client library for Go (#golang)
 - [prestonTao/upnp](https://github.com/prestonTao/upnp) - A simple implements UPnP protocol for Go(Golang) library.  Add port mapping for NAT devices. 在内网中搜索网关设备，检查网关是否支持upnp协议，若支持，添加端口映射。
 - [moshee/airlift](https://github.com/moshee/airlift) - A self-hosted file upload and sharing service
@@ -2422,7 +2422,7 @@
 - [htrgouvea/nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
 - [dgl/cgiirc](https://github.com/dgl/cgiirc) - CGI:IRC web based IRC client
 - [micahflee/trollwot](https://github.com/micahflee/trollwot) - Trolling the Web of Trust
-- [lulzlabs/AirChat](https://github.com/lulzlabs/AirChat) - Free Communications For Everyone.
+- [arboliva/AirChat](https://github.com/arboliva/AirChat) - Free Communications For Everyone.
 - [zonkeynet/ZonkeyNet](https://github.com/zonkeynet/ZonkeyNet) - RADIO Mesh Network
 - [julienbedard/browsersploit](https://github.com/julienbedard/browsersploit) - BrowserExploit is an advanced browser exploit pack for doing internal and external pentesting, helping gaining access to internal computers.
 - [stroborobo/werc](https://github.com/stroborobo/werc) - (Inofficial) Mirror of the original werc repo (http://hg.cat-v.org/werc/)
