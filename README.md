@@ -1321,7 +1321,7 @@
 - [keroserene/go-webrtc](https://github.com/keroserene/go-webrtc) - WebRTC for Go
 - [rtctunnel/rtctunnel](https://github.com/rtctunnel/rtctunnel) - build network tunnels over WebRTC
 - [majestrate/ircproxy](https://github.com/majestrate/ircproxy) - filtering i2p irc proxy
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [libp2p/go-libp2p-secio](https://github.com/libp2p/go-libp2p-secio) - a minimal secure channel for libp2p
 - [RTradeLtd/Pay](https://github.com/RTradeLtd/Pay) - 💸 Pay is Temporal's blockchain-based payment processing service
 - [lrstanley/girc](https://github.com/lrstanley/girc) - :bomb: girc is a flexible IRC library for Go :ok_hand:
