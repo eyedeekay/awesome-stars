@@ -680,7 +680,7 @@
 - [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility
 - [google/nftables](https://github.com/google/nftables) - This repository contains a Go module to interact with Linux nftables (the iptables successor).
 - [eyedeekay/aluminumoxynitride](https://github.com/eyedeekay/aluminumoxynitride) - Configures any Chrome browser to use I2P. Named after transparent aluminum.
-- [mmadfox/go-crx3](https://github.com/mmadfox/go-crx3) - Chrome browser extension tools. Provides a set of tools packing, unpacking, zip, unzip, download, etc.
+- [mmadfox/go-crx3](https://github.com/mmadfox/go-crx3) - Chrome browser extension tools with MCP integration. Pack, unpack, zip, unzip, download, and manage CRX3 extensions – now AI-compatible via Model Context Protocol.
 - [nknorg/nkn-tunnel](https://github.com/nknorg/nkn-tunnel) - Tunnel tcp through NKN client.
 - [vincenscotti/impero](https://github.com/vincenscotti/impero) - A multiplayer strategy game written in Go.
 - [rnixik/durak](https://github.com/rnixik/durak) - An online multiplayer card game
