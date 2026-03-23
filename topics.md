@@ -622,7 +622,7 @@
 ## chrome-extension 
 
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
-- [mmadfox/go-crx3](https://github.com/mmadfox/go-crx3) - Chrome browser extension tools. Provides a set of tools packing, unpacking, zip, unzip, download, etc.
+- [mmadfox/go-crx3](https://github.com/mmadfox/go-crx3) - Chrome browser extension tools with MCP integration. Pack, unpack, zip, unzip, download, and manage CRX3 extensions – now AI-compatible via Model Context Protocol.
 - [ibnishak/Timimi](https://github.com/ibnishak/Timimi) - Webextension to save Tiddlywiki
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
@@ -2536,6 +2536,7 @@
 ## mcp 
 
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
+- [mmadfox/go-crx3](https://github.com/mmadfox/go-crx3) - Chrome browser extension tools with MCP integration. Pack, unpack, zip, unzip, download, and manage CRX3 extensions – now AI-compatible via Model Context Protocol.
 
 ## microservices 
 
