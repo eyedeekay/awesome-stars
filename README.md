@@ -137,7 +137,6 @@
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [minexmr2/minexmr2](https://github.com/minexmr2/minexmr2) - First open-source Monero mining pool using decentralized p2pool as a hashrate-liquidity provider for frequent payouts (approx. 2.1 times/hour)
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
-- [danoon2/Boxedwine](https://github.com/danoon2/Boxedwine) - Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine
 - [opennox/opennox](https://github.com/opennox/opennox) - OpenNox main repository.
 - [krisnova/boopkit](https://github.com/krisnova/boopkit) - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -340,6 +339,7 @@
 - [SChernykh/p2pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining
 - [jprendes/emception](https://github.com/jprendes/emception) - Run Emscripten in the browser
 - [foolo/windows-jre-laucher](https://github.com/foolo/windows-jre-laucher) - Create a Windows executable for launching a Java application with a bundled JRE
+- [danoon2/Boxedwine](https://github.com/danoon2/Boxedwine) - Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine
 - [GJDuck/RedFat](https://github.com/GJDuck/RedFat) - A binary hardening system
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [EasyRPG/Editor](https://github.com/EasyRPG/Editor) - Game editor similar to RPG Maker
