@@ -66,6 +66,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -930,6 +931,19 @@
 - [diamondburned/gtkcord3](https://github.com/diamondburned/gtkcord3) - A Gtk3 Discord client in Golang
 - [sokratis12GR/ArmorPlus](https://github.com/sokratis12GR/ArmorPlus) - ArmorPlus is a mod based on exploration, killing, building, getting geared up, fight the bosses and explore the depths of your worlds.
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
+
+## distributed-systems 
+
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
+- [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
+- [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
+- [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+- [horgh/catbox](https://github.com/horgh/catbox) - 🐈📦 A small IRC server
+- [nknorg/nnet](https://github.com/nknorg/nnet) - nnet: a fast, scalable, and developer-friendly p2p overlay network stack
+- [minio/dsync](https://github.com/minio/dsync) - A distributed sync package.
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [teivah/gosiris](https://github.com/teivah/gosiris) - An actor framework for Go
+- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Kafka-style message streaming in Go. Built on NATS. Single binary,  no JVM, no ZooKeeper.
 
 ## django 
 
@@ -3335,7 +3349,6 @@
 - [xincao9/yurpc](https://github.com/xincao9/yurpc) - high-performance RPC framework.
 - [atsepkov/awesome-awesome-wm](https://github.com/atsepkov/awesome-awesome-wm) - A curated list of awesome tools/scripts/configs for Awesome Window Manager.
 - [sniku/mediawiki_client](https://github.com/sniku/mediawiki_client) - Terminal client for mediawiki
-- [minio/dsync](https://github.com/minio/dsync) - A distributed sync package.
 - [im-tomu/foboot](https://github.com/im-tomu/foboot) - Bootloader for Fomu
 - [BiglySoftware/BiglyBT-plugin-azhighchartsstats](https://github.com/BiglySoftware/BiglyBT-plugin-azhighchartsstats) - 
 - [TerryCavanagh/VVVVVV](https://github.com/TerryCavanagh/VVVVVV) - The source code to VVVVVV! http://thelettervsixtim.es/
@@ -3786,7 +3799,6 @@
 - [dmiddlecamp/walkie_talkies](https://github.com/dmiddlecamp/walkie_talkies) - an easy way to build your own walkie talkies!
 - [ReconJSON/ReconJSON](https://github.com/ReconJSON/ReconJSON) - ReconJSON is a project dedicated to creating a flexible and consistent JSON format across popular recon tools.
 - [teivah/goptional](https://github.com/teivah/goptional) - A lightweight library to provide a container for optional values in golang
-- [teivah/gosiris](https://github.com/teivah/gosiris) - An actor framework for Go
 - [warpfork/smsh](https://github.com/warpfork/smsh) - a smol shell.
 - [heroku/heroku-go](https://github.com/heroku/heroku-go) - Heroku Platform API Go Client
 - [GrahamDumpleton-abandoned/dyndns53](https://github.com/GrahamDumpleton-abandoned/dyndns53) - A dynamic DNS service based on AWS Route53/S3 and runnable on OpenShift 2 or Heroku.
