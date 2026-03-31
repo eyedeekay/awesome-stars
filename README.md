@@ -327,7 +327,7 @@
 - [sherlockchou86/fucklandlord](https://github.com/sherlockchou86/fucklandlord) - an engine of popular card game in China named doudizhu(斗地主), contains a win32 GUI besides.
 - [PeterZander/i2p-cs](https://github.com/PeterZander/i2p-cs) - I2P router in C#
 - [SamuelFisher/i2pdotnet](https://github.com/SamuelFisher/i2pdotnet) - .NET library for using the I2P Simple Anonymous Messaging (SAM v3.0) bridge
-- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
+- [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
 - [andyburke/UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity.
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 
@@ -758,7 +758,6 @@
 - [reiver/go-telnet](https://github.com/reiver/go-telnet) - Package telnet provides TELNET and TELNETS client and server implementations, for the Go programming language, in a style similar to the "net/http" library that is part of the Go standard library, inc
 - [houseabsolute/catalauncher](https://github.com/houseabsolute/catalauncher) - CLI tool to launch Cataclysm: Dark Days Ahead (https://cataclysmdda.org/) builds in a Docker container.
 - [palantir/go-java-launcher](https://github.com/palantir/go-java-launcher) - A simple Go program for launching Java programs from a fixed configuration. This program replaces Gradle-generated Bash launch scripts which are susceptible to attacks via injection of environment var
-- [talesluna-zz/floyd-player-golang](https://github.com/talesluna-zz/floyd-player-golang) - Learning GO - Simple M3U List player with mplayer
 - [ssetin/PenguinCast](https://github.com/ssetin/PenguinCast) - Icecast compatible streaming audio server
 - [patdhlk/go-player](https://github.com/patdhlk/go-player) - a web-based HTML5 music player created created with GO, HTML5, CSS and JS
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
@@ -1930,7 +1929,7 @@
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [TeamWizardry/Wizardry](https://github.com/TeamWizardry/Wizardry) - Delve into spell creation and become a wizard
 - [Angry-Pixel/The-Betweenlands](https://github.com/Angry-Pixel/The-Betweenlands) - A dark, hostile environment...
-- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/16-qpr2/generate-metadata for the server metadata generation tool.
+- [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/-/generate-metadata for the server metadata generation tool.
 - [harikris/android-forensics](https://github.com/harikris/android-forensics) - Open source Android Forensics app and framework
 - [sokratis12GR/ArmorPlus](https://github.com/sokratis12GR/ArmorPlus) - ArmorPlus is a mod based on exploration, killing, building, getting geared up, fight the bosses and explore the depths of your worlds.
 - [TechReborn/TechReborn](https://github.com/TechReborn/TechReborn) - Tech Reborn is a completely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod. https://www.curseforge.com/minecraft/mc-mods/techrebo
