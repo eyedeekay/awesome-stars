@@ -4234,7 +4234,6 @@
 - [openelections/openelections-results-wv](https://github.com/openelections/openelections-results-wv) - Raw results for West Virginia elections
 - [openelections/openelections-data-wv](https://github.com/openelections/openelections-data-wv) - Converted CSVs of West Virginia election results
 - [JesseHerrick/ohio](https://github.com/JesseHerrick/ohio) - :us: :newspaper: Track the legislative activities of the Ohio General Assembly.
-- [hackohio/ohio](https://github.com/hackohio/ohio) - Legacy repo for OHI/O's website.
 - [openelections/openelections-data-oh](https://github.com/openelections/openelections-data-oh) - Pre-processed election results from Ohio
 - [andyburke/UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity.
 - [glouw/littlewolf](https://github.com/glouw/littlewolf) - A tiny software graphics and game engine
@@ -5206,7 +5205,6 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
-- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [tulir/mauview](https://github.com/tulir/mauview) - A Go TUI library based on tcell.
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycle
 - [liamg/tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
