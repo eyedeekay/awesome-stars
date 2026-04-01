@@ -448,7 +448,6 @@
 - [torproject/webwml](https://github.com/torproject/webwml) - 
 - [judell/thali](https://github.com/judell/thali) - 
 - [l-n-s/i2pd-webui](https://github.com/l-n-s/i2pd-webui) - Fancy i2pd web user interface
-- [hackohio/ohio](https://github.com/hackohio/ohio) - Legacy repo for OHI/O's website.
 - [paulrouget/servo-embedding-example](https://github.com/paulrouget/servo-embedding-example) - An example of how to embed Servo
 - [RicinApp/ricin.im](https://github.com/RicinApp/ricin.im) - The Ricin's website, available at https://ricin.im
 - [corbindavenport/web-system](https://github.com/corbindavenport/web-system) - A web based clone of the Classic Macintosh operating system.
