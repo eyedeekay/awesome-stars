@@ -2262,7 +2262,6 @@
 - [smartnsoft/android-monero-miner](https://github.com/smartnsoft/android-monero-miner) - A minimal SDK that lets an integrator add a Monero Miner using the Javascript miner created by CoinHive. The Monero Miner can be used with any CoinHive address and is a proof of concept of an alternat
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
-- [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [alfg/ping.js](https://github.com/alfg/ping.js) - :bell: Ping the web with Javascript.
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
@@ -4017,6 +4016,7 @@
 - [StalkR/chrome-proxy-switcher](https://github.com/StalkR/chrome-proxy-switcher) - Proxy Switcher Chrome Extension
 - [andyleap/go-ssb](https://github.com/andyleap/go-ssb) - 
 - [codahale/tinystat](https://github.com/codahale/tinystat) - A Go library and CLI tool for evaluating whether two or more sets of measurements are statistically different.
+- [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [gmule/gmule-core](https://github.com/gmule/gmule-core) - 
 - [majestrate/llarpd-builder](https://github.com/majestrate/llarpd-builder) - recursive git repo for building llarpd
 - [nVotesOrg/nMix](https://github.com/nVotesOrg/nMix) - Backend for a mixnet-based, cryptographically secure voting system.
