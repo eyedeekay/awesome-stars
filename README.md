@@ -183,6 +183,7 @@
 - [AlexAltea/orbital](https://github.com/AlexAltea/orbital) - Experimental PlayStation 4 emulator.
 - [scwuaptx/HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
 - [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
+- [mist64/cbmsrc](https://github.com/mist64/cbmsrc) - Original source code of various Commodore computers and peripherals.
 - [bazad/rootsh](https://github.com/bazad/rootsh) - Local privilege escalation for OS X 10.10.5 via CVE-2016-1828.
 - [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) - Transpiling C code to Go code
 - [mkg20001/libp2p-dissector](https://github.com/mkg20001/libp2p-dissector) - Libp2p dissector for wireshark v2.5 (WIP)
@@ -2668,7 +2669,6 @@
 
 ## Roff 
 
-- [mist64/cbmsrc](https://github.com/mist64/cbmsrc) - Original source code of various Commodore computers and peripherals.
 - [AOSC-Dev/aosc-os-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 
 ## Ruby 
