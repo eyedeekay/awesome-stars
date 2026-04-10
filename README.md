@@ -609,7 +609,7 @@
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make
 - [checkmake/checkmake](https://github.com/checkmake/checkmake) - Linter/analyzer for Makefiles
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in Go.
-- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
+- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [TwiN/go-color](https://github.com/TwiN/go-color) - A lightweight, simple and cross-platform package to colorize text in terminals
 - [pkg/sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package
 - [helloyi/go-sshclient](https://github.com/helloyi/go-sshclient) - simple sshclient with go
@@ -2454,6 +2454,7 @@
 
 ## Python 
 
+- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removal Toolkit - Open Source and API Models
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
