@@ -2758,6 +2758,7 @@
 
 ## others 
 
+- [babycommando/zuse](https://github.com/babycommando/zuse) - ZUSE is an irc client for the terminal made in Go with Bubbletea
 - [pluto-org-co/bluge](https://github.com/pluto-org-co/bluge) - indexing library for Go
 - [latedeployment/oci2bin](https://github.com/latedeployment/oci2bin) - Convert OCI images into polyglot ELF+tar executables that run without Docker
 - [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
