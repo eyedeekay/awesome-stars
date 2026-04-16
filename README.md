@@ -2293,7 +2293,6 @@
 - [ruoti/COVID-19](https://github.com/ruoti/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [ruoti/students](https://github.com/ruoti/students) - Background information about students
 - [btcven/locha](https://github.com/btcven/locha) - Communicate with others and broadcast Bitcoin transactions off-grid without internet access or even power grid.
-- [pdupub/documentation](https://github.com/pdupub/documentation) - A Peer-to-Peer Social Network Service
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [frombeirutwithlove/ProtestTips](https://github.com/frombeirutwithlove/ProtestTips) - 
 - [Sniki/Lenovo-Thinkpad-T440P-Clover](https://github.com/Sniki/Lenovo-Thinkpad-T440P-Clover) - Lenovo ThinkPad T440P
@@ -2455,7 +2454,7 @@
 
 ## Python 
 
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removal Toolkit - Open Source and API Models
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
@@ -2748,7 +2747,7 @@
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [bnewbold/geniza](https://github.com/bnewbold/geniza) - hobby implementation of dat in rust
-- [amarsinghcodes/monetary-futarchy](https://github.com/amarsinghcodes/monetary-futarchy) - a series of runtime upgrade proposals for Polkadot's monetary policy
+- [peektism/monetary-futarchy](https://github.com/peektism/monetary-futarchy) - a series of runtime upgrade proposals for Polkadot's monetary policy
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
 - [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, the Mozilla Firefox implementation of QUIC in Rust
