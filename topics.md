@@ -106,6 +106,7 @@
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -1291,6 +1292,7 @@
 
 ## go 
 
+- [misha-ssh/cli](https://github.com/misha-ssh/cli) - 💻  Misha - tui ssh client
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
@@ -1932,6 +1934,13 @@
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
+
+## hack 
+
+- [adamff-dev/WiFi-Spam](https://github.com/adamff-dev/WiFi-Spam) - :email::satellite: Spam thousands of WiFi access points with custom SSIDs
+- [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
+- [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
+- [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
 
 ## hacking 
 
@@ -2758,6 +2767,7 @@
 
 ## others 
 
+- [misha-ssh/kernel](https://github.com/misha-ssh/kernel) - ⚡️ The core for ssh client on go
 - [babycommando/zuse](https://github.com/babycommando/zuse) - ZUSE is an irc client for the terminal made in Go with Bubbletea
 - [pluto-org-co/bluge](https://github.com/pluto-org-co/bluge) - indexing library for Go
 - [latedeployment/oci2bin](https://github.com/latedeployment/oci2bin) - Convert OCI images into polyglot ELF+tar executables that run without Docker
@@ -2897,7 +2907,6 @@
 - [kelvie/dcss-web-docker](https://github.com/kelvie/dcss-web-docker) - Dockerized web version of Dungeon Crawl Stone Soup
 - [jprendes/emception](https://github.com/jprendes/emception) - Run Emscripten in the browser
 - [AmyMoriyama/i2p-browser-maker-linux](https://github.com/AmyMoriyama/i2p-browser-maker-linux) - Makes it easy to get a preconfigured browser for I2P while on Linux
-- [adamff-dev/WiFi-Spam](https://github.com/adamff-dev/WiFi-Spam) - :email::satellite: Spam thousands of WiFi access points with custom SSIDs
 - [delicb/dzip](https://github.com/delicb/dzip) - Simple deterministic zip creation utility
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
 - [neilalexander/yggmail](https://github.com/neilalexander/yggmail) - End-to-end encrypted email for the mesh networking age
@@ -5220,6 +5229,7 @@
 
 ## tui 
 
+- [misha-ssh/cli](https://github.com/misha-ssh/cli) - 💻  Misha - tui ssh client
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
