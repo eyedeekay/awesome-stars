@@ -1569,7 +1569,7 @@
 - [Yawning/bulb](https://github.com/Yawning/bulb) - bulb is not stem
 - [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website.
 - [gen2brain/crtaci](https://github.com/gen2brain/crtaci) - "Crtaći" searches YouTube, DailyMotion and Vimeo for good old cartoons
-- [envsh/go-toxcore](https://github.com/envsh/go-toxcore) - The go-toxcore-c raw binding's extended  wrappers for easy use.  WIP partly mintox core in pure golang. Experimental toxcore internals.
+- [envsh/toxera](https://github.com/envsh/toxera) - The go-toxcore-c raw binding's extended  wrappers for easy use.  WIP partly mintox core in pure golang. Experimental toxcore internals.
 - [mirrorx/tox](https://github.com/mirrorx/tox) - Go Bindings to libtoxcore
 - [envsh/tox-homeserver](https://github.com/envsh/tox-homeserver) - 
 - [codedust/go-tox](https://github.com/codedust/go-tox) - Go wrapper for the toxcore library - contributions welcome!
