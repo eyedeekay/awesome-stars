@@ -2089,7 +2089,7 @@
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
 - [Joker/hpp](https://github.com/Joker/hpp) - HTML Pretty Print for Go (golang)
-- [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
+- [myrtille-rdp/myrtille](https://github.com/myrtille-rdp/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [joeblankenship1/households_WV](https://github.com/joeblankenship1/households_WV) - Analysis of Household Composition and Location in West Virginia
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
@@ -5380,7 +5380,7 @@
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
-- [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
+- [myrtille-rdp/myrtille](https://github.com/myrtille-rdp/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
 - [skydome20/crawler_CIA_CREST](https://github.com/skydome20/crawler_CIA_CREST) - R-crawler for CIA website (CREST)
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
