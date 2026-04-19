@@ -314,7 +314,7 @@
 - [AyrA/mobile-ca](https://github.com/AyrA/mobile-ca) - Mobile Certificate Authority
 - [chromium/vs-chromium](https://github.com/chromium/vs-chromium) - A Visual Studio extension containing a collection of tools to help contributing code to the Chromium project.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-- [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
+- [myrtille-rdp/myrtille](https://github.com/myrtille-rdp/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
 - [back37/MTK-FirmwareAdapter-Tool](https://github.com/back37/MTK-FirmwareAdapter-Tool) - Sources of MTK FirmwareAdapter Tool, now on GitHub
 - [0xbadjuju/Tokenvator](https://github.com/0xbadjuju/Tokenvator) - A tool to elevate privilege with Windows Tokens
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
