@@ -607,7 +607,6 @@
 
 - [meetkool/FREE-GPT-4](https://github.com/meetkool/FREE-GPT-4) - FREEGPT4 is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI.
 - [promptslab/openai-detector](https://github.com/promptslab/openai-detector) - AI classifier for indicating AI-written text
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 ## chatgpt-api 
 
