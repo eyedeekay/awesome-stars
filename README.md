@@ -507,6 +507,8 @@
 
 ## Go 
 
+- [decred/dcrdex](https://github.com/decred/dcrdex) - The Decred Decentralized Exchange (DEX), powered by atomic-swaps.
+- [itchyny/go2bf](https://github.com/itchyny/go2bf) - Compile Go to Brainfuck!
 - [misha-ssh/kernel](https://github.com/misha-ssh/kernel) - ⚡️ The core for ssh client on go
 - [misha-ssh/cli](https://github.com/misha-ssh/cli) - 💻  Misha - tui ssh client
 - [babycommando/zuse](https://github.com/babycommando/zuse) - ZUSE is an irc client for the terminal made in Go with Bubbletea
@@ -2981,6 +2983,7 @@
 
 ## TypeScript 
 
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
