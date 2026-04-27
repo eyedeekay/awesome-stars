@@ -2823,7 +2823,6 @@
 - [kpetku/go-i2p](https://github.com/kpetku/go-i2p) - Forked from and continuing on https://github.com/hkparker/go-i2p
 - [vikstrous/gotox](https://github.com/vikstrous/gotox) - [wip] a re-implementation of toxcore in go
 - [Xpl0itU/WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
-- [DoingFedTime/AirGappedSystemExplained](https://github.com/DoingFedTime/AirGappedSystemExplained) - A SVG visualization explaining air-gapped systems.
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
 - [blusip/blu](https://github.com/blusip/blu) - Yet another SIP server.
@@ -3435,7 +3434,6 @@
 - [holepunchto/dht-rpc](https://github.com/holepunchto/dht-rpc) - Make RPC calls over a Kademlia based DHT.
 - [holepunchto/hyperdht](https://github.com/holepunchto/hyperdht) - The DHT powering Hyperswarm
 - [stephanos/go-reactjs](https://github.com/stephanos/go-reactjs) - React.js server-side rendering with Go
-- [mikix/deb2snap](https://github.com/mikix/deb2snap) - 
 - [garbados/dat-gateway](https://github.com/garbados/dat-gateway) - In-memory Dat to HTTP gateway
 - [RSenApps/nchainz](https://github.com/RSenApps/nchainz) - A High Performance, Decentralized Cryptocurrency Exchange
 - [sammacbeth/dat-fox](https://github.com/sammacbeth/dat-fox) - dat:// protocol as a Firefox webextension
