@@ -172,7 +172,6 @@
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [russdill/tunsocks](https://github.com/russdill/tunsocks) - User-level IP forwarding, SOCKS proxy, and HTTP proxy for VPNs that provide tun-like interface
 - [zoff99/ToxAndroidRefImpl](https://github.com/zoff99/ToxAndroidRefImpl) - Tox Reference implementation for Android
-- [mikix/deb2snap](https://github.com/mikix/deb2snap) - 
 - [mwarning/dat-c](https://github.com/mwarning/dat-c) - A hobby implementation of the dat protocol in C
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -2271,7 +2270,6 @@
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
 - [Ubuntu-Sway/Ubuntu-Sway-Remix](https://github.com/Ubuntu-Sway/Ubuntu-Sway-Remix) - Ubuntu with Sway wayland compositor
-- [DoingFedTime/AirGappedSystemExplained](https://github.com/DoingFedTime/AirGappedSystemExplained) - A SVG visualization explaining air-gapped systems.
 - [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
 - [hiszpanski/osx-arm-linux-toolchains](https://github.com/hiszpanski/osx-arm-linux-toolchains) - Pre-built ARM/Linux C cross-compilers for MacOS
 - [i2p/i2p.graphics](https://github.com/i2p/i2p.graphics) - I2P Graphics (Git mirror of mtn://mtn.i2p-projekt.de?i2p.graphics)
