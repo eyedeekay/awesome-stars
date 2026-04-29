@@ -517,7 +517,7 @@
 - [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [KilianSen/go-wsb](https://github.com/KilianSen/go-wsb) - Windows Sandbox Configuration Wrapper in GoLang
-- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Go + Godot
+- [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Runtime for Go + Godot
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1748,7 +1748,6 @@
 
 - [planetary-social/nos](https://github.com/planetary-social/nos) - nos.social social media for all of us, using nostr
 - [eyedeekay/Copy-Tab-URL](https://github.com/eyedeekay/Copy-Tab-URL) - Copy Tab URL WebExtension for at least Firefox
-- [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [0xless/clickjackpocgen](https://github.com/0xless/clickjackpocgen) - Simple PoC generator for clickjacking vulnerabilities
 - [eyedeekay/i2p.plugins.tor-manager](https://github.com/eyedeekay/i2p.plugins.tor-manager) - Cross-platform Tor Browser and Tor Service Manager/Updater intended mostly for I2P.
 - [marek22k/p2p-chat](https://github.com/marek22k/p2p-chat) - A simple peer-to-peer chat that uses the PeerMessage plugin for communication and the CryptMessage plugin and Ecies for encryption.
@@ -2461,6 +2460,7 @@
 - [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removal Toolkit - Open Source and API Models
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. ✨ no APIs ✨
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) - 40K, small memory footprint, single binary that run list of commands in parallel and waits for their termination
+- [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [meetkool/FREE-GPT-4](https://github.com/meetkool/FREE-GPT-4) - FREEGPT4 is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI.
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
 - [bonehurtingjuice/mattereddit](https://github.com/bonehurtingjuice/mattereddit) - Matterbridge API plugin for Reddit Community Chat
