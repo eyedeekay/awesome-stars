@@ -68,6 +68,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Standard ML](#standard-ml)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -2967,6 +2968,10 @@
 
 - [dbohdan/initool](https://github.com/dbohdan/initool) - Manipulate INI files from the command line
 - [mempo/mempo-kernel](https://github.com/mempo/mempo-kernel) - Deterministic kernel build scripts, for Linux, mainly for Debian
+
+## Svelte 
+
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 
 ## Swift 
 
