@@ -269,6 +269,7 @@
 
 ## ai 
 
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
@@ -1574,6 +1575,7 @@
 
 ## golang 
 
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
 - [quaadgras/graphics.gd](https://github.com/quaadgras/graphics.gd) - Runtime for Go + Godot
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
@@ -5289,6 +5291,7 @@
 
 ## ui 
 
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
@@ -5382,6 +5385,7 @@
 
 ## web 
 
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 - [JNRowe/surfraw](https://github.com/JNRowe/surfraw) - Mirror of the upstream git repository
 - [gngrOrg/gngr](https://github.com/gngrOrg/gngr) - a cross-platform browser focussed on privacy.
@@ -5409,6 +5413,7 @@
 
 ## webapp 
 
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [slaveofcode/hansip](https://github.com/slaveofcode/hansip) - Group file sharing using End-to-End Encryption
 - [yujiahaol68/rossy](https://github.com/yujiahaol68/rossy) - An out of box and self-host rss web reader
 - [eikek/sharry](https://github.com/eikek/sharry) - Sharry is a self-hosted file sharing web application.
