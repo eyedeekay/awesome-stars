@@ -889,7 +889,6 @@
 - [v2ray/geoip](https://github.com/v2ray/geoip) - 
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [gowebexamples/goreddit](https://github.com/gowebexamples/goreddit) - Creating a reddit clone in Go
-- [demizer/go-rst](https://github.com/demizer/go-rst) - Parse reStructuredText with Go.
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 - [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
 - [fd/go-git-remote-helper](https://github.com/fd/go-git-remote-helper) - 
