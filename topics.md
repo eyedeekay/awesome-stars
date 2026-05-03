@@ -658,7 +658,6 @@
 - [Go-phie/gophie](https://github.com/Go-phie/gophie) - An Aggregator Engine for searching and downloading movies free - NO ADs!
 - [rapidloop/rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
-- [demizer/go-rst](https://github.com/demizer/go-rst) - Parse reStructuredText with Go.
 - [thamizhv/tgnutella](https://github.com/thamizhv/tgnutella) - Gnutella servent with basic functionalities in golang
 - [mesuutt/sherlock](https://github.com/mesuutt/sherlock) - :mag_right: Find usernames across social networks
 - [agentofuser/git-remote-tor](https://github.com/agentofuser/git-remote-tor) - Seamless .onion and tor-ified git remotes
@@ -1381,7 +1380,6 @@
 - [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer) - The Evolution of a Go Programmer
 - [thestrukture/IDE](https://github.com/thestrukture/IDE) - A Go code editor. With debugging and Autocomplete. 一个 Go 代码编辑器，具有 DEBUGGING 和 AUTOCOMPLETE
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
-- [demizer/go-rst](https://github.com/demizer/go-rst) - Parse reStructuredText with Go.
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 - [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
