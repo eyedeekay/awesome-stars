@@ -516,7 +516,7 @@
 - [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
 - [redwood/redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
 - [nknorg/nkn](https://github.com/nknorg/nkn) - Official Go implementation of NKN full node.
-- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
+- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - Framework for building performant, customizable blockchains with native interoperability
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
 - [MixinNetwork/mixin](https://github.com/MixinNetwork/mixin) - 🚀 The Mixin-BFT-DAG network reference implementation.
 - [deroproject/derosuite](https://github.com/deroproject/derosuite) - DERO: Secure, Anonymous Blockchain with Smart Contracts.  Subscribe to Dero announcements by sending mail to lists@dero.io with subject: subscribe announcements
@@ -793,7 +793,7 @@
 - [minexmr2/minexmr2](https://github.com/minexmr2/minexmr2) - First open-source Monero mining pool using decentralized p2pool as a hashrate-liquidity provider for frequent payouts (approx. 2.1 times/hour)
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [raspibolt/raspibolt](https://github.com/raspibolt/raspibolt) - RaspiBolt v3: Bitcoin & Lightning full node on a Raspberry Pi
-- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
+- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - Framework for building performant, customizable blockchains with native interoperability
 - [cruzbit/cruzbit](https://github.com/cruzbit/cruzbit) - A simple decentralized peer-to-peer ledger implementation
 - [Equim-chan/vanity-monero](https://github.com/Equim-chan/vanity-monero) - :credit_card: Generate vanity address for CryptoNote currency (Monero etc.).
 - [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
@@ -1414,7 +1414,7 @@
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
+- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - Framework for building performant, customizable blockchains with native interoperability
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [huin/goupnp](https://github.com/huin/goupnp) - UPnP client library for Go (#golang)
 - [moshee/airlift](https://github.com/moshee/airlift) - A self-hosted file upload and sharing service
@@ -1712,7 +1712,7 @@
 - [KeKsBoTer/socialloot](https://github.com/KeKsBoTer/socialloot) - 💎 A Reddit like content sharing platform made with Go
 - [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
-- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
+- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - Framework for building performant, customizable blockchains with native interoperability
 - [saiajaym/gorrent](https://github.com/saiajaym/gorrent) - Implemetation of peer to peer file sharing based on paper "Incentives Build Robustness in BitTorrent"
 - [cruzbit/cruzbit](https://github.com/cruzbit/cruzbit) - A simple decentralized peer-to-peer ledger implementation
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
@@ -2779,6 +2779,7 @@
 
 ## others 
 
+- [bisq-network/bisq2](https://github.com/bisq-network/bisq2) - 
 - [decred/dcrdex](https://github.com/decred/dcrdex) - The Decred Decentralized Exchange (DEX), powered by atomic-swaps.
 - [itchyny/go2bf](https://github.com/itchyny/go2bf) - Compile Go to Brainfuck!
 - [misha-ssh/kernel](https://github.com/misha-ssh/kernel) - ⚡️ The core for ssh client on go
