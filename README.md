@@ -868,7 +868,6 @@
 - [tv42/alone](https://github.com/tv42/alone) - Go Alone is an experiment into running Go as an appliance-oriented operating system
 - [imgk/shadow](https://github.com/imgk/shadow) - A rule-based transparent proxy for Windows, Linux, macOS
 - [vishvananda/netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [goproxy/goproxy](https://github.com/goproxy/goproxy) - A minimalist Go module proxy handler.
 - [hajimehoshi/go2dotnet](https://github.com/hajimehoshi/go2dotnet) - A converter from Go to .NET (C#)
 - [elimisteve/v2go](https://github.com/elimisteve/v2go) - V-to-Go translator
@@ -1005,7 +1004,7 @@
 - [nictuku/bitz](https://github.com/nictuku/bitz) - A BitMessage headless client and library
 - [ishbir/bmgo](https://github.com/ishbir/bmgo) - Implementation of Bitmessage Protocol in Go
 - [bytting/bitmessage-go](https://github.com/bytting/bitmessage-go) - Bitmessage client written in Go
-- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
+- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - Framework for building performant, customizable blockchains with native interoperability
 - [izqui/blockchain](https://github.com/izqui/blockchain) - A basic blockchain implementation written in Go
 - [saiajaym/gorrent](https://github.com/saiajaym/gorrent) - Implemetation of peer to peer file sharing based on paper "Incentives Build Robustness in BitTorrent"
 - [cruzbit/cruzbit](https://github.com/cruzbit/cruzbit) - A simple decentralized peer-to-peer ledger implementation
@@ -1828,6 +1827,7 @@
 
 ## Java 
 
+- [bisq-network/bisq2](https://github.com/bisq-network/bisq2) - 
 - [Vin-Nan/I2p](https://github.com/Vin-Nan/I2p) - 
 - [SaiUpadhyayula/java-sftpserver](https://github.com/SaiUpadhyayula/java-sftpserver) - A simple SFTP Server implemented using Apache Mina SSHD library using Java and Spring boot
 - [dzaima/chat](https://github.com/dzaima/chat) - A Matrix chat client
@@ -2004,6 +2004,7 @@
 - [luk3yx/underbite](https://github.com/luk3yx/underbite) - A modern-ish gopher:// viewer, using the Floodgap Gopher proxy.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [maciekmm/container-tabs-sidebar](https://github.com/maciekmm/container-tabs-sidebar) - Firefox addon aiming to utilize screen estate more efficiently by showing tabs in a sidebar grouped by privacy containers. Inspired by TreeStyleTab.
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [EffectiveAF/effective](https://github.com/EffectiveAF/effective) - Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [
 - [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
 - [eyedeekay/I2P-in-Private-Browsing-Mode-Firefox](https://github.com/eyedeekay/I2P-in-Private-Browsing-Mode-Firefox) - I2P in Private Browsing mode for Firefox, built using Webextensions and Contextual Identities
