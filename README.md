@@ -507,6 +507,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [decred/dcrdex](https://github.com/decred/dcrdex) - The Decred Decentralized Exchange (DEX), powered by atomic-swaps.
 - [itchyny/go2bf](https://github.com/itchyny/go2bf) - Compile Go to Brainfuck!
 - [misha-ssh/kernel](https://github.com/misha-ssh/kernel) - ⚡️ The core for ssh client on go
