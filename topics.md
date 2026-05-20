@@ -271,6 +271,7 @@
 ## agents 
 
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
 
 ## ai 
 
@@ -2791,7 +2792,7 @@
 - [pluto-org-co/bluge](https://github.com/pluto-org-co/bluge) - indexing library for Go
 - [latedeployment/oci2bin](https://github.com/latedeployment/oci2bin) - Convert OCI images into polyglot ELF+tar executables that run without Docker
 - [pornin/go-fn-dsa](https://github.com/pornin/go-fn-dsa) - 
-- [SulfurNitride/Fluorine-Manager](https://github.com/SulfurNitride/Fluorine-Manager) - A port of MO2 in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default. It's in alpha and needs a lot of testing to be done.
+- [SulfurNitride/Fluorine-Manager](https://github.com/SulfurNitride/Fluorine-Manager) - A port of MO2 in linux with NaK integration and FUSE based VFS. Comes with Root Builder support by default.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [go-i2p/go-i2p-ccc-presentation-2025](https://github.com/go-i2p/go-i2p-ccc-presentation-2025) - CCC Workshop Intro Slides
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
