@@ -4378,7 +4378,6 @@
 - [RicinApp/ricinapp.github.io](https://github.com/RicinApp/ricinapp.github.io) - Ricin .vapi files documentation.
 - [RicinApp/Ricin](https://github.com/RicinApp/Ricin) - A dead simple, privacy oriented, instant messaging client! https://ricin.im
 - [RicinApp/tox-vapi](https://github.com/RicinApp/tox-vapi) - Tox vapi's files for Ricin client.
-- [hyphanet/fred](https://github.com/hyphanet/fred) - Freenet REference Daemon
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [GrayHatter/ghi](https://github.com/GrayHatter/ghi) - GitHub Issues on the command line. Use your $EDITOR, not your browser.
 - [dangowrt/gnunet-15.05](https://github.com/dangowrt/gnunet-15.05) - GNUnet packages for OpenWrt 15.05 Chaos Calmer
@@ -4622,6 +4621,7 @@
 - [GrapheneOS-Archive/linux-hardened](https://github.com/GrapheneOS-Archive/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable 
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [hyphanet/fred](https://github.com/hyphanet/fred) - Freenet REference Daemon
 
 ## productivity 
 
