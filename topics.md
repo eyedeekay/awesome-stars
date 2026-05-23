@@ -2783,7 +2783,6 @@
 
 ## others 
 
-- [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) - YellowKey Bitlocker Bypass Vulnerability
 - [bisq-network/bisq2](https://github.com/bisq-network/bisq2) - 
 - [decred/dcrdex](https://github.com/decred/dcrdex) - The Decred Decentralized Exchange (DEX), powered by atomic-swaps.
 - [itchyny/go2bf](https://github.com/itchyny/go2bf) - Compile Go to Brainfuck!
