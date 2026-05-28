@@ -1943,6 +1943,7 @@
 - [mageddo/dns-proxy-server](https://github.com/mageddo/dns-proxy-server) - Solve your DNS hosts from your docker containers, then from your local configuration, then from internet
 - [landryshuai/NetWatch](https://github.com/landryshuai/NetWatch) - network watch based on xposed
 - [upost/MoneroMiner](https://github.com/upost/MoneroMiner) - Proof of concept for using xmrig mining inside an Android APK
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [piratelinux/piratepack-i2p](https://github.com/piratelinux/piratepack-i2p) - The i2p part of piratepack.
 - [i2p-observer/i2p-observer](https://github.com/i2p-observer/i2p-observer) - 
@@ -2554,7 +2555,7 @@
 - [vlall/Darksearch](https://github.com/vlall/Darksearch) - :mag::shipit: Search engine for hidden material. Scraping dark web onions, irc logs, deep web etc...
 - [l-n-s/i2plib](https://github.com/l-n-s/i2plib) - 🐍 i2plib: A modern asynchronous library for building I2P applications
 - [l-n-s/i2pvain.py](https://github.com/l-n-s/i2pvain.py) - Fancy I2P address generator
-- [Kicksecure/sdwdate](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate
+- [Kicksecure/sdwdate](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date time synchronization daemon and console time fetcher
 - [Tribler/py-ipv8](https://github.com/Tribler/py-ipv8) - Python implementation of Tribler's IPv8 p2p-networking layer
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [akamai-threat-research/mqtt-pwn](https://github.com/akamai-threat-research/mqtt-pwn) - MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations.
@@ -2579,7 +2580,6 @@
 - [HelloZeroNet/ZeroNet-kivy](https://github.com/HelloZeroNet/ZeroNet-kivy) - Android client for ZeroNet
 - [meejah/txtorcon](https://github.com/meejah/txtorcon) - Twisted-based asynchronous Tor control protocol implementation. Includes unit-tests, examples, state-tracking code and configuration abstraction.
 - [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
@@ -2607,7 +2607,7 @@
 - [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service
 - [mezmso/hacking_harness](https://github.com/mezmso/hacking_harness) - Hacking harness like hash
 - [SusmithKrishnan/torghost](https://github.com/SusmithKrishnan/torghost) - TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsa
-- [Kicksecure/tor-control-panel](https://github.com/Kicksecure/tor-control-panel) - Tor controller
+- [Kicksecure/tor-control-panel](https://github.com/Kicksecure/tor-control-panel) - Tor controller graphical control panel
 - [danigargu/explodingcan](https://github.com/danigargu/explodingcan) - An implementation of NSA's ExplodingCan exploit in Python
 - [yacy/yacy_expert](https://github.com/yacy/yacy_expert) - A search engine which will answer to all questions
 - [quentinhardy/scriptsAndExploits](https://github.com/quentinhardy/scriptsAndExploits) - Some scripts and exploits
@@ -2847,7 +2847,7 @@
 - [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) - 
 - [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform WPA/WPA2 auditing and MITM auditing.
 - [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
-- [Kicksecure/repository-dist](https://github.com/Kicksecure/repository-dist) - 
+- [Kicksecure/repository-dist](https://github.com/Kicksecure/repository-dist) - Adds the Kicksecure / Whonix APT repository to derivative builds
 - [Alex313031/ThoriumOS](https://github.com/Alex313031/ThoriumOS) - ChromiumOS fork with Thorium Browser, x264/x265 codecs, Widevine, Kernel 5.15, Linux firmware/modules support, Nouveau, Intel microcode, and extra packages.
 - [gregoriomomm/docker-multsocks](https://github.com/gregoriomomm/docker-multsocks) - docker-microtsocks
 - [3xploitGuy/lazyaircrack](https://github.com/3xploitGuy/lazyaircrack) - Automated tool for WiFi hacking.
@@ -2922,7 +2922,7 @@
 - [mikalv/i2p-browser-build-scripts](https://github.com/mikalv/i2p-browser-build-scripts) - Build scripts for the I2P Browser
 - [tolstoyevsky/pieman](https://github.com/tolstoyevsky/pieman) - A script for creating custom OS images for single-board computers
 - [jjtt/alpine-pi](https://github.com/jjtt/alpine-pi) - Scripts for filling an sd-card for a raspberry pi with alpine linux
-- [Kicksecure/tb-updater](https://github.com/Kicksecure/tb-updater) - Tor Browser Downloader - Automates download and verification of Tor Browser from The Tor Project's website. This package is produced independently of, and carries no guarantee from, The Tor Project.
+- [Kicksecure/tb-updater](https://github.com/Kicksecure/tb-updater) - Tor Browser Downloader that automates download and verification of Tor Browser
 - [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
 - [orjail/orjail](https://github.com/orjail/orjail) - a more secure way to force programs to exclusively use tor network
 - [streamr-dev/streamr-docker-dev](https://github.com/streamr-dev/streamr-docker-dev) - Tool for quickly setting up a copy of the Streamr stack for development and testing
@@ -2946,8 +2946,8 @@
 - [go-debos/debos-recipes](https://github.com/go-debos/debos-recipes) - Collection of debos recipes
 - [Hackplayers/4nonimizer](https://github.com/Hackplayers/4nonimizer) - A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN)
 - [firstlookmedia/deployables](https://github.com/firstlookmedia/deployables) - :wastebasket: a basket of deploy scripts
-- [Kicksecure/tb-starter](https://github.com/Kicksecure/tb-starter) - Tor Browser Starter. Open Link Confirmation; Qubes integration; Command line --new-tab, --new-window; start menu entry; This package is produced independently of, and carries no guarantee from, The To
-- [adrelanos/anon-meta-packages](https://github.com/adrelanos/anon-meta-packages) - Meta Packages for Anonymity Distributions - Selections of packages required/recommended to have installed on Anonymity Distributions.
+- [Kicksecure/tb-starter](https://github.com/Kicksecure/tb-starter) - Tor Browser Starter with Open Link Confirmation, Qubes integration, command line options, and menu entry
+- [adrelanos/anon-meta-packages](https://github.com/adrelanos/anon-meta-packages) - Whonix meta-packages bundling package dependencies for Workstation and Gateway variants
 - [amoghbl1/Orfox](https://github.com/amoghbl1/Orfox) - This is my repository for the orfox browser, a browser that uses tor to communicate and Firefox for Android as it's base.
 - [ChristophHaag/bash-searchengine](https://github.com/ChristophHaag/bash-searchengine) - A little search engine written in bash using the filesystem as database, currently hardcoded with i2p URLs
 - [HiroshiManRise/anonym8](https://github.com/HiroshiManRise/anonym8) - Sets Transparent proxy tunnel through Tor, I2P, Privoxy, Polipo and modify DNS; Include Anonymizing Relay Monitor (arm), macchanger and wipe (Cleans ram/cache & swap-space) features, ID spoofing has n
