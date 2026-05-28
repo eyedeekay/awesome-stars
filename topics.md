@@ -371,7 +371,7 @@
 - [ScriptSmith/socialreaper](https://github.com/ScriptSmith/socialreaper) - Social media scraping / data collection library for Facebook, Twitter, Reddit, YouTube, Pinterest, and Tumblr APIs
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## arduino 
@@ -507,7 +507,7 @@
 - [pielco11/DOGE](https://github.com/pielco11/DOGE) - Darknet Osint Graph Explorer
 - [bulwark-crypto/Bulwark](https://github.com/bulwark-crypto/Bulwark) - The primary development repository for the Bulwark project
 - [aiportal/gowallet](https://github.com/aiportal/gowallet) - A Bitcoin HD Wallet software. Use a long key and a simple phrase to generate tens of thousands of Bitcoin wallet addresses.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 
 ## blockchain 
@@ -548,7 +548,7 @@
 - [Galigator/Mattermost-client](https://github.com/Galigator/Mattermost-client) - A simple java client for the api V4 of Mattermost compatible with Mattermost 4.5 The client aim at writing java Bot for Mattermost.
 - [zonkeynet/ZonkeyNet](https://github.com/zonkeynet/ZonkeyNet) - RADIO Mesh Network
 - [SaturnsVoid/GoBot2](https://github.com/SaturnsVoid/GoBot2) - Second Version of The GoBot Botnet, But more advanced.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 
 ## bugbounty 
 
@@ -801,7 +801,7 @@
 - [bulwark-crypto/Bulwark](https://github.com/bulwark-crypto/Bulwark) - The primary development repository for the Bulwark project
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
 - [xmrig/xmrig](https://github.com/xmrig/xmrig) - RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [Ragnaroek/mithril](https://github.com/Ragnaroek/mithril) - Pure Rust Monero Miner
 - [bradoyler/xmr-miner](https://github.com/bradoyler/xmr-miner) - Web-based Cryptocurrency miner, built with Vue.js
 - [CamilleScholtz/sako](https://github.com/CamilleScholtz/sako) - A self-hosted Monero web-interface.
@@ -1104,7 +1104,7 @@
 - [gitcoinco/web](https://github.com/gitcoinco/web) - Grow Open Source
 - [RTradeLtd/mining-bootstrap](https://github.com/RTradeLtd/mining-bootstrap) - 👞 cryptocurrency mining farm bootstrap and management kit - team GREEEEEN BABY
 - [RTradeLtd/Temporal](https://github.com/RTradeLtd/Temporal) - ☄️ Temporal is an easy-to-use, enterprise-grade interface into distributed and decentralized storage
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 
 ## facebook 
 
@@ -1948,6 +1948,7 @@
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [ghaerr/microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
+- [Kicksecure/tor-control-panel](https://github.com/Kicksecure/tor-control-panel) - Tor controller graphical control panel
 
 ## hack 
 
@@ -2391,7 +2392,7 @@
 - [lrstanley/girc](https://github.com/lrstanley/girc) - :bomb: girc is a flexible IRC library for Go :ok_hand:
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [McKael/madon](https://github.com/McKael/madon) - Golang Mastodon API library
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [codedust/go-tox](https://github.com/codedust/go-tox) - Go wrapper for the toxcore library - contributions welcome!
 - [nopn0p/rkorova](https://github.com/nopn0p/rkorova) - ld_preload userland rootkit
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -2960,7 +2961,7 @@
 - [caiguanhao/certutils](https://github.com/caiguanhao/certutils) - Wildcard certificates tools: Obtain certbot's (Let's Encrypt) wildcard certificates by updating DNS TXT records and answering stupid certbot questions for you.
 - [bhearsum/gothmog](https://github.com/bhearsum/gothmog) - minimal implementation of the firefox update server in go
 - [idoqo/foxtop](https://github.com/idoqo/foxtop) - WIP: Your Firefox history - on the terminal
-- [Kicksecure/repository-dist](https://github.com/Kicksecure/repository-dist) - 
+- [Kicksecure/repository-dist](https://github.com/Kicksecure/repository-dist) - Adds the Kicksecure / Whonix APT repository to derivative builds
 - [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 - [mozilla/sign-addon](https://github.com/mozilla/sign-addon) - Sign a Firefox add-on with Mozilla's web service
@@ -3797,7 +3798,6 @@
 - [zlatinb/muwire](https://github.com/zlatinb/muwire) - MuWire file sharing client for I2P
 - [itajaja/hb](https://github.com/itajaja/hb) - a dungeon crawler written in TypeScript using React and svg
 - [l-n-s/i2pvain.py](https://github.com/l-n-s/i2pvain.py) - Fancy I2P address generator
-- [Kicksecure/sdwdate](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate
 - [jbenet/go-peerstream](https://github.com/jbenet/go-peerstream) - p2p stream multi-multiplexing in Go (with https://github.com/docker/spdystream)
 - [Yuhang/xserver](https://github.com/Yuhang/xserver) - A RTMFP Server for Flash P2P, written in Go
 - [worldveil/peerchat](https://github.com/worldveil/peerchat) - Distributed, P2P, realtime chat application based on Kademlia DHT
@@ -3944,7 +3944,7 @@
 - [jjtt/alpine-pi](https://github.com/jjtt/alpine-pi) - Scripts for filling an sd-card for a raspberry pi with alpine linux
 - [ralphwetzel/theonionbox](https://github.com/ralphwetzel/theonionbox) - Dashboard to monitor Tor node operations
 - [chr15m/dirc](https://github.com/chr15m/dirc) - p2p IRC-inspired self-hosted web chat.
-- [Kicksecure/tb-updater](https://github.com/Kicksecure/tb-updater) - Tor Browser Downloader - Automates download and verification of Tor Browser from The Tor Project's website. This package is produced independently of, and carries no guarantee from, The Tor Project.
+- [Kicksecure/tb-updater](https://github.com/Kicksecure/tb-updater) - Tor Browser Downloader that automates download and verification of Tor Browser
 - [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
 - [orjail/orjail](https://github.com/orjail/orjail) - a more secure way to force programs to exclusively use tor network
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
@@ -4109,7 +4109,6 @@
 - [rain-1/filezilla-ng](https://github.com/rain-1/filezilla-ng) - A fresh and clean fork of the FTP client filezilla
 - [holepunchto/hyperdrive](https://github.com/holepunchto/hyperdrive) - Hyperdrive is a secure, real time distributed file system
 - [irungentoo/toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
-- [Kicksecure/tor-control-panel](https://github.com/Kicksecure/tor-control-panel) - Tor controller
 - [danigargu/explodingcan](https://github.com/danigargu/explodingcan) - An implementation of NSA's ExplodingCan exploit in Python
 - [Monero-Monitor/monero-monitor](https://github.com/Monero-Monitor/monero-monitor) - A Chrome extension for monitoring the Monero network
 - [sunrisedo/monero](https://github.com/sunrisedo/monero) - MONERO-API
@@ -4199,7 +4198,7 @@
 - [adtac/commento](https://github.com/adtac/commento) - A fast, bloat-free comments platform (Github mirror)
 - [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare) - RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.
 - [dedis/Dissent](https://github.com/dedis/Dissent) - Provably Anonymous Overlay
-- [adrelanos/anon-meta-packages](https://github.com/adrelanos/anon-meta-packages) - Meta Packages for Anonymity Distributions - Selections of packages required/recommended to have installed on Anonymity Distributions.
+- [adrelanos/anon-meta-packages](https://github.com/adrelanos/anon-meta-packages) - Whonix meta-packages bundling package dependencies for Workstation and Gateway variants
 - [yuq/mesa-lima](https://github.com/yuq/mesa-lima) - Deprecated, new place: https://gitlab.freedesktop.org/lima
 - [SaraVieira/make-frontend-shit-again](https://github.com/SaraVieira/make-frontend-shit-again) - 
 - [Hantael/ftl](https://github.com/Hantael/ftl) - FTL game in command line
@@ -4595,6 +4594,7 @@
 - [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [GrapheneOS/platform_packages_apps_Updater](https://github.com/GrapheneOS/platform_packages_apps_Updater) - Automatic background updater for modern Android. See https://github.com/GrapheneOS/script/blob/-/generate-metadata for the server metadata generation tool.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
+- [Kicksecure/sdwdate](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date time synchronization daemon and console time fetcher
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [bulwark-crypto/Bulwark](https://github.com/bulwark-crypto/Bulwark) - The primary development repository for the Bulwark project
 - [l-n-s/QuickShare](https://github.com/l-n-s/QuickShare) - Share files quickly and anonymously over the I2P network.
@@ -4607,10 +4607,12 @@
 - [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [elbywan/yett](https://github.com/elbywan/yett) - 🔐A small webpage library to control the execution of (third party) scripts
+- [Kicksecure/tor-control-panel](https://github.com/Kicksecure/tor-control-panel) - Tor controller graphical control panel
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
+- [Kicksecure/tb-starter](https://github.com/Kicksecure/tb-starter) - Tor Browser Starter with Open Link Confirmation, Qubes integration, command line options, and menu entry
 - [str4d/ire](https://github.com/str4d/ire) - I2P router implementation in Rust
 - [tattwamasii2p/i2pchat](https://github.com/tattwamasii2p/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
@@ -4982,6 +4984,7 @@
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
+- [Kicksecure/sdwdate](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date time synchronization daemon and console time fetcher
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [gpestana/notes](https://github.com/gpestana/notes) - notes, ideas and whatnot
 - [trailofbits/twa](https://github.com/trailofbits/twa) - A tiny web auditor with strong opinions.
@@ -5003,7 +5006,6 @@
 - [HardenedBSD/hardenedBSD](https://github.com/HardenedBSD/hardenedBSD) - HardenedBSD implements strong exploit mitigations and security hardening technologies on top of FreeBSD, with a direct focus on the nexus between human rights and information security. HardenedBSD is 
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [1N3/PRISM-AP](https://github.com/1N3/PRISM-AP) - An automated Wireless RogueAP MITM attack framework.
-- [Kicksecure/tb-starter](https://github.com/Kicksecure/tb-starter) - Tor Browser Starter. Open Link Confirmation; Qubes integration; Command line --new-tab, --new-window; start menu entry; This package is produced independently of, and carries no guarantee from, The To
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [tattwamasii2p/i2pchat](https://github.com/tattwamasii2p/i2pchat) - 🌀 i2pchat's old repo. This repo is deprecated in favor of https://github.com/i2pchat/i2pchat which is now the main repo.
 - [PurpleI2P/i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
@@ -5243,7 +5245,7 @@
 
 - [shobrook/BitVision](https://github.com/shobrook/BitVision) - Trade Bitcoin and run forecasting models from the terminal
 - [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 
 ## tui 
 
