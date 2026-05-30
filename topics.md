@@ -3505,7 +3505,7 @@
 - [retrohacker/peerweb.js](https://github.com/retrohacker/peerweb.js) - A client side library for fetching and rendering a static website via torrent over WebRTC
 - [uradotdesign/i2p-styleguide](https://github.com/uradotdesign/i2p-styleguide) - I2P brand styleguides for the web
 - [zlatinb/i2p.jlink](https://github.com/zlatinb/i2p.jlink) - Scripts that build mini-JREs for the I2P router.
-- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [cjdelisle/goposit](https://github.com/cjdelisle/goposit) - Library for Posit math in golang
 - [everdox/InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
 - [ewust/telex](https://github.com/ewust/telex) - Telex anticensorship prototype
