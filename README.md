@@ -507,7 +507,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [decred/dcrdex](https://github.com/decred/dcrdex) - The Decred Decentralized Exchange (DEX), powered by atomic-swaps.
 - [itchyny/go2bf](https://github.com/itchyny/go2bf) - Compile Go to Brainfuck!
 - [misha-ssh/kernel](https://github.com/misha-ssh/kernel) - ⚡️ The core for ssh client on go
@@ -1970,6 +1970,7 @@
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [eyedeekay/Actually-Work-Offline](https://github.com/eyedeekay/Actually-Work-Offline) - WebExtension to replaces Mozilla's aggressively useless Work Offline implementation. Requires a wrapper, works by installing an extension into a profile which uninstalls itself.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [CodingTrain/Oregon-Trail](https://github.com/CodingTrain/Oregon-Trail) - A p5.js version of the Apple ][ Oregon Trail Game
 - [linuxserver/emulatorjs](https://github.com/linuxserver/emulatorjs) - Self hosted web based retro emulation front end with rom and art management.
 - [SwiftIRC/Web-IRC](https://github.com/SwiftIRC/Web-IRC) - A feature-rich Websocket IRC client in JavaScript
@@ -2990,7 +2991,6 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) - Creepy device and browser fingerprinting
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
