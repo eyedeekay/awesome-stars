@@ -558,7 +558,6 @@
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [go-i2p/go-gittisane](https://github.com/go-i2p/go-gittisane) - A soft-fork of gitea with support for running as an I2P service. Just the mod and the CI files.
 - [pinpox/gitea-matrix-bot](https://github.com/pinpox/gitea-matrix-bot) - A bot to post gitea events to a matrix channel
-- [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [eyedeekay/go-indexer](https://github.com/eyedeekay/go-indexer) - Indexes torrent files better than zzzot-tracker-hack but uses a tiny bit of javascript
 - [eyedeekay/cert9util](https://github.com/eyedeekay/cert9util) - Tool/Library for editing Mozilla Firefox cert9 and key4 db's in Go
@@ -2704,6 +2703,7 @@
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 - [babycommando/torify-windows](https://github.com/babycommando/torify-windows) - Torify For The Windows Terminal - A rust wrapper to "torify" any command line tool on Windows.
 - [mmalmi/gun-rs-wasm](https://github.com/mmalmi/gun-rs-wasm) - Gun port in rust & wasm
+- [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [eepnet/emissary](https://github.com/eepnet/emissary) - Rust implementation of the I2P protocol stack
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
 - [eepnet/yosemite](https://github.com/eepnet/yosemite) - Asynchronous SAMv3 library
