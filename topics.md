@@ -44,6 +44,7 @@
 - [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
+- [code-review](#code-review)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -263,6 +264,7 @@
 
 ## agent 
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL inje
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
@@ -711,6 +713,10 @@
 ## code-quality 
 
 - [posener/goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Now available as a Github action!
+
+## code-review 
+
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL inje
 
 ## command-line 
 
@@ -2690,6 +2696,7 @@
 
 ## nodejs 
 
+- [Undertaker-afk/i2p-node](https://github.com/Undertaker-afk/i2p-node) - I2P Deamon / router in nodejs (typescript)
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [rpnow/rpnow](https://github.com/rpnow/rpnow) - The Do-It-Yourself Roleplay Chat Solution
 - [tlhunter/Cobalt-Calibur-3](https://github.com/tlhunter/Cobalt-Calibur-3) - DEFUNCT: HTML5 and Node.js multiplayer browser game from 2013
@@ -2783,6 +2790,9 @@
 
 ## others 
 
+- [crioto/i2p-blueprint](https://github.com/crioto/i2p-blueprint) - Subutai Blueprint for I2P router
+- [tattwamasii2p/hsi2p](https://github.com/tattwamasii2p/hsi2p) - An attempt to make an i2p router in Haskell (I don't know Haskell yet).
+- [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
 - [bisq-network/bisq2](https://github.com/bisq-network/bisq2) - 
 - [decred/dcrdex](https://github.com/decred/dcrdex) - The Decred Decentralized Exchange (DEX), powered by atomic-swaps.
 - [itchyny/go2bf](https://github.com/itchyny/go2bf) - Compile Go to Brainfuck!
@@ -4389,6 +4399,7 @@
 
 ## p2p 
 
+- [subutai-io/p2p](https://github.com/subutai-io/p2p) - P2P Cloud project allows users to build their private networks.
 - [kn0sys/is2fp](https://github.com/kn0sys/is2fp) - Dandelion-IS2FP uses random i2p relay servers for stem selection and fluff propagation
 - [SChernykh/p2pool](https://github.com/SChernykh/p2pool) - Decentralized pool for Monero mining
 - [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
@@ -5275,6 +5286,7 @@
 
 ## typescript 
 
+- [Undertaker-afk/i2p-node](https://github.com/Undertaker-afk/i2p-node) - I2P Deamon / router in nodejs (typescript)
 - [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
