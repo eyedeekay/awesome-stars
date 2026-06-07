@@ -507,6 +507,8 @@
 
 ## Go 
 
+- [subutai-io/p2p](https://github.com/subutai-io/p2p) - P2P Cloud project allows users to build their private networks.
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL inje
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [decred/dcrdex](https://github.com/decred/dcrdex) - The Decred Decentralized Exchange (DEX), powered by atomic-swaps.
 - [itchyny/go2bf](https://github.com/itchyny/go2bf) - Compile Go to Brainfuck!
@@ -2263,6 +2265,7 @@
 
 ## Others 
 
+- [tattwamasii2p/hsi2p](https://github.com/tattwamasii2p/hsi2p) - An attempt to make an i2p router in Haskell (I don't know Haskell yet).
 - [go-i2p/go-i2p-ccc-presentation-2025](https://github.com/go-i2p/go-i2p-ccc-presentation-2025) - CCC Workshop Intro Slides
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -2698,6 +2701,7 @@
 
 ## Rust 
 
+- [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
 - [DocJade/fluster_rs](https://github.com/DocJade/fluster_rs) - A futuristic filesystem that's stuck in the past.
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
@@ -2987,6 +2991,7 @@
 
 ## TypeScript 
 
+- [Undertaker-afk/i2p-node](https://github.com/Undertaker-afk/i2p-node) - I2P Deamon / router in nodejs (typescript)
 - [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
