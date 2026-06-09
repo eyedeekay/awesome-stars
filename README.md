@@ -1071,7 +1071,7 @@
 - [nxsre/sshfs-go](https://github.com/nxsre/sshfs-go) - A network filesystem client to connect to SSH servers [ implementation by golang ]
 - [jucie/basic](https://github.com/jucie/basic) - A compiler for BASIC programming language
 - [zot/go-fltk](https://github.com/zot/go-fltk) - Basic Go bindings for FLTK
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [cybozu-go/aptutil](https://github.com/cybozu-go/aptutil) - Go utilities for Debian APT repositories
 - [luoqeng/xmrlite-go](https://github.com/luoqeng/xmrlite-go) - monero wallet
