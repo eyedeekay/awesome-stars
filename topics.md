@@ -1007,7 +1007,7 @@
 - [KeKsBoTer/socialloot](https://github.com/KeKsBoTer/socialloot) - 💎 A Reddit like content sharing platform made with Go
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [OutlineFoundation/outline-server](https://github.com/OutlineFoundation/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
 - [diva-exchange/i2p](https://github.com/diva-exchange/i2p) - I2P Layer of diva.exchange. Based on i2pd, see https://github.com/PurpleI2P/i2pd
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image
@@ -1442,7 +1442,7 @@
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [alokmenghrajani/gpgeez](https://github.com/alokmenghrajani/gpgeez) - Small wrapper around golang.org/x/crypto/openpgp
 - [gkze/gh-stars](https://github.com/gkze/gh-stars) - :star: Keep your Github Stars fresh!
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [cybozu-go/aptutil](https://github.com/cybozu-go/aptutil) - Go utilities for Debian APT repositories
 - [kokizzu/goproc](https://github.com/kokizzu/goproc) - simple process manager helper library
@@ -2232,7 +2232,7 @@
 - [zapek/Xeres](https://github.com/zapek/Xeres) - A Friend-to-Friend, decentralized and secure application for communication and sharing
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [wasmerio/wasmer-java](https://github.com/wasmerio/wasmer-java) - ☕ WebAssembly runtime for Java
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
 - [dorkbox/Notify](https://github.com/dorkbox/Notify) - Linux, MacOS, or Windows (notification/growl/toast) popups for the desktop and applications for Java 8+
 - [jetty/jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more
 - [jupnp/jupnp](https://github.com/jupnp/jupnp) - UPnP/DLNA library for Java
@@ -2369,7 +2369,7 @@
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
@@ -2611,7 +2611,7 @@
 ## minecraft 
 
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
-- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme
+- [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-sc
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [TeamWizardry/Wizardry](https://github.com/TeamWizardry/Wizardry) - Delve into spell creation and become a wizard
 - [Angry-Pixel/The-Betweenlands](https://github.com/Angry-Pixel/The-Betweenlands) - A dark, hostile environment...
