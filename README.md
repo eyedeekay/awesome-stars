@@ -43,6 +43,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [M4](#m4)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -2228,6 +2229,10 @@
 
 - [hectorm/docker-qemu-reactos](https://github.com/hectorm/docker-qemu-reactos) - A Docker image for the ReactOS operating system.
 
+## MDX 
+
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
+
 ## Makefile 
 
 - [AS207960/acme-onion](https://github.com/AS207960/acme-onion) - 
@@ -2374,7 +2379,6 @@
 - [clflush/elf-infector](https://github.com/clflush/elf-infector) - ELF binary infector
 - [danoctavian/awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - curated list of open-source anti-censorship tools
 - [free-greek-iptv/greek-iptv](https://github.com/free-greek-iptv/greek-iptv) - Λίστα με κανάλια της Ελλάδας και της Κύπρου.
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Open Source AI Infra & Engineering Control Plane
 - [theintercept/trial-and-terror-data](https://github.com/theintercept/trial-and-terror-data) - Trial and Terror Dataset
 - [radareorg/awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
 - [upend/IF_MS_BUYS_GITHUB_IMMA_OUT](https://github.com/upend/IF_MS_BUYS_GITHUB_IMMA_OUT) - GitHub has sold us out. Time to get out.
