@@ -508,6 +508,7 @@
 
 ## Go 
 
+- [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 - [subutai-io/p2p](https://github.com/subutai-io/p2p) - P2P Cloud project allows users to build their private networks.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -987,7 +988,6 @@
 - [celrenheit/sandflake](https://github.com/celrenheit/sandflake) - Decentralized, sequential, lexicographically sortable unique id
 - [txthinking/nami](https://github.com/txthinking/nami) - A clean and tidy decentralized package manager.
 - [xiam/shooter-server](https://github.com/xiam/shooter-server) - shooter.io is a network based multiplayer space shooter game.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [anaseto/harmonist](https://github.com/anaseto/harmonist) - Harmonist: Dayoriah Clan Infiltration is a stealth roguelike game.
 - [anaseto/boohu](https://github.com/anaseto/boohu) - Break Out Of Hareka's Underground, a roguelike game.
 - [RookieGameDevs/surviveler](https://github.com/RookieGameDevs/surviveler) - RPG survival game in which ordinary developers struggle for they lives in most idiotic ways.
@@ -1759,6 +1759,7 @@
 - [macromorgan/chip-debroot](https://github.com/macromorgan/chip-debroot) - 
 - [AuraOS/AuraOS](https://github.com/AuraOS/AuraOS) - An advanced FreeDOS-based Live CD.
 - [marek22k/php-i2pseed](https://github.com/marek22k/php-i2pseed) - 
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [diva-exchange/i2p](https://github.com/diva-exchange/i2p) - I2P Layer of diva.exchange. Based on i2pd, see https://github.com/PurpleI2P/i2pd
 - [diafygi/webrtc-chat](https://github.com/diafygi/webrtc-chat) - Encrypted P2P Chat Demo: https://diafygi.github.io/webrtc-chat/
