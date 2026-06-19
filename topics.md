@@ -197,6 +197,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
@@ -278,7 +279,7 @@
 ## ai 
 
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app: chat, agent mode, image gen, video gen. Runs fully offline with your LLM provider. Single .exe, no Docker.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
@@ -2505,7 +2506,7 @@
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app: chat, agent mode, image gen, video gen. Runs fully offline with your LLM provider. Single .exe, no Docker.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [promptslab/openai-detector](https://github.com/promptslab/openai-detector) - AI classifier for indicating AI-written text
 
@@ -3472,7 +3473,7 @@
 - [sammacbeth/dat-fox](https://github.com/sammacbeth/dat-fox) - dat:// protocol as a Firefox webextension
 - [mwarning/dat-c](https://github.com/mwarning/dat-c) - A hobby implementation of the dat protocol in C
 - [matrix-org/libp2p-proxy](https://github.com/matrix-org/libp2p-proxy) - A p2p transport shim for p2p matrix.
-- [peektism/monetary-futarchy](https://github.com/peektism/monetary-futarchy) - a series of runtime upgrade proposals for Polkadot's monetary policy
+- [goozang-records/monetary-futarchy](https://github.com/goozang-records/monetary-futarchy) - a series of runtime upgrade proposals for Polkadot's monetary policy
 - [gokyle/sshcrypt](https://github.com/gokyle/sshcrypt) - Encrypt files using Cryptobox and SSH keys.
 - [kirushik/full-banana](https://github.com/kirushik/full-banana) - Banana Split counterpart without any Shamir scheme
 - [kirushik/polkadot-wiki](https://github.com/kirushik/polkadot-wiki) - The Polkadot wiki.
@@ -4563,7 +4564,7 @@
 
 ## privacy 
 
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app: chat, agent mode, image gen, video gen. Runs fully offline with your LLM provider. Single .exe, no Docker.
 - [kn0sys/i2nix](https://github.com/kn0sys/i2nix) - i2nix is a security-focused Linux operating system designed to route all network connections through the I2P anonymity network. It follows the isolation principles of Whonix®
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [kn0sys/j4-i2p-rs](https://github.com/kn0sys/j4-i2p-rs) - Java for I2P Rust wrapper
@@ -4778,7 +4779,7 @@
 
 ## react 
 
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app: chat, agent mode, image gen, video gen. Runs fully offline with your LLM provider. Single .exe, no Docker.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [mozilla/addons-frontend](https://github.com/mozilla/addons-frontend) - Front-end to complement mozilla/addons-server
 - [EffectiveAF/effective](https://github.com/EffectiveAF/effective) - Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [
@@ -4814,6 +4815,16 @@
 - [EffectiveAF/effective](https://github.com/EffectiveAF/effective) - Effective: end-to-end encrypted project management for activists and human rights organizations. Making activists 10x more powerful via ultra effective communities of action and autonomous software. [
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
+
+## redteam 
+
+- [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
+- [mesuutt/sherlock](https://github.com/mesuutt/sherlock) - :mag_right: Find usernames across social networks
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [brimstone/go-shellcode](https://github.com/brimstone/go-shellcode) - Load shellcode into a new process
 
 ## redux 
 
@@ -5057,7 +5068,7 @@
 
 ## self-hosted 
 
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app: chat, agent mode, image gen, video gen. Runs fully offline with your LLM provider. Single .exe, no Docker.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
@@ -5296,7 +5307,7 @@
 ## typescript 
 
 - [Undertaker-afk/i2p-node](https://github.com/Undertaker-afk/i2p-node) - I2P Deamon / router in nodejs (typescript)
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app: chat, agent mode, image gen, video gen. Runs fully offline with your LLM provider. Single .exe, no Docker.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
