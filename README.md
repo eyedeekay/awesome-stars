@@ -2763,7 +2763,7 @@
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [bnewbold/geniza](https://github.com/bnewbold/geniza) - hobby implementation of dat in rust
-- [peektism/monetary-futarchy](https://github.com/peektism/monetary-futarchy) - a series of runtime upgrade proposals for Polkadot's monetary policy
+- [goozang-records/monetary-futarchy](https://github.com/goozang-records/monetary-futarchy) - a series of runtime upgrade proposals for Polkadot's monetary policy
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
 - [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, the Mozilla Firefox implementation of QUIC in Rust
@@ -2999,7 +2999,7 @@
 ## TypeScript 
 
 - [Undertaker-afk/i2p-node](https://github.com/Undertaker-afk/i2p-node) - I2P Deamon / router in nodejs (typescript)
-- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app — chat, agent mode, image gen, video gen. Supports Ollama, Gemma 4, Llama, Qwen, OpenAI, Anthropic. Single .exe, no Docker.
+- [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Local AI desktop app: chat, agent mode, image gen, video gen. Runs fully offline with your LLM provider. Single .exe, no Docker.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Myzel394/destroyerr](https://github.com/Myzel394/destroyerr) - Ensure integrity for mission-critical systems
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
