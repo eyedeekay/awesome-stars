@@ -1314,6 +1314,7 @@
 
 ## go 
 
+- [RogueTeam/textiplex](https://github.com/RogueTeam/textiplex) - A high-performance, low-memory full-text search engine written in Go
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [misha-ssh/cli](https://github.com/misha-ssh/cli) - 💻  Misha - tui ssh client
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
@@ -1590,6 +1591,7 @@
 
 ## golang 
 
+- [RogueTeam/textiplex](https://github.com/RogueTeam/textiplex) - A high-performance, low-memory full-text search engine written in Go
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [cloudflare/circl](https://github.com/cloudflare/circl) - CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
@@ -2395,6 +2397,7 @@
 
 ## library 
 
+- [RogueTeam/textiplex](https://github.com/RogueTeam/textiplex) - A high-performance, low-memory full-text search engine written in Go
 - [theimpossibleastronaut/php-sam](https://github.com/theimpossibleastronaut/php-sam) - Basic SAMv3 implementation for I2P in PHP
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [jupnp/jupnp](https://github.com/jupnp/jupnp) - UPnP/DLNA library for Java
