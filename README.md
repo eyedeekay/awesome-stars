@@ -508,6 +508,7 @@
 
 ## Go 
 
+- [RogueTeam/textiplex](https://github.com/RogueTeam/textiplex) - A high-performance, low-memory full-text search engine written in Go
 - [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 - [subutai-io/p2p](https://github.com/subutai-io/p2p) - P2P Cloud project allows users to build their private networks.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
