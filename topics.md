@@ -4187,7 +4187,7 @@
 - [residualvm/residualvm](https://github.com/residualvm/residualvm) - ResidualVM main repository
 - [zenhotels/astranet](https://github.com/zenhotels/astranet) - A Go (golang) library for managing highly concurrent independent network streams.
 - [tattwamasii2p/libi2pdhtcpp](https://github.com/tattwamasii2p/libi2pdhtcpp) - Work in progress. Extracting a reusable DHT over I2P implementation from I2P Bote and porting it from Java to C++.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [ptresearch/mmdetect](https://github.com/ptresearch/mmdetect) - Intel ME Manufacturing Mode Detection Tools
 - [Netflix/signal-wrapper](https://github.com/Netflix/signal-wrapper) - 
 - [chertov/camopenwrt_docker](https://github.com/chertov/camopenwrt_docker) - 
