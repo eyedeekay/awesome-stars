@@ -136,6 +136,7 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -2397,6 +2398,12 @@
 - [wspl/creeper](https://github.com/wspl/creeper) - :paw_prints: Creeper - The Next Generation Crawler Framework (Go)
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+## learn-to-code 
+
+- [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 
 ## learning 
 
