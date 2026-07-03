@@ -766,7 +766,7 @@
 
 ## computer-vision 
 
-- [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removal Toolkit - Open Source and API Models
+- [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - Python SDK for local and cloud background removal (pip install withoutbg)
 - [VideoForensics/motionHistoryForensics](https://github.com/VideoForensics/motionHistoryForensics) - 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
@@ -2167,7 +2167,7 @@
 
 ## image-processing 
 
-- [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg) - Image Background Removal Toolkit - Open Source and API Models
+- [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) - Python SDK for local and cloud background removal (pip install withoutbg)
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
