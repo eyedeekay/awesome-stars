@@ -40,6 +40,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -224,7 +225,6 @@
 - [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
 - [swift](#swift)
-- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
@@ -657,6 +657,10 @@
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [guerrerocarlos/WikipediaP2P](https://github.com/guerrerocarlos/WikipediaP2P) - WikipediaP2P.org Chrome Extension
+
+## claude 
+
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 ## claude-code 
 
@@ -4311,7 +4315,6 @@
 - [openelections/openelections-sources-wv](https://github.com/openelections/openelections-sources-wv) - Source data for West Virginia results
 - [openelections/openelections-results-wv](https://github.com/openelections/openelections-results-wv) - Raw results for West Virginia elections
 - [openelections/openelections-data-wv](https://github.com/openelections/openelections-data-wv) - Converted CSVs of West Virginia election results
-- [JesseHerrick/ohio](https://github.com/JesseHerrick/ohio) - :us: :newspaper: Track the legislative activities of the Ohio General Assembly.
 - [openelections/openelections-data-oh](https://github.com/openelections/openelections-data-oh) - Pre-processed election results from Ohio
 - [andyburke/UnityHTTP](https://github.com/andyburke/UnityHTTP) - A TcpClient-based HTTP library for Unity.
 - [glouw/littlewolf](https://github.com/glouw/littlewolf) - A tiny software graphics and game engine
@@ -5206,10 +5209,6 @@
 ## swift 
 
 - [OperatorFoundation/shapeshifter-transports](https://github.com/OperatorFoundation/shapeshifter-transports) - Shapeshifter Transports is a set of Pluggable Transports implementing the Go API from the Pluggable Transports 2.0 specification
-
-## tailwindcss 
-
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 
 ## telegram 
 
