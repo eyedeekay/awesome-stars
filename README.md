@@ -491,7 +491,6 @@
 
 - [MilosMosovsky/terminator](https://github.com/MilosMosovsky/terminator) - 🛡 Modern elixir ACL/ABAC library for managing granular user abilities and permissions
 - [DeadSuperHero/postmodern](https://github.com/DeadSuperHero/postmodern) - A federated article platform for journalists, powered by ActivityPub
-- [JesseHerrick/ohio](https://github.com/JesseHerrick/ohio) - :us: :newspaper: Track the legislative activities of the Ohio General Assembly.
 
 ## Elm 
 
