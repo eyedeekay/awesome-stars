@@ -2356,7 +2356,6 @@
 - [uradotdesign/works](https://github.com/uradotdesign/works) - The repo containing the assets for every project designed by Ura
 - [ZeroCoinOrganization/ZeroVerify](https://github.com/ZeroCoinOrganization/ZeroVerify) - Directory with trust points and name badges for ZeroNet users.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [signedbytes/Awesome-Hacking](https://github.com/signedbytes/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Xe/crowley](https://github.com/Xe/crowley) - A HTTP router built to scale
@@ -2588,6 +2587,7 @@
 - [mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [ashutosh1206/Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges f
 - [majestrate/syndie_python](https://github.com/majestrate/syndie_python) - Python implementation of Syndie
