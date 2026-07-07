@@ -112,7 +112,6 @@
 
 ## Batchfile 
 
-- [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [yshalsager/MSM8225-TWRP-Porter](https://github.com/yshalsager/MSM8225-TWRP-Porter) - TWRP Recovery Port Tool For Qualcomm Devices
 - [TheCyberViking/Facebook_OSINT_Dump](https://github.com/TheCyberViking/Facebook_OSINT_Dump) - A Windows Tool for doing OSINT investigations on a Facebook Profile
 
@@ -2497,6 +2496,7 @@
 - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
 - [elimisteve/police-brutality](https://github.com/elimisteve/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
 - [natlas/natlas](https://github.com/natlas/natlas) - Attack Surface Management since before Attack Surface Management was a thing
+- [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [ruoti/blockchain-simulation-framework](https://github.com/ruoti/blockchain-simulation-framework) - Simulation framework for blockchains
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
