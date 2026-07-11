@@ -1307,6 +1307,7 @@
 
 ## github 
 
+- [0xarchit/github-profile-analyzer](https://github.com/0xarchit/github-profile-analyzer) - AI Powered Github Profile analyzer or analyser and reviewer tool. Gives review based on first 100 repos and only includes those forks in which user has contributions to avoid fake results | #1 Profile
 - [posener/goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Now available as a Github action!
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [gkze/gh-stars](https://github.com/gkze/gh-stars) - :star: Keep your Github Stars fresh!
@@ -2025,6 +2026,7 @@
 
 ## hacktoberfest 
 
+- [0xarchit/github-profile-analyzer](https://github.com/0xarchit/github-profile-analyzer) - AI Powered Github Profile analyzer or analyser and reviewer tool. Gives review based on first 100 repos and only includes those forks in which user has contributions to avoid fake results | #1 Profile
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
