@@ -182,7 +182,6 @@
 - [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [AlexAltea/orbital](https://github.com/AlexAltea/orbital) - Experimental PlayStation 4 emulator.
 - [scwuaptx/HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
-- [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
 - [mist64/cbmsrc](https://github.com/mist64/cbmsrc) - Original source code of various Commodore computers and peripherals.
 - [bazad/rootsh](https://github.com/bazad/rootsh) - Local privilege escalation for OS X 10.10.5 via CVE-2016-1828.
 - [Konstantin8105/c4go](https://github.com/Konstantin8105/c4go) - Transpiling C code to Go code
@@ -365,6 +364,7 @@
 - [vmon/i2pouiservice](https://github.com/vmon/i2pouiservice) - implements ouiservice and ouiconnection for ouinet
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [plexinc/plex-media-player](https://github.com/plexinc/plex-media-player) - Next generation Plex Desktop/Embedded Client
+- [turanszkij/WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
 - [tini2p-project/tini2p](https://github.com/tini2p-project/tini2p) - Minimal C++ I2P library
 - [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
 - [tini2p/tini2p](https://github.com/tini2p/tini2p) - Minimal C++ I2P router
