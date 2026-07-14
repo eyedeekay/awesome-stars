@@ -2131,7 +2131,7 @@
 - [thestrukture/IDE](https://github.com/thestrukture/IDE) - A Go code editor. With debugging and Autocomplete. 一个 Go 代码编辑器，具有 DEBUGGING 和 AUTOCOMPLETE
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-- [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
+- [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - Extended HTML
 - [Joker/hpp](https://github.com/Joker/hpp) - HTML Pretty Print for Go (golang)
 - [myrtille-rdp/myrtille](https://github.com/myrtille-rdp/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -5468,7 +5468,7 @@
 
 ## web-components 
 
-- [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
+- [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - Extended HTML
 
 ## web3 
 
