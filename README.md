@@ -2023,7 +2023,7 @@
 - [subins2000/p2pt](https://github.com/subins2000/p2pt) - Use free public WebTorrent trackers as signalling servers for WebRTC apps! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
 - [idena-network/idena-desktop](https://github.com/idena-network/idena-desktop) - Idena Desktop client for Windows, Mac, and Linux
 - [AnnalisaDB/family-tree](https://github.com/AnnalisaDB/family-tree) - The "family-tree" project is a web page which allows user to create, manage, upload and download family trees in JSON, SVG or PNG formats.
-- [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
+- [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - Extended HTML
 - [ssbc/patchbay](https://github.com/ssbc/patchbay) - An alternative Secure Scuttlebutt client interface that is fully compatible with Patchwork
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [siratama/Flash-To-Haxe-Converter](https://github.com/siratama/Flash-To-Haxe-Converter) - 
